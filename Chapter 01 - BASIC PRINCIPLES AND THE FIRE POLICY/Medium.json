@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the purpose of the 'Pro Rata Average' condition in fire insurance?",
+        "options": [
+            "To penalize under-insurance",
+            "To determine depreciation rates",
+            "To refund excess premium",
+            "To allow higher claims for under-insured properties"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the reinstatement clause in fire insurance NOT include?",
+        "options": [
+            "Reinstating property to pre-fire condition",
+            "Exact duplication of the original property",
+            "Cost of reinstating property within the sum insured",
+            "Furnishing plans and details at insured's expense"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of the principle of indemnity?",
+        "options": [
+            "To allow profits from insurance claims",
+            "To ensure financial recovery without overcompensation",
+            "To simplify premium calculations",
+            "To guarantee claim settlement within 7 days"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is 'market value' determined for insurance purposes?",
+        "options": [
+            "Original purchase price",
+            "Current replacement cost minus depreciation",
+            "Book value in accounts",
+            "Reinstatement cost without depreciation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "When does insurable interest in fire insurance cease?",
+        "options": [
+            "At the time of loss",
+            "When the policy is transferred without consent",
+            "When the property value depreciates",
+            "Upon receiving a claim payment"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the consequence of a breach of utmost good faith in fire insurance?",
+        "options": [
+            "Automatic claim rejection",
+            "Policy becomes void or voidable",
+            "Mandatory premium adjustments",
+            "Policy is transferred to the insurer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following is covered under a standard fire policy?",
+        "options": [
+            "Damage by forest fire",
+            "Loss due to spontaneous combustion",
+            "Damage by fire caused by lightning",
+            "Loss of earnings due to fire"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the 'Agreed Value' method used for in fire insurance?",
+        "options": [
+            "Determining values for heritage or obsolete properties",
+            "Calculating premiums based on depreciation",
+            "Estimating the book value of stocks",
+            "Determining sums insured for raw materials"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of the Arbitration Clause in fire insurance?",
+        "options": [
+            "To enforce liability disputes",
+            "To resolve disputes regarding claim amounts",
+            "To validate policy conditions",
+            "To adjust premium calculations"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is NOT covered under standard fire insurance exclusions?",
+        "options": [
+            "Loss due to theft",
+            "Damage by nuclear risks",
+            "Loss caused by pollution",
+            "Damage by fire from riot"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which type of damage is excluded unless an add-on cover is purchased?",
+        "options": [
+            "Impact by own vehicles",
+            "Damage from natural disasters",
+            "Damage caused by negligence",
+            "Damage from missile operations"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the principle of subrogation imply for the insured?",
+        "options": [
+            "Full rights over salvage",
+            "Transfer of recovery rights to the insurer after indemnity",
+            "Sharing of claim amounts with other insurers",
+            "Option to abandon damaged property"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the 'Duty of Disclosure' under fire insurance?",
+        "options": [
+            "Disclosing financial losses post-claim",
+            "Revealing all material facts affecting the policy",
+            "Providing detailed property valuations",
+            "Submitting claims within 30 days"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "When does the right of contribution apply in fire insurance?",
+        "options": [
+            "When more than one policy covers the same property",
+            "When the insured is under-insured",
+            "When the property is sold to a new owner",
+            "When the claim is disputed by the insurer"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How is reinstatement value different from market value?",
+        "options": [
+            "It excludes depreciation",
+            "It is always lower than market value",
+            "It considers book value of the property",
+            "It includes future property appreciation"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the 'Material Alteration Condition' in fire insurance?",
+        "options": [
+            "Premium adjustment clause",
+            "Requirement to notify changes increasing risk",
+            "Insured's duty to minimize loss",
+            "Penalty for under-insurance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following perils is explicitly excluded in fire insurance?",
+        "options": [
+            "Riot damage",
+            "Forest fire",
+            "Aircraft damage",
+            "Explosion"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What happens if a fire policy is under-insured?",
+        "options": [
+            "The claim amount is unaffected",
+            "Pro-rata average condition applies",
+            "The policy is terminated",
+            "Excess premium is refunded"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the role of the 'Operative Clause' in a fire insurance policy?",
+        "options": [
+            "Defines the insured parties and perils covered",
+            "Provides exclusions for specific damages",
+            "Specifies the premium payment details",
+            "Explains the arbitration process"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is included under 'Impact Damage' in fire insurance?",
+        "options": [
+            "Damage by vehicles owned by the insured",
+            "Damage by vehicles not owned by the insured",
+            "Damage by forest fire",
+            "Damage by high-pressure machinery"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the difference between market value and book value?",
+        "options": [
+            "Market value considers depreciation; book value uses original cost",
+            "Market value is based on intrinsic depreciation; book value includes tax depreciation",
+            "Book value is always lower than market value",
+            "Both values are identical in fire insurance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of the 'Right of Entry' condition?",
+        "options": [
+            "To allow the insured to inspect the insurer\u2019s property",
+            "To allow insurers to enter premises and assess loss",
+            "To permit the insured to abandon damaged property",
+            "To allow insurers to reject fraudulent claims"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What type of losses are covered under the Consequential Loss (Fire) Policy?",
+        "options": [
+            "Material damage caused by fire",
+            "Loss of profits and increased costs of working",
+            "Loss caused by negligence",
+            "Damage caused by nuclear risks"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which peril is typically covered as an add-on in fire insurance?",
+        "options": [
+            "Subsidence and landslide",
+            "Earthquake",
+            "Forest fire",
+            "All of the above"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is excluded under the policy\u2019s general exclusions?",
+        "options": [
+            "Loss caused by electrical fire",
+            "Loss caused by theft during fire",
+            "Loss caused by war risks",
+            "Loss caused by negligence"
+        ],
+        "correctIndex": 2
+    }
+]

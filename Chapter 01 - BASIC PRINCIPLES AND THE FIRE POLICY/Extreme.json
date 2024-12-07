@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the primary purpose of the 'Marine Clause' in fire insurance policies?",
+        "options": [
+            "To exclude damage during marine transit",
+            "To ensure fire policies cover marine risks",
+            "To limit coverage to excess beyond marine policy liabilities",
+            "To integrate fire and marine policy coverage seamlessly"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Under the 'Arbitration Clause,' when is arbitration not applicable?",
+        "options": [
+            "When there is a dispute over quantum of claim",
+            "When liability under the policy is denied",
+            "When both parties cannot agree on an arbitrator",
+            "When the claim amount is less than INR 10,000"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How does the 'Subrogation Clause' protect insurers in fire policies?",
+        "options": [
+            "By transferring all legal claims to the insurer post-indemnity",
+            "By limiting the insurer's liability to actual loss",
+            "By excluding third-party liabilities from claims",
+            "By allowing the insurer to adjust premium post-claim"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which type of property requires 'Agreed Value' coverage?",
+        "options": [
+            "Heritage buildings and rare artworks",
+            "Finished goods and raw materials",
+            "Standard residential properties",
+            "Properties where depreciation is not material"
+        ],
+        "correctIndex": 0
+    }
+]

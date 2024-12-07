@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the principle of insurable interest?",
+        "options": [
+            "The right to profit from insurance claims",
+            "The legal right to insure arising from a pecuniary relationship",
+            "The ability to transfer policy ownership without consent",
+            "The act of withholding information from the insurer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which principle requires the insured to disclose all material facts?",
+        "options": [
+            "Principle of Contribution",
+            "Principle of Indemnity",
+            "Principle of Utmost Good Faith",
+            "Principle of Subrogation"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Fire insurance policies are contracts of _______.",
+        "options": [
+            "Profit",
+            "Indemnity",
+            "Wagering",
+            "Investment"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the principle of indemnity ensure?",
+        "options": [
+            "The insured profits from the loss",
+            "The insured is placed in the same financial position as before the loss",
+            "The insurer takes over all responsibilities of the insured",
+            "The policy is transferable automatically"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause in fire policies allows coverage of damage caused by fire-fighting operations?",
+        "options": [
+            "Material Damage Clause",
+            "Salvage Clause",
+            "Operative Clause",
+            "Reinstatement Value Clause"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the duty of utmost good faith in fire insurance?",
+        "options": [
+            "To disclose all material facts",
+            "To conceal facts that may increase premiums",
+            "To waive all rights of claim",
+            "To transfer the policy freely"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which value considers depreciation in fire insurance claims?",
+        "options": [
+            "Reinstatement Value",
+            "Market Value",
+            "Book Value",
+            "Agreed Value"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Who must have an insurable interest in the property insured?",
+        "options": [
+            "The insurer",
+            "The insured",
+            "The insurance agent",
+            "The government"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which principle transfers the insured's recovery rights to the insurer after a claim?",
+        "options": [
+            "Principle of Contribution",
+            "Principle of Indemnity",
+            "Principle of Subrogation",
+            "Principle of Utmost Good Faith"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of the reinstatement value in fire insurance?",
+        "options": [
+            "To deduct depreciation",
+            "To replace damaged property without deducting depreciation",
+            "To evaluate the book value of assets",
+            "To settle claims in cash only"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is excluded in fire insurance unless explicitly covered?",
+        "options": [
+            "Fire caused by natural disasters",
+            "Loss caused by war or civil commotion",
+            "Damage caused by firefighting water",
+            "Destruction caused by lightning"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 'Pro Rata Average' in fire insurance?",
+        "options": [
+            "Full payment of the sum insured",
+            "Reduction in claim amount due to under-insurance",
+            "Guaranteed premium refunds",
+            "Excess payment by the insured"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which document formalizes the insured's declarations in fire insurance?",
+        "options": [
+            "Proposal Form",
+            "Policy Schedule",
+            "Claim Form",
+            "Indemnity Agreement"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is required for fire insurance contracts under the Indian Contract Act, 1872?",
+        "options": [
+            "Legal competence of parties",
+            "Agreement without consideration",
+            "Unwritten agreements",
+            "Verbal approvals"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which risk is NOT typically covered in standard fire insurance?",
+        "options": [
+            "Lightning",
+            "Riot or strike",
+            "Earthquake",
+            "Aircraft damage"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 'Agreed Value' in fire insurance?",
+        "options": [
+            "Value based on depreciation",
+            "Market value of property",
+            "Pre-determined value for unique assets",
+            "The original purchase price"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What are the types of perils covered under fire insurance?",
+        "options": [
+            "Social, natural, and miscellaneous perils",
+            "Natural and unavoidable perils",
+            "Economic and social risks",
+            "Unknown and unforeseeable risks"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Who decides the sum insured in fire insurance?",
+        "options": [
+            "The insurer",
+            "The insured",
+            "The surveyor",
+            "The government"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is subrogation in insurance?",
+        "options": [
+            "Transferring the policy to a new owner",
+            "The insurer acquiring the insured's recovery rights",
+            "Adjusting the premium amount",
+            "Combining two policies into one"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is excluded under the 'Electrical Risks Exclusion' clause?",
+        "options": [
+            "Damage caused by fire",
+            "Loss due to short-circuit",
+            "Fire caused by arcing",
+            "Damage due to firefighting"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary objective of fire insurance?",
+        "options": [
+            "To make profit",
+            "To protect against loss or damage by fire",
+            "To reduce premiums",
+            "To increase market value"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which principle ensures the insured can recover a rateable proportion of the loss?",
+        "options": [
+            "Principle of Indemnity",
+            "Principle of Subrogation",
+            "Principle of Contribution",
+            "Principle of Utmost Good Faith"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is an add-on cover in fire insurance?",
+        "options": [
+            "Compulsory cover",
+            "Coverage for excluded risks at extra premium",
+            "Coverage for legal disputes",
+            "Coverage without additional cost"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the function of the Arbitration Clause in fire insurance?",
+        "options": [
+            "To settle disputes about policy validity",
+            "To address disputes about claim amounts",
+            "To ensure coverage for all damages",
+            "To enable direct cash payments"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which peril is explicitly covered under standard fire insurance?",
+        "options": [
+            "Nuclear risks",
+            "Riot and strike damage",
+            "Forest fire",
+            "Earthquake"
+        ],
+        "correctIndex": 1
+    }
+]

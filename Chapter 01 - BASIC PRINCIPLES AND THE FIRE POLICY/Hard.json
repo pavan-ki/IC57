@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What does the term 'Pro Rata Average Condition' specifically penalize?",
+        "options": [
+            "Over-insurance by the insured",
+            "Under-insurance by the insured",
+            "Misrepresentation by the insurer",
+            "Failure to disclose material facts"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Under the 'Material Alteration Condition,' which scenario causes the insurance to cease?",
+        "options": [
+            "Property insured by more than one policy",
+            "A change increasing the risk of loss without notifying the insurer",
+            "Insurable interest transfer through legal proceedings",
+            "Temporary unoccupancy for maintenance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How does the 'Agreed Bank Clause' protect the bank's insurable interest?",
+        "options": [
+            "By naming the bank as the sole beneficiary",
+            "By ensuring insurance is granted jointly to the owner and the bank",
+            "By allowing the bank to claim irrespective of loss conditions",
+            "By exempting the bank from premium payments"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the main difference between reinstatement value and book value?",
+        "options": [
+            "Reinstatement value accounts for depreciation, book value does not",
+            "Book value is derived from accounting records, reinstatement value reflects current replacement cost",
+            "Book value is always higher than reinstatement value",
+            "Reinstatement value applies only to obsolete properties"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the implication of the 'Fraud Condition' in fire insurance?",
+        "options": [
+            "Fraudulent claims result in reduced indemnity",
+            "Any fraudulent act voids the policy",
+            "Fraudulent claims are settled at the insurer's discretion",
+            "Fraudulent claims lead to immediate premium increases"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is required for the principle of subrogation to be enforceable?",
+        "options": [
+            "The insured must refuse a claim settlement",
+            "The insurer must indemnify the insured",
+            "The insured must transfer all property rights",
+            "The insurer must seek a court order"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of the Fire Tariff as outlined in Chapter 1?",
+        "options": [
+            "To ensure standard premium rates for all policies",
+            "To provide guidelines for clauses, warranties, and policy wording",
+            "To establish competitive pricing among insurers",
+            "To define government subsidies for fire insurance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'Right of Entry' condition allow insurers to do?",
+        "options": [
+            "Abandon claims deemed fraudulent",
+            "Inspect and salvage damaged property",
+            "Modify the policy terms unilaterally",
+            "Reject claims based on their discretion"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which peril is explicitly excluded unless an additional premium is paid?",
+        "options": [
+            "Earthquake",
+            "Lightning",
+            "Aircraft damage",
+            "Explosion"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the principle of contribution ensure in fire insurance?",
+        "options": [
+            "A single policy covers all damages",
+            "Rateable distribution of loss across multiple policies",
+            "The insurer gains rights over the insured\u2019s assets",
+            "Claims are settled within a fixed timeframe"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'Terrorism Damage Exclusion Warranty' specify?",
+        "options": [
+            "All terrorism-related losses are excluded",
+            "Terrorism losses are covered without additional premium",
+            "Exclusions apply only to property damage",
+            "Insured can claim if a terrorism rider is included"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following is an example of 'miscellaneous perils' in fire insurance?",
+        "options": [
+            "Flood",
+            "Riot",
+            "Aircraft damage",
+            "Spontaneous combustion"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Average Clause' aim to achieve in fire insurance?",
+        "options": [
+            "Reward for accurate sum insured",
+            "Fair claim payment in case of under-insurance",
+            "Penalty for not providing policy details",
+            "Refund of premiums in over-insurance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What happens to a fire insurance policy upon the death of the insured?",
+        "options": [
+            "It becomes void automatically",
+            "It is transferred to legal heirs or trustees",
+            "The insurer cancels the policy immediately",
+            "Claims are settled without any conditions"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is explicitly excluded under the Electrical Risks Exclusion Clause?",
+        "options": [
+            "Fire caused by electrical short-circuits",
+            "Damage caused to electrical machinery by short-circuits",
+            "Loss caused by firefighting operations",
+            "Damage to stock stored near electrical equipment"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which principle ensures the insurer does not pay for avoidable negligence?",
+        "options": [
+            "Principle of Utmost Good Faith",
+            "Principle of Subrogation",
+            "Principle of Contribution",
+            "Principle of Indemnity"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What happens if a material alteration is not reported to the insurer?",
+        "options": [
+            "The policy remains unaffected",
+            "The policy may be voided or claims denied",
+            "The insurer automatically adjusts the premium",
+            "The insured is required to pay penalties"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What distinguishes reinstatement value from other valuation methods?",
+        "options": [
+            "It considers book value and depreciation",
+            "It excludes depreciation and offers better indemnity",
+            "It applies only to rare or heritage properties",
+            "It provides lower claim amounts than market value"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these does the standard fire policy explicitly cover?",
+        "options": [
+            "Loss caused by war risks",
+            "Damage due to riot and strike",
+            "Loss of profits from business interruption",
+            "Nuclear damage caused by explosion"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause requires the insured to mitigate property damage during a fire?",
+        "options": [
+            "Subrogation Clause",
+            "Duty to Insured Clause",
+            "Material Damage Clause",
+            "Operative Clause"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which document serves as the foundation of an insurance contract?",
+        "options": [
+            "Claim Form",
+            "Proposal Form",
+            "Policy Schedule",
+            "Insurance Act"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is NOT a condition to make a fire insurance contract enforceable under law?",
+        "options": [
+            "Offer and acceptance",
+            "Legal competence of parties",
+            "Immediate claim settlement",
+            "Consideration and agreement"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What must be disclosed during a fire insurance policy's currency?",
+        "options": [
+            "All property purchases by the insured",
+            "Material alterations affecting the insured risk",
+            "Changes in premium rates",
+            "Market value fluctuations"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of the 'Debris Removal Clause'?",
+        "options": [
+            "To reimburse cleanup costs post-fire damage",
+            "To cover damage caused by debris on other properties",
+            "To exclude debris removal from claims",
+            "To include cleanup costs in premium refunds"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which type of insurance is used for profit loss due to fire?",
+        "options": [
+            "Material Damage Policy",
+            "Consequential Loss Policy",
+            "Reinstatement Value Policy",
+            "Miscellaneous Risks Policy"
+        ],
+        "correctIndex": 1
+    }
+]
