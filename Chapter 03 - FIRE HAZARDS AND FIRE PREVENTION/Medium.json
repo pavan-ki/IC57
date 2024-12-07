@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the primary fire hazard associated with the accumulation of combustible materials?",
+        "options": [
+            "It acts as fuel for fire spread",
+            "It reduces air circulation",
+            "It damages building foundations",
+            "It blocks access to exits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor most influences the 'fire load' of a building?",
+        "options": [
+            "The type and quantity of combustible materials present",
+            "The height of the building",
+            "The number of exits",
+            "The presence of sprinklers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can hazards caused by electrical equipment be effectively controlled?",
+        "options": [
+            "By regular inspection and maintenance",
+            "By reducing electrical usage",
+            "By using underground cabling",
+            "By avoiding high-voltage systems"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary risk associated with poor ventilation in fire-prone areas?",
+        "options": [
+            "Accumulation of heat and flammable vapors",
+            "Increased moisture in the air",
+            "Reduced air circulation",
+            "Difficulty in accessing fire exits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of fireproof partitions in multi-storied buildings?",
+        "options": [
+            "Preventing fire from spreading horizontally",
+            "Reducing structural collapse",
+            "Directing fire to designated zones",
+            "Providing easy access for firefighters"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which roofing material has the least fire resistance?",
+        "options": [
+            "Thatched roofs",
+            "Concrete roofs",
+            "Metal sheet roofs",
+            "Glass roofs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary fire hazard associated with hot work activities like welding?",
+        "options": [
+            "Sparks and heat generation can ignite nearby combustibles",
+            "It weakens the building structure",
+            "It produces toxic fumes",
+            "It consumes high amounts of oxygen"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why are vertical openings in buildings considered significant fire hazards?",
+        "options": [
+            "They facilitate rapid upward fire spread",
+            "They increase air circulation",
+            "They block escape routes",
+            "They reduce the effectiveness of fire-resistant walls"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the most effective measure to minimize fire spread in storied buildings?",
+        "options": [
+            "Providing fire-resistant staircases and doors",
+            "Installing open ventilation systems",
+            "Using glass partitions",
+            "Blocking unused floors"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary hazard of smoking in fire-prone areas?",
+        "options": [
+            "Discarded cigarette ends can ignite flammable materials",
+            "Smoking reduces oxygen levels",
+            "Smoking causes structural weakening",
+            "Cigarette ash increases combustible litter"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main purpose of the mutual aid scheme?",
+        "options": [
+            "To share fire-fighting resources among industrial units",
+            "To provide financial assistance during fire losses",
+            "To mandate common fire safety standards",
+            "To reduce fire insurance premiums collectively"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a key requirement for effective fire detection systems?",
+        "options": [
+            "They must detect fire at an early stage",
+            "They must operate in high humidity areas",
+            "They must be manually operated",
+            "They must be installed only in warehouses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary function of fire hydrants in fire safety?",
+        "options": [
+            "Providing a reliable water source for fire extinguishment",
+            "Preventing fire spread within buildings",
+            "Detecting fire at early stages",
+            "Isolating combustible materials"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which extinguisher type is most effective for flammable liquid fires?",
+        "options": [
+            "Foam extinguishers",
+            "Carbon dioxide extinguishers",
+            "Water extinguishers",
+            "Dry powder extinguishers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can fire hazards in electrical systems be minimized?",
+        "options": [
+            "By using overload protection devices",
+            "By keeping systems operational at all times",
+            "By reducing system voltage",
+            "By using multiple connection points"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of fire-resistant staircases?",
+        "options": [
+            "They provide safe evacuation routes during fires",
+            "They reduce the vertical spread of fire",
+            "They prevent the accumulation of smoke",
+            "They enhance the building's structural integrity"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the key principle of good housekeeping in fire prevention?",
+        "options": [
+            "Regularly removing combustible waste",
+            "Storing goods near fire exits",
+            "Using non-combustible partitions",
+            "Maintaining open ventilation systems"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a common hazard when storing hazardous goods?",
+        "options": [
+            "Ignition and rapid fire spread",
+            "Exposure to moisture",
+            "Reduced structural strength",
+            "Loss of insurance coverage"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the term 'fire resistance' in materials refer to?",
+        "options": [
+            "The duration a material can withstand fire before failing",
+            "The ability of a material to extinguish fire",
+            "The amount of heat absorbed by the material",
+            "The ease of repairing fire-damaged material"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can the risk of spontaneous combustion be minimized?",
+        "options": [
+            "By ensuring proper ventilation and handling practices",
+            "By using flame-retardant materials",
+            "By reducing the size of storage areas",
+            "By limiting the use of electrical equipment"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the most effective way to handle flammable liquids in a factory?",
+        "options": [
+            "Storing them in closed, approved containers",
+            "Keeping them near exits for easy removal",
+            "Diluting them with water to reduce flammability",
+            "Storing them in open containers for easy access"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor contributes most to fire spread in storied buildings?",
+        "options": [
+            "Unprotected vertical openings",
+            "Lack of fire alarms",
+            "Presence of glass walls",
+            "Use of non-flammable materials"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a key feature of effective fire detection systems?",
+        "options": [
+            "They provide early warning to occupants",
+            "They are installed in every room",
+            "They are heat-activated only",
+            "They operate without electricity"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does a mutual aid scheme benefit industrial units?",
+        "options": [
+            "It ensures access to additional fire-fighting resources during emergencies",
+            "It provides financial compensation for fire losses",
+            "It reduces the requirement for in-house fire safety equipment",
+            "It eliminates the need for fire insurance"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of foam systems in fire control?",
+        "options": [
+            "Extinguishing fires involving flammable liquids",
+            "Containing electrical fires",
+            "Cooling fire-damaged structures",
+            "Providing ventilation during fire emergencies"
+        ],
+        "correctIndex": 0
+    }
+]

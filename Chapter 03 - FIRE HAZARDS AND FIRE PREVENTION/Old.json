@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the primary purpose of internal partitions constructed of brick or concrete in a building?",
+      "options": [
+        "To enhance aesthetic appeal",
+        "To facilitate airflow",
+        "To confine a fire to a specific area",
+        "To increase the building's height"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a characteristic of thatched roofs that makes them highly hazardous in the event of a fire?",
+      "options": [
+        "High resistance to ignition",
+        "Rapid spread of fire",
+        "Excellent fire resistance",
+        "Easy extinguishment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of sprinkler installations in fire protection?",
+      "options": [
+        "To sound an alarm bell",
+        "To automatically detect and extinguish fires",
+        "To provide water for firefighting personnel",
+        "To enhance aesthetic appeal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of fire extinguisher is suitable for fires in electrical equipment or flammable liquids?",
+      "options": [
+        "Carbon dioxide extinguishers",
+        "Dry chemical extinguishers",
+        "Foam systems",
+        "Mutual Aid Scheme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is an essential characteristic of good housekeeping in a workplace?",
+      "options": [
+        "Congestion in storage areas",
+        "Neglect of situations where litter accumulates",
+        "Regular maintenance of facilities",
+        "Presence of defective windows"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key feature of bad housekeeping in a workplace?",
+      "options": [
+        "Clean, neat, and tidy appearance",
+        "Regular maintenance of facilities",
+        "Congestion in storage areas",
+        "Presence of suitable heating arrangements"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What precaution should be taken to prevent spontaneous combustion in oily waste?",
+      "options": [
+        "Store in well-ventilated areas",
+        "Use metal tins with well-fitting lids",
+        "Avoid moisture and provide ventilation",
+        "Stack over 10 ft. in height"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is the prohibition of smoking important in areas where combustible waste is generated?",
+      "options": [
+        "To encourage clandestine smoking",
+        "To enhance workplace aesthetics",
+        "To reduce hazards from fires",
+        "To increase the risk of fires"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the term 'loyal staff' in the context of fire prevention refer to?",
+      "options": [
+        "Employees who smoke responsibly",
+        "Staff with a positive attitude toward safety",
+        "Employees who work overtime",
+        "Staff who accumulate combustible litter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of a Mutual Aid Scheme in fire protection?",
+      "options": [
+        "To enhance workplace aesthetics",
+        "To facilitate clandestine smoking",
+        "To help neighboring industrial plants during fires",
+        "To encourage combustion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why is it desirable to stagger windows on different floors in storied buildings?",
+      "options": [
+        "To increase fire resistance",
+        "To enhance aesthetic appeal",
+        "To reduce water pressure",
+        "To prevent fire spread between floors"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is a characteristic of glass roofs in terms of fire resistance?",
+      "options": [
+        "High resistance to ignition",
+        "Fragile and offer little resistance to fire",
+        "Excellent strength under heat",
+        "Suitable for firefighting operations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of fire hazards, what is the primary distinction between a single-storey building and a storied building?",
+      "options": [
+        "The size of the building",
+        "The ease of firefighting",
+        "The presence of combustible materials",
+        "The risk of spontaneous combustion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary consideration in judging the merits or demerits of floors in a building?",
+      "options": [
+        "The existence of floor openings",
+        "The materials employed in construction",
+        "The presence of asbestos",
+        "The proximity of external walls"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why are false ceilings considered unsatisfactory in terms of fire hazards?",
+      "options": [
+        "They enhance the aesthetic appeal",
+        "They provide fuel for a fire",
+        "They are made of incombustible materials",
+        "They are resistant to smoke and fumes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary hazard associated with timber walls in a building?",
+      "options": [
+        "High resistance to ignition",
+        "Combustibility",
+        "Excellent fire resistance",
+        "Resistance to mechanical and heat stresses"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why are corrugated iron sheeting considered hazardous during a fire?",
+      "options": [
+        "They are incombustible",
+        "They lack strength under heat",
+        "They crumple when water is applied",
+        "They enhance firefighting operations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main hazard associated with thatched roofs in the event of a fire?",
+      "options": [
+        "Rapid spread of fire",
+        "High resistance to ignition",
+        "Excellent fire resistance",
+        "Resistance to mechanical stresses"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Why are asbestos cement sheets considered hazardous under the effects of fire and water?",
+      "options": [
+        "They are incombustible",
+        "They lack mechanical strength",
+        "They enhance firefighting operations",
+        "They resist heat and water"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main purpose of roofs in a building?",
+      "options": [
+        "To enhance aesthetic appeal",
+        "To provide weather protection",
+        "To support machinery and equipment",
+        "To resist fire hazards"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary hazard associated with glass buildings having sides of glass?",
+      "options": [
+        "Resistance to fire",
+        "Exposure to water",
+        "Exposure to smoke",
+        "Fragments of glass during firefighting"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is a key consideration in the construction of roofs to prevent exposure hazards?",
+      "options": [
+        "The thickness of the roof",
+        "The presence of openings in the roof",
+        "The use of fireproof doors",
+        "The height of the building"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary hazard associated with non-standard construction in walls and roofs?",
+      "options": [
+        "Enhanced fire resistance",
+        "Facilitation of fire spread",
+        "Increased exposure risk",
+        "Improved structural stability"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main characteristic of an exposure hazard in fire safety terms?",
+      "options": [
+        "Likelihood of fire initiation",
+        "Distance from other buildings",
+        "Constructional features",
+        "Conditions existing between buildings"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is the hazard of height distinguished from the hazard of size in fire safety?",
+      "options": [
+        "To improve firefighting accessibility",
+        "To reduce water pressure",
+        "To address the risk of floor collapse",
+        "To enhance exposure risk"
+      ],
+      "correctIndex": 2
+    }
+  ]
+  

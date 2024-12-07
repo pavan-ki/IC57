@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the primary consideration for calculating fire load in an industrial facility?",
+        "options": [
+            "The total calorific value of combustible materials per unit area",
+            "The height of the building",
+            "The number of fire exits available",
+            "The type of fire detection system in place"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the 'Hot Work Permit System' enhance fire safety in high-risk activities?",
+        "options": [
+            "By mandating risk assessment and implementing specific safety measures",
+            "By requiring all workers to undergo fire safety training",
+            "By installing temporary fire extinguishers near workstations",
+            "By limiting the duration of hot work to specific hours"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main limitation of fireproof materials in real fire scenarios?",
+        "options": [
+            "They provide resistance for limited durations only",
+            "They are prone to chemical reactions in high heat",
+            "They require frequent maintenance to remain effective",
+            "They increase the structural weight of buildings"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor most significantly impacts the fire resistance of concrete structures?",
+        "options": [
+            "The quality of reinforcement used",
+            "The thickness of the concrete",
+            "The presence of moisture in the concrete",
+            "The temperature at which the fire occurs"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is a critical requirement for maintaining fire safety in multi-storied buildings?",
+        "options": [
+            "Sealing all vertical and horizontal openings",
+            "Using fire-resistant paint on walls",
+            "Placing fire extinguishers on every floor",
+            "Allowing natural ventilation to reduce heat"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary challenge in managing fire risks in high fire load zones?",
+        "options": [
+            "Rapid heat release and fire spread",
+            "Limited access for fire-fighting equipment",
+            "High insurance premiums",
+            "Increased need for ventilation systems"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How do fire hydrants contribute to active fire suppression?",
+        "options": [
+            "By providing high-pressure water supply directly to fire-fighting equipment",
+            "By cooling the surroundings during fire emergencies",
+            "By storing excess water for future use",
+            "By automatically activating fire alarms"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of 'exposure hazard' in industrial fire safety?",
+        "options": [
+            "It measures the risk of fire spreading from one building to adjacent structures",
+            "It evaluates the effectiveness of fire detection systems",
+            "It determines the probability of fire originating from combustible waste",
+            "It assesses the impact of fire on insurance premiums"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What role does compartmentalization play in controlling fire spread?",
+        "options": [
+            "It isolates fire to specific zones, limiting damage",
+            "It increases air circulation within the building",
+            "It provides storage space for fire-fighting equipment",
+            "It reduces the overall temperature of the building"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a common oversight in managing combustible materials in industrial settings?",
+        "options": [
+            "Improper segregation and storage practices",
+            "Frequent inspections for fire safety compliance",
+            "Use of fire-resistant containers",
+            "Labeling of hazardous materials"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary risk of vertical fire spread in storied buildings?",
+        "options": [
+            "Rapid spread through open shafts and staircases",
+            "Inadequate ventilation on higher floors",
+            "Failure of fire-resistant doors",
+            "High temperatures on lower floors"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the minimum time requirement for maintaining fire resistance in timber-based structures?",
+        "options": [
+            "30 minutes",
+            "60 minutes",
+            "90 minutes",
+            "120 minutes"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which fire suppression method is most effective for Class B fires?",
+        "options": [
+            "Foam systems",
+            "Water sprinklers",
+            "Carbon dioxide extinguishers",
+            "Dry chemical powder extinguishers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the key requirement for the installation of fire sprinklers in industrial premises?",
+        "options": [
+            "Adequate water pressure and distribution",
+            "Placement near all electrical equipment",
+            "Installation on exterior walls only",
+            "Activation based on temperature variations"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes a dry powder extinguisher from other fire extinguishers?",
+        "options": [
+            "It is effective for both electrical and flammable liquid fires",
+            "It works by cooling the surrounding area",
+            "It requires manual reactivation after each use",
+            "It is limited to Class A fires only"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main challenge in controlling fires in high-rise buildings?",
+        "options": [
+            "Increased difficulty in accessing higher floors",
+            "Excessive smoke accumulation on lower floors",
+            "Inadequate spacing between fire exits",
+            "Frequent failure of fire detection systems"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the recommended safety measure for managing flammable liquids?",
+        "options": [
+            "Storing them in approved, closed containers in ventilated areas",
+            "Diluting them with water before storage",
+            "Placing them near fire exits for easy access",
+            "Using open storage tanks for better visibility"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of fire alarms in early fire detection systems?",
+        "options": [
+            "Alerting occupants and initiating evacuation processes",
+            "Extinguishing the fire at its source",
+            "Reducing oxygen levels in the fire zone",
+            "Identifying the origin of the fire for investigation"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which roofing material offers the least resistance to fire?",
+        "options": [
+            "Thatched roofing",
+            "Metal sheeting",
+            "Concrete",
+            "Glass panels"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the most effective method for preventing spontaneous combustion?",
+        "options": [
+            "Ensuring adequate ventilation and controlling heat sources",
+            "Using fire-resistant storage containers",
+            "Reducing the size of combustible material piles",
+            "Mixing combustible materials with inert substances"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the mutual aid scheme benefit participants during fire emergencies?",
+        "options": [
+            "It provides access to additional fire-fighting resources",
+            "It reduces insurance premiums for all participants",
+            "It mandates shared fire detection systems",
+            "It standardizes fire safety practices across industries"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of the 'Designation of Property Clause'?",
+        "options": [
+            "To ensure clarity in identifying insured property during claims",
+            "To adjust the sum insured based on property classification",
+            "To provide additional coverage for high-value items",
+            "To exclude specific types of property from coverage"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the critical limitation of water sprinklers in industrial fire suppression?",
+        "options": [
+            "They are ineffective against electrical fires",
+            "They require constant manual operation",
+            "They are only effective in outdoor environments",
+            "They cannot suppress fires involving flammable liquids"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor contributes most to fire spread in adjacent industrial buildings?",
+        "options": [
+            "Proximity and lack of fire-resistant barriers",
+            "Insufficient fire detection systems",
+            "Use of combustible roofing materials",
+            "Open storage of hazardous chemicals"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of fire compartmentalization in large facilities?",
+        "options": [
+            "To limit fire to specific areas and reduce overall damage",
+            "To store fire-fighting equipment safely",
+            "To ensure proper ventilation during fire incidents",
+            "To increase the structural integrity of the building"
+        ],
+        "correctIndex": 0
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the primary objective of the 'Hot Work Permit System' in fire prevention?",
+        "options": [
+            "To ensure control measures are implemented before hot work activities begin",
+            "To track the usage of fire extinguishers during hot work",
+            "To establish a standard operating procedure for all factory operations",
+            "To document fire incidents caused by welding and cutting"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the critical factor in determining a material's fire load?",
+        "options": [
+            "The calorific value of the combustibles present per unit area",
+            "The density of the material",
+            "The melting point of the material",
+            "The moisture content in the material"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor most contributes to fire spread through vertical shafts in buildings?",
+        "options": [
+            "Unsealed floor openings",
+            "Presence of fireproof materials",
+            "Installation of fire hydrants",
+            "Usage of heat-resistant windows"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary reason for conducting fire drills in industrial premises?",
+        "options": [
+            "To ensure preparedness for evacuation during fire emergencies",
+            "To reduce insurance premiums for the building",
+            "To familiarize employees with fire-fighting equipment",
+            "To identify combustible materials in the facility"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes fireproof partitions from other barriers in preventing fire spread?",
+        "options": [
+            "They provide resistance to heat and prevent fire penetration",
+            "They reduce oxygen levels in enclosed spaces",
+            "They are coated with flame-retardant materials",
+            "They absorb heat and convert it into cooling energy"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of zoned fire compartments in large buildings?",
+        "options": [
+            "To restrict fire spread to specific areas",
+            "To provide storage for fire-fighting equipment",
+            "To improve air circulation during a fire",
+            "To monitor fire alarms effectively"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which fire extinguisher is most effective for Class C fires?",
+        "options": [
+            "Carbon dioxide extinguishers",
+            "Foam extinguishers",
+            "Water extinguishers",
+            "Dry powder extinguishers"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the maximum safe time for fire resistance in ordinary concrete structures?",
+        "options": [
+            "3-4 hours",
+            "1-2 hours",
+            "4-5 hours",
+            "6-8 hours"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How is the exposure hazard minimized in fire-prone areas?",
+        "options": [
+            "By increasing the separation distance between buildings",
+            "By using combustible materials with high fire resistance",
+            "By reducing the number of fire exits",
+            "By installing open ventilation systems"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the best method to store flammable liquids in industrial premises?",
+        "options": [
+            "In approved, fire-resistant containers in isolated areas",
+            "In open areas near fire hydrants",
+            "In locked wooden cabinets",
+            "In underground tanks without ventilation"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a significant hazard of bad housekeeping in fire prevention?",
+        "options": [
+            "Accumulation of flammable debris increases fire risk",
+            "Blocking ventilation pathways with equipment",
+            "Limiting water availability for hydrants",
+            "Usage of incombustible materials improperly"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary role of a fire detection system in a building?",
+        "options": [
+            "To detect and alert occupants to fire at the earliest possible stage",
+            "To automatically extinguish fires upon detection",
+            "To monitor the spread of smoke during an incident",
+            "To limit oxygen levels in enclosed spaces"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes spontaneous combustion from other ignition methods?",
+        "options": [
+            "It occurs without any external ignition source",
+            "It requires a high-temperature environment to initiate",
+            "It is caused by poor air circulation in storage areas",
+            "It involves the mixing of volatile chemicals with water"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the most critical factor in reducing exposure hazards between adjacent buildings?",
+        "options": [
+            "Maintaining an adequate separation distance",
+            "Installing sprinklers on all building facades",
+            "Using fire-resistant windows on the exposed side",
+            "Reducing the height of adjacent buildings"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of a foam fire suppression system?",
+        "options": [
+            "To create a blanket over flammable liquids to cut off oxygen supply",
+            "To cool burning materials through water content",
+            "To reduce heat in the surrounding area",
+            "To activate fire alarms upon detection of heat"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does good ventilation reduce fire risks in industrial environments?",
+        "options": [
+            "By dispersing heat and flammable vapors effectively",
+            "By increasing oxygen levels for fire extinguishment",
+            "By providing pathways for smoke to spread",
+            "By eliminating the need for additional fire exits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which roofing material poses the greatest hazard in high fire-risk zones?",
+        "options": [
+            "Thatched roofs",
+            "Metal sheet roofs",
+            "Concrete roofs",
+            "Glass panel roofs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the maximum fire resistance of timber as a construction material?",
+        "options": [
+            "Less than 30 minutes",
+            "30-60 minutes",
+            "1-2 hours",
+            "More than 2 hours"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary consideration for designing fire exits in tall buildings?",
+        "options": [
+            "Ensuring quick and safe evacuation during fires",
+            "Limiting the number of exits per floor",
+            "Placing exits at random intervals",
+            "Using combustible materials to mark exits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main function of the mutual aid scheme in industrial fire safety?",
+        "options": [
+            "To share fire-fighting resources between participating units",
+            "To conduct periodic fire drills",
+            "To pool insurance funds for fire losses",
+            "To standardize fire safety equipment across industries"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the ideal placement for fire hydrants in large industrial premises?",
+        "options": [
+            "At regular intervals and easily accessible locations",
+            "In underground facilities",
+            "Inside high-risk storage areas",
+            "At the corners of buildings only"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the 'Hot Work Permit System' specifically reduce fire risks?",
+        "options": [
+            "By enforcing pre-defined safety measures before welding or cutting",
+            "By limiting the number of workers involved in hot work",
+            "By increasing the frequency of fire drills",
+            "By ensuring combustible materials are removed monthly"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of water sprinklers in fire control?",
+        "options": [
+            "To suppress fires by cooling and wetting combustible materials",
+            "To alert occupants of fire emergencies",
+            "To contain smoke within a specified area",
+            "To block oxygen supply to the fire"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a significant risk posed by improperly maintained fire detection systems?",
+        "options": [
+            "Delayed or missed detection of fires",
+            "Activation during non-emergency situations",
+            "Overuse of water resources",
+            "Incorrect temperature readings"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the recommended approach to managing exposure hazards in fire-prone industrial zones?",
+        "options": [
+            "Creating adequate separation distances and using fire-resistant materials",
+            "Increasing the number of fire exits per building",
+            "Reducing the size of storage facilities",
+            "Using non-flammable roofing materials exclusively"
+        ],
+        "correctIndex": 0
+    }
+]

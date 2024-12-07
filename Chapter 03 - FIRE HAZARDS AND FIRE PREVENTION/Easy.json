@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What does the term 'Fire Hazards' refer to?",
+        "options": [
+            "Causes and circumstances that increase fire probability and spread",
+            "Only the causes of fires",
+            "Insurance policies against fire",
+            "Materials that are fireproof"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the leading cause of industrial fires?",
+        "options": [
+            "Electrical issues",
+            "Smoking",
+            "Friction",
+            "Hot surfaces"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can electrical hazards be reduced?",
+        "options": [
+            "By using good quality equipment and frequent maintenance",
+            "By avoiding electrical devices",
+            "By installing fireproof walls",
+            "By minimizing the use of lighting"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary hazard caused by friction?",
+        "options": [
+            "Hot bearings and misaligned machine parts",
+            "Improper use of welding equipment",
+            "Smoking in workplaces",
+            "Presence of oil waste"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What can prevent hazards caused by overheated materials?",
+        "options": [
+            "Careful supervision and temperature controls",
+            "Installing fireproof materials",
+            "Reducing electrical usage",
+            "Using water sprinklers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Hot Work Permit System'?",
+        "options": [
+            "To prevent fires during cutting and welding operations",
+            "To reduce electrical sparking hazards",
+            "To maintain fireproof walls",
+            "To monitor temperature levels in factories"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the term 'Fire Load' used for?",
+        "options": [
+            "Measuring the quantity of heat per unit of floor area",
+            "Calculating fire insurance premiums",
+            "Identifying fire-resistant materials",
+            "Designing fireproof structures"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a low fire load typically associated with?",
+        "options": [
+            "Residential premises and offices",
+            "Retail shops",
+            "Warehouses",
+            "Manufacturing plants"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Fire Resistance' mean?",
+        "options": [
+            "The time a construction can resist fire while performing its function",
+            "The ability of materials to extinguish fire automatically",
+            "The complete prevention of fire spread",
+            "The amount of water needed to extinguish a fire"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which material offers the highest fire resistance?",
+        "options": [
+            "Concrete or reinforced cement concrete",
+            "Timber",
+            "Corrugated iron sheeting",
+            "Glass"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What type of roof is considered most hazardous from a fire viewpoint?",
+        "options": [
+            "Thatched roofs",
+            "Glass roofs",
+            "Concrete roofs",
+            "Tarred or bituminous felt roofs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does fire spread most easily in buildings?",
+        "options": [
+            "Vertically through unprotected floor openings",
+            "Horizontally through fire-resistant walls",
+            "Through closed and sealed doors",
+            "Using incombustible partitions"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a major hazard in storied buildings?",
+        "options": [
+            "Fire spreading upwards through floors",
+            "Fire-resistant walls collapsing",
+            "Poor roof design",
+            "Use of non-combustible materials"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the definition of 'Exposure Hazard'?",
+        "options": [
+            "The likelihood of fire spreading from neighboring premises",
+            "The probability of internal fires starting",
+            "The extent to which a building resists fire",
+            "The ability of fire-fighting equipment to control fire"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the effect of using timber for construction in a fire-prone area?",
+        "options": [
+            "Increases the risk of fire spreading",
+            "Improves fire resistance",
+            "Eliminates exposure hazards",
+            "Prevents fire from spreading"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a common feature of hazardous goods?",
+        "options": [
+            "They ignite easily and burn rapidly",
+            "They resist ignition under normal conditions",
+            "They require special fireproof packaging",
+            "They are stored in fireproof containers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main function of first aid fire extinguishers?",
+        "options": [
+            "To extinguish fires in their early stages",
+            "To provide water for fire hydrants",
+            "To contain major industrial fires",
+            "To alert local fire stations automatically"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What are carbon dioxide extinguishers primarily used for?",
+        "options": [
+            "Fires in electrical equipment",
+            "Fires involving ordinary combustibles",
+            "Fires in flammable liquids",
+            "Fires in warehouses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of foam systems in fire extinguishment?",
+        "options": [
+            "Extinguishing fires in flammable liquids",
+            "Containing electrical fires",
+            "Extinguishing fires in ordinary combustibles",
+            "Providing mutual aid during fire incidents"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does good housekeeping in fire prevention include?",
+        "options": [
+            "Clean and organized premises",
+            "Accumulating combustible litter",
+            "Using wooden roofs and partitions",
+            "Storing goods haphazardly"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can combustible litter be safely managed?",
+        "options": [
+            "By removing it to safe areas and disposing of it daily",
+            "By accumulating it for later disposal",
+            "By mixing it with non-combustible waste",
+            "By burning it in closed rooms"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a common hazard of bad housekeeping?",
+        "options": [
+            "Accumulation of combustible waste",
+            "Frequent fire drills",
+            "Use of fire-resistant materials",
+            "Proper arrangement of machinery"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary aim of the mutual aid scheme?",
+        "options": [
+            "Sharing resources between industrial units during fire emergencies",
+            "Providing extra extinguishers to public buildings",
+            "Reducing insurance premiums collectively",
+            "Creating fireproof zones in industrial areas"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the best way to reduce the risk of spontaneous combustion?",
+        "options": [
+            "Ensuring good ventilation and proper handling",
+            "Using electrical equipment sparingly",
+            "Avoiding construction with timber",
+            "Limiting the size of warehouses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How can smoking-related fire hazards be minimized?",
+        "options": [
+            "By prohibiting smoking in work areas",
+            "By providing open smoking zones",
+            "By storing combustible materials safely",
+            "By using fireproof ashtrays"
+        ],
+        "correctIndex": 0
+    }
+]
