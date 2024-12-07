@@ -105,7 +105,7 @@ async function loadSummary(filePath, chapterName, mockTestName) {
 
         // Reset UI for a new quiz
         userAnswers = {};
-        document.getElementById('quiz-container').innerHTML = questions.map((q, index) => createSummaryHTML(q, index)).join('');
+        document.getElementById('quiz-container').innerHTML = createSummaryHTML(questions.question);
 
         // Update the chapter and mock test name in the header
         updateQuizHeader(chapterName, mockTestName);
@@ -173,9 +173,9 @@ function createQuestionHTML(question, index) {
 }
 
 // Generates HTML for each question card
-function createSummaryHTML(question, index) {
+function createSummaryHTML(question) {
     return `
-        <div class="question-card" id="question-${index}">
+        <div class="question-card">
             <div class="question-title">${question.question}</div>
         </div>
     `;
