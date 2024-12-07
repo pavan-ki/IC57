@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the premium rate per mile for dam utilities outside industrial risks?",
+    "options": [
+      "1.00",
+      "1.50",
+      "2.00",
+      "0.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which specific condition applies to silent risks in Section IV?",
+    "options": [
+      "Factory must be inactive for 30+ days",
+      "No manufacturing or storage activities",
+      "Factory must remain insured for 6 months",
+      "No hazardous goods may be present"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the calculated reduction in premium for excluding RSMTD perils?",
+    "options": [
+      "0.25 per mille",
+      "0.10 per mille",
+      "0.15 per mille",
+      "0.20 per mille"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the premium rate per mile for wooden planks in Kutcha construction?",
+    "options": [
+      "4%",
+      "2%",
+      "3%",
+      "5%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the minimum number of years required for a policy to be considered long-term?",
+    "options": [
+      "2 years",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What premium rate applies to dwellings located within factory premises?",
+    "options": [
+      "0.50 per mile",
+      "1.00 per mile",
+      "1.50 per mile",
+      "2.00 per mile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the warranty for open storage of hazardous goods?",
+    "options": [
+      "Not exceeding 2% of total stock",
+      "Not exceeding 5% of total stock",
+      "Sealed storage only",
+      "Prohibited for all categories"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest premium rate per mile mentioned in Chapter 4?",
+    "options": [
+      "10.50 per mile",
+      "15.00 per mile",
+      "5.50 per mile",
+      "12.00 per mile"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What rate applies to coir fibre stored in godowns?",
+    "options": [
+      "12.00 per mile",
+      "17.00 per mile",
+      "6.00 per mile",
+      "4.50 per mile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of goods requires a premium rate of 1.00 per mile in storage risks?",
+    "options": [
+      "Non-hazardous goods",
+      "Hazardous goods",
+      "Category I goods",
+      "Category III goods"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the maximum allowable discount for fire extinguishing appliances?",
+    "options": [
+      "5%",
+      "7.5%",
+      "10%",
+      "15%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the discount for claims experience with incurred claims ratio up to 5%?",
+    "options": [
+      "1.5%",
+      "5%",
+      "10%",
+      "2.5%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the specific rule for insuring buildings with wooden roofs?",
+    "options": [
+      "Extra rate of Rs.4.00% applies",
+      "No insurance allowed",
+      "Standard rates apply",
+      "Discounted rates apply"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which industry attracts the lowest rate per mile in fire insurance premiums?",
+    "options": [
+      "Dam utilities",
+      "Plastic goods manufacturing",
+      "Brickworks",
+      "Battery manufacturing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the rate per mile for analytical laboratories outside industrial risks?",
+    "options": [
+      "1.00",
+      "1.50",
+      "2.25",
+      "2.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What principle governs the classification of risks into homogeneous groups?",
+    "options": [
+      "Hazard evaluation",
+      "Discrimination principle",
+      "Loss experience",
+      "Physical hazard principle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rate per mile for flour mills in industrial risks?",
+    "options": [
+      "3.50",
+      "2.75",
+      "4.50",
+      "2.00"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is a permissible mid-term change in fire insurance policies?",
+    "options": [
+      "Increase in sum insured",
+      "Reduction in policy term",
+      "Inclusion of additional perils",
+      "Change of policy type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the premium rate for utilities like pump houses (non-water)?",
+    "options": [
+      "1.50 per mile",
+      "2.00 per mile",
+      "2.50 per mile",
+      "3.00 per mile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What premium rate applies to bulk drug manufacturing risks?",
+    "options": [
+      "3.00 per mile",
+      "2.25 per mile",
+      "1.50 per mile",
+      "2.50 per mile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the specific rule for computing fire insurance rates for multiple risks?",
+    "options": [
+      "Each risk is rated individually",
+      "Highest rate is applied to all",
+      "Average rate is calculated",
+      "Standard rates are used for all"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the classification of risks for agarbatti storage?",
+    "options": [
+      "Category I",
+      "Category II",
+      "Category III",
+      "Non-hazardous"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which industry has a rate of 1.75 per mile for fire insurance premiums?",
+    "options": [
+      "Clock/watch manufacturing",
+      "Brickworks",
+      "Man-made fibre manufacturing",
+      "Cinema theatres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the warranty for hazardous goods stored in silos?",
+    "options": [
+      "Excludes coir waste and fibre",
+      "Excludes Category III goods only",
+      "Allows only sealed storage",
+      "Excludes goods exceeding 2% of stock"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate for roads within standalone utilities?",
+    "options": [
+      "1.00 per mile",
+      "1.50 per mile",
+      "0.50 per mile",
+      "2.00 per mile"
+    ],
+    "correctIndex": 0
+  }
+]

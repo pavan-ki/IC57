@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the provisional rate for rates not given in guidelines?",
+    "options": [
+      "INR 2.50 per mille",
+      "INR 3.00 per mille",
+      "INR 4.00 per mille",
+      "INR 1.00 per mille"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the maximum premium discount for long-term fire insurance policies?",
+    "options": [
+      "15%",
+      "50%",
+      "25%",
+      "30%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of policies are issued for items with unascertainable market value?",
+    "options": [
+      "Long-term policies",
+      "Valued policies",
+      "Standard policies",
+      "Custom policies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for oil extraction as mentioned in Chapter 4?",
+    "options": [
+      "2.75",
+      "3.75",
+      "5.50",
+      "1.50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'Per Se' rating mean in fire insurance premium?",
+    "options": [
+      "Each risk is rated based on its merits",
+      "Higher rate applies to all risks",
+      "Same rate for all risks",
+      "Risk categories are ignored"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the discount rate for claims with an incurred claims ratio of up to 5%?",
+    "options": [
+      "1.5%",
+      "10%",
+      "5%",
+      "7.5%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the minimum rate per mile for non-hazardous goods stored in godowns?",
+    "options": [
+      "1.00",
+      "2.50",
+      "4.50",
+      "0.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate for Cinema Theatres mentioned in Chapter 4?",
+    "options": [
+      "3.50",
+      "5.00",
+      "2.50",
+      "7.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term used for fire insurance premium based on past loss experience?",
+    "options": [
+      "Loss Ratio Principle",
+      "Hazard Evaluation",
+      "Discrimination Principle",
+      "Historical Rating"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which discount applies for fire extinguishing appliances with hand appliances and a hydrant system?",
+    "options": [
+      "7.5%",
+      "2.5%",
+      "5%",
+      "10%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which materials are considered hazardous goods for fire insurance?",
+    "options": [
+      "Cotton",
+      "Celluloid goods",
+      "Timber",
+      "Rubber"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rate per mile for effluent/sewage treatment plants?",
+    "options": [
+      "1.00",
+      "1.50",
+      "2.00",
+      "2.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the maximum short-period rate for a policy less than 12 months?",
+    "options": [
+      "90%",
+      "70%",
+      "80%",
+      "100%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the additional rate for Kutcha construction as per Chapter 4?",
+    "options": [
+      "3.50%",
+      "2.00%",
+      "4.00%",
+      "5.00%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which section prescribes rates for utilities outside industrial risks?",
+    "options": [
+      "Section V",
+      "Section IV",
+      "Section III",
+      "Section VI"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for gas holders for liquefied gases (non-inert)?",
+    "options": [
+      "5.00",
+      "2.00",
+      "3.50",
+      "4.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for dwellings inside factory compounds?",
+    "options": [
+      "0.50",
+      "1.00",
+      "1.50",
+      "2.00"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which principle in fire insurance evaluates risk based on classification?",
+    "options": [
+      "Classification Principle",
+      "Risk Assessment Principle",
+      "Hazard Differentiation",
+      "Discrimination Principle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the discount for claims with an incurred claims ratio above 10% but up to 15%?",
+    "options": [
+      "5%",
+      "10%",
+      "1.5%",
+      "7.5%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for silent risks in factories?",
+    "options": [
+      "1.50",
+      "2.00",
+      "3.00",
+      "2.50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the basic rule for cancellation refunds by insurers?",
+    "options": [
+      "Pro-rata refund for all cases",
+      "Refund only for long-term policies",
+      "Short period scale for insured cancellation",
+      "No refunds allowed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the premium rate reduction for deletion of STFI perils?",
+    "options": [
+      "0.10 per mille",
+      "0.15 per mille",
+      "0.20 per mille",
+      "0.25 per mille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of storage carries the highest rate for hazardous goods?",
+    "options": [
+      "In godowns",
+      "In open",
+      "In silos",
+      "In cold storage"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these industries has a rate of 10.50 per mille?",
+    "options": [
+      "Sugar Mills",
+      "Cotton Gin and Press Houses",
+      "Battery Manufacturing",
+      "Cinema Film Production Studios"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is required for fire extinguishing discounts?",
+    "options": [
+      "Certificate of compliance",
+      "Presence of hydrant systems",
+      "Annual maintenance contract",
+      "All of the above"
+    ],
+    "correctIndex": 1
+  }
+]

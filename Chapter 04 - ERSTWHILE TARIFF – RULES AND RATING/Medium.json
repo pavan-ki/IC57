@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which policies can be issued as per the erstwhile tariff guidelines?",
+    "options": [
+      "Standard Fire and Special Perils Policy",
+      "General Fire Policy",
+      "Extended Coverage Policy",
+      "Comprehensive Risk Policy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the short-period rate for policies not exceeding 7 months?",
+    "options": [
+      "70%",
+      "75%",
+      "80%",
+      "85%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are the key components of fire insurance premium rating?",
+    "options": [
+      "Hazard evaluation",
+      "Discrimination principle",
+      "Loss experience",
+      "All of the above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What rate applies for silent risks in factories for no manufacturing/storage for 30+ days?",
+    "options": [
+      "2.50 per mile",
+      "3.00 per mile",
+      "1.50 per mile",
+      "1.00 per mile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is not a principle of fire insurance premium rating?",
+    "options": [
+      "Rate commensurate with physical hazards",
+      "Uniform rates for all risks",
+      "Classification of risks into groups",
+      "Based on past loss experience"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for rating of each risk based on its merits?",
+    "options": [
+      "Risk Per Rating",
+      "Individual Risk Rating",
+      "Per Se Rating",
+      "Group Risk Rating"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rate per mile for water treatment plants outside industrial risks?",
+    "options": [
+      "1.00",
+      "1.50",
+      "2.00",
+      "2.50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the additional premium rates for Kutcha constructions?",
+    "options": [
+      "4%",
+      "3%",
+      "5%",
+      "4.5%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What discount is applicable for hand appliances and sprinkler systems?",
+    "options": [
+      "5%",
+      "7.5%",
+      "10%",
+      "2.5%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following goods falls under Category I storage risks?",
+    "options": [
+      "Matches",
+      "Celluloid goods",
+      "Rubber",
+      "Gun powder"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which section prescribes rates for utilities located outside industrial risks?",
+    "options": [
+      "Section VI",
+      "Section III",
+      "Section V",
+      "Section IV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the premium rate for gas holders storing inert gases?",
+    "options": [
+      "3.50 per mile",
+      "2.00 per mile",
+      "5.00 per mile",
+      "1.50 per mile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the definition of 'One Industry - One Rate' in fire insurance?",
+    "options": [
+      "Same rate for all risks within an industrial compound",
+      "Individual rating for each block",
+      "Rates based on utilities only",
+      "Uniform rates for storage risks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rate per mile for match factories?",
+    "options": [
+      "4.50",
+      "5.50",
+      "6.50",
+      "3.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the warranty for storage of Category I goods in godowns?",
+    "options": [
+      "Excludes Category II and III goods",
+      "Excludes only hazardous materials",
+      "No restrictions",
+      "No warranty required"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for insurance policies issued for a minimum of 3 years?",
+    "options": [
+      "Comprehensive policies",
+      "Long-term policies",
+      "Endorsed policies",
+      "Floating policies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which goods require the highest rate per mile when stored in open areas?",
+    "options": [
+      "Category III goods",
+      "Coir waste",
+      "Cold storage items",
+      "Category II goods"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rate per mile for pump houses (water) in stand-alone utilities?",
+    "options": [
+      "1.50",
+      "2.00",
+      "2.50",
+      "1.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which industries are rated per mile at 3.75?",
+    "options": [
+      "Oil Extraction",
+      "Battery Manufacturing",
+      "Breweries",
+      "Cinema Theatres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is required for mid-term increase in sum insured?",
+    "options": [
+      "Pro-rata premium calculation",
+      "Short-period premium rates",
+      "No additional premium",
+      "Premium refund"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the role of hazard evaluation in fire insurance rating?",
+    "options": [
+      "Classifying risks",
+      "Determining coverage type",
+      "Setting uniform rates",
+      "Deciding policy cancellations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which policy option allows the exclusion of STFI and RSMTD perils?",
+    "options": [
+      "Long-term policies",
+      "Standard Fire and Special Perils Policy",
+      "Floating policies",
+      "Declaration policies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What discount applies for claims with an incurred claims ratio between 5%-10%?",
+    "options": [
+      "5%",
+      "7.5%",
+      "10%",
+      "1.5%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the minimum premium rate for long-term policies?",
+    "options": [
+      "Rs. 50",
+      "Rs. 100",
+      "Rs. 25",
+      "Rs. 75"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the warranty for godowns storing hazardous goods?",
+    "options": [
+      "No hazardous materials stored",
+      "Hazardous goods not exceeding 5%",
+      "Hazardous goods must be sealed",
+      "No warranty applies"
+    ],
+    "correctIndex": 0
+  }
+]

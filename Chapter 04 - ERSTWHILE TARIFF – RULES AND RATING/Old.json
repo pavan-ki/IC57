@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the minimum period for which Long Term Policies can be issued to house/flat owners?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Long Term Policies, what is the maximum discount percentage for a policy lasting 10 years and above?",
+    "options": [
+      "25%",
+      "35%",
+      "45%",
+      "50%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the method of premium calculation in Method A for Long Term Policies?",
+    "options": [
+      "Full premium without any discount",
+      "Automatic increase in sum insured every year",
+      "No automatic increase in sum insured, but applicable discounts",
+      "5% discount per year (max. 50%)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How is rating applied to Industrial/Manufacturing Risks within the same compound?",
+    "options": [
+      "One industry – One rate",
+      "One risk – One rate",
+      "Different rates for different processes",
+      "No specific rating method"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the maximum discount percentage for Long Term Policies applicable to dwellings located inside a factory compound?",
+    "options": [
+      "25%",
+      "35%",
+      "45%",
+      "50%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Storage Risks (Section VI), how are materials/goods classified for differential rating?",
+    "options": [
+      "Based on weight",
+      "Based on color",
+      "Based on hazard evaluation",
+      "Based on size"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under Storage Risks, what is the category for materials that are explosives or self-ignitable?",
+    "options": [
+      "Category I",
+      "Category II",
+      "Category III",
+      "Category IV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the maximum percentage of hazardous goods of a higher category allowed in Storage Risks without charging the higher rate?",
+    "options": [
+      "1%",
+      "3%",
+      "5%",
+      "8%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rate for utilities and miscellaneous blocks in Tanks/Gas Holders (Section VII)?",
+    "options": [
+      "Rs. 2.50 per millee",
+      "Rs. 1.50 per millee",
+      "Rs. 1.00 per millee",
+      "Rs. 0.75 per millee"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which section provides rates for utilities located outside the industrial/manufacturing risks (Stand Alones)?",
+    "options": [
+      "Section IV",
+      "Section V",
+      "Section VI",
+      "Section VII"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the three generic categories used for the classification of goods/materials in Storage Risks?",
+    "options": [
+      "A, B, C",
+      "Low, Medium, High",
+      "Category I, II, III",
+      "Non-hazardous, Hazardous, Explosive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Long Term Policies, what happens if there is a mid-term increase in the sum insured?",
+    "options": [
+      "No increase is allowed",
+      "Increase is allowed on a pro-rata basis",
+      "Full premium is refunded",
+      "No discount is applied"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How are factories located in the same compound rated in Industrial/Manufacturing Risks?",
+    "options": [
+      "Per Se",
+      "One rate for all",
+      "Different rates for each factory",
+      "No specific rating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the maximum loading for seasonal storage of crackers during the currency of the policy on 'non-hazardous' shops under Section III?",
+    "options": [
+      "5%",
+      "8%",
+      "10%",
+      "15%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under Mid-Term Cover, when does the cover commence for the entire property under one or more policies?",
+    "options": [
+      "Immediately",
+      "7 days after receipt of premium",
+      "15 days after receipt of premium",
+      "30 days after receipt of premium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which category of goods/materials includes explosives and materials that are self-ignitable in Storage Risks?",
+    "options": [
+      "Category I",
+      "Category II",
+      "Category III",
+      "Category IV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the maximum discount percentage for Long Term Policies with a term of 5 years?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under Storage Risks, what percentage of the total value of stock may be allowed for the presence of hazardous goods of higher category without charging the higher rate?",
+    "options": [
+      "1%",
+      "3%",
+      "5%",
+      "8%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the computation of rates for Storage Risks, which rate is applied first in the sequence?",
+    "options": [
+      "Basic rate",
+      "Reduction in rates for deletion of STFI and/or RSMTD perils",
+      "Tariff extra for 'Kutcha' construction",
+      "Discount for claims experience"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the maximum discount percentage for Long Term Policies with a term of 8 years?",
+    "options": [
+      "40%",
+      "45%",
+      "50%",
+      "55%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under Mid-Term Cover, what happens if the cover is granted for the entire property under one or more policies?",
+    "options": [
+      "No changes in coverage",
+      "New policy is issued",
+      "Premium rates are reduced",
+      "Premium rates are charged on short period scale for the balance period"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the minimum premium chargeable for Long Term Policies as per rule no 6 of AIFT?",
+    "options": [
+      "Rs. 25/-",
+      "Rs. 30/-",
+      "Rs. 40/-",
+      "Rs. 50/-"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Tanks/Gas Holders (Section VII), what is the rate for utilities and miscellaneous blocks?",
+    "options": [
+      "Rs. 2.50 per millee",
+      "Rs. 1.50 per millee",
+      "Rs. 1.00 per millee",
+      "Rs. 0.75 per millee"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the maximum discount percentage for Long Term Policies with a term of 6 years?",
+    "options": [
+      "35%",
+      "40%",
+      "45%",
+      "50%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Storage Risks, what is the maximum percentage of incidental open storage allowed when the risk is rated under 'materials stored in godown'?",
+    "options": [
+      "1%",
+      "2%",
+      "3%",
+      "5%"
+    ],
+    "correctIndex": 1
+  }
+]

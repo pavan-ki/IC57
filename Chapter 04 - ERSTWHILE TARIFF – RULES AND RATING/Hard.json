@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the specific rule for covering machinery parts in a fire policy?",
+    "options": [
+      "Only boilers can be insured separately",
+      "All parts must be insured together",
+      "Machinery parts can be insured individually",
+      "No specific rule exists"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the rate per mile for plastic goods manufacturing?",
+    "options": [
+      "2.50",
+      "3.50",
+      "4.00",
+      "1.50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the additional rate charged for 'Kutcha' construction?",
+    "options": [
+      "4%",
+      "3%",
+      "2%",
+      "5%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which section of the Tariff deals with storage risks?",
+    "options": [
+      "Section VI",
+      "Section V",
+      "Section IV",
+      "Section III"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of policy includes a discount for absence of STFI and/or RSMTD perils?",
+    "options": [
+      "Standard Fire and Special Perils Policy",
+      "Comprehensive Coverage Policy",
+      "Valued Policy",
+      "Long-term Policies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which materials are classified under Category III storage risks?",
+    "options": [
+      "Explosives and combustible gases",
+      "Non-combustible gases",
+      "Moderately combustible solids",
+      "Flammable liquids above 65\u00b0C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the rate per mile for carbon paper manufacturing?",
+    "options": [
+      "3.00",
+      "2.75",
+      "3.50",
+      "2.50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the premium calculation sequence for fire insurance policies?",
+    "options": [
+      "Basic rate, deletion discounts, additional rates, claims discounts, FEA discounts",
+      "Claims discounts, FEA discounts, additional rates, deletion discounts, basic rate",
+      "Additional rates, basic rate, FEA discounts, deletion discounts, claims discounts",
+      "FEA discounts, deletion discounts, basic rate, additional rates, claims discounts"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the maximum discount for fire extinguishing appliances with comprehensive systems?",
+    "options": [
+      "2.5%",
+      "5%",
+      "10%",
+      "7.5%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the warranty for Category I goods stored in godowns?",
+    "options": [
+      "Exclusion of goods from Category II and III",
+      "No storage restrictions",
+      "Storage must be sealed",
+      "Goods must not exceed 50% of total stock"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the rate per mile for gas holders storing liquefied gases (non-inert)?",
+    "options": [
+      "3.00",
+      "5.00",
+      "2.00",
+      "1.50"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which industry is rated at 15 per mille in Chapter 4?",
+    "options": [
+      "Nitro-cellulose manufacturing",
+      "Breweries",
+      "Battery manufacturing",
+      "Cigar factories"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the policy on short-period extension for policies under 12 months?",
+    "options": [
+      "Not permitted",
+      "Permitted at pro-rata rates",
+      "Permitted at standard rates",
+      "Permitted only with endorsement"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for road utilities in standalone risks?",
+    "options": [
+      "1.00",
+      "1.50",
+      "2.00",
+      "0.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which storage type has the highest rate per mile for hazardous goods?",
+    "options": [
+      "Open storage",
+      "Godowns",
+      "Silos",
+      "Cold storage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the discount for claims experience with incurred claims ratio above 15%?",
+    "options": [
+      "No discount",
+      "5%",
+      "1.5%",
+      "10%"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the additional rate for hazardous shop goods exceeding 5% of total stock?",
+    "options": [
+      "10%",
+      "5%",
+      "15%",
+      "7.5%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the premium rate for warehouses storing non-hazardous goods?",
+    "options": [
+      "2.00",
+      "1.00",
+      "1.50",
+      "2.50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate per mile for pump houses (others) outside industrial risks?",
+    "options": [
+      "2.00",
+      "2.50",
+      "1.50",
+      "3.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the classification of risks in fire insurance premium rating based on?",
+    "options": [
+      "Hazard levels",
+      "Policy types",
+      "Market value",
+      "Standard premiums"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rate for cold storage godowns as per Chapter 4?",
+    "options": [
+      "1.00",
+      "2.50",
+      "3.00",
+      "2.00"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the discount for long-term policies lasting 10 years?",
+    "options": [
+      "50%",
+      "25%",
+      "15%",
+      "30%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the definition of silent risks in fire insurance?",
+    "options": [
+      "No activity for 30+ days",
+      "Seasonal activity only",
+      "No hazardous goods stored",
+      "Temporary risk coverage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the premium rate for factories storing hazardous goods in silos?",
+    "options": [
+      "4.50 per mile",
+      "6.00 per mile",
+      "2.50 per mile",
+      "3.50 per mile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which industries are rated per mile at 2.25 for fire insurance premiums?",
+    "options": [
+      "Battery manufacturing",
+      "Pharmaceuticals",
+      "Plastic goods manufacturing",
+      "Breweries"
+    ],
+    "correctIndex": 2
+  }
+]
