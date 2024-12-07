@@ -1,0 +1,192 @@
+[
+    {
+        "question": "What specific provision must be met for reinstatement under the Reinstatement Value Policy?",
+        "options": [
+            "Reinstatement must be completed within 12 months unless expressly extended by the insurer",
+            "Insured must pay an additional reinstatement premium",
+            "Reinstated property must match book value irrespective of market conditions",
+            "Reinstatement must include costs for compliance with international regulations"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the 'Designation of Property Clause' affect claims involving unnamed property?",
+        "options": [
+            "It restricts claims to property explicitly listed in the insured\u2019s books",
+            "It allows valuation based on reinstatement cost irrespective of book records",
+            "It extends coverage to any property deemed part of the insured's operations",
+            "It eliminates ambiguity in claims by referring to market value"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a mandatory condition under the 'Debris Removal Clause'?",
+        "options": [
+            "Costs must exceed 1% of the claim amount to be reimbursable",
+            "Debris must be removed within 30 days of claim settlement",
+            "Insurer approval must be obtained before removal starts",
+            "Debris removal costs must not exceed 5% of the claim amount"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Under what condition does the 'Temporary Removal of Stocks' clause cease to provide coverage?",
+        "options": [
+            "When stocks are removed for a period exceeding 60 days",
+            "When stocks are removed for reasons other than processing or exhibition",
+            "When the removal is outside the geographic limits of the policy",
+            "When stocks are removed to a facility not declared to the insurer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the precise scope of the 'Escalation Clause' in adjusting the sum insured?",
+        "options": [
+            "It applies to inflation-related increases in construction costs",
+            "It includes any fluctuations in stock value during the policy term",
+            "It only applies to buildings and machinery, not stocks",
+            "It mandates monthly declarations to adjust premiums accordingly"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What distinguishes the 'Spoilage Material Damage Cover' from other add-ons?",
+        "options": [
+            "It exclusively covers spoilage due to insured perils in premises equipped with temperature control",
+            "It includes spoilage caused by power failures not linked to insured perils",
+            "It covers all spoilage, including that caused by negligence",
+            "It mandates a minimum spoilage value of 25% to trigger coverage"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the 'Agreed Bank Clause' secure the interests of financial institutions?",
+        "options": [
+            "By ensuring claims are payable directly to the bank",
+            "By restricting claims only to the principal sum insured",
+            "By excluding risks associated with mortgaged properties",
+            "By requiring the insured to maintain a minimum balance in related accounts"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary objective of the 'Local Authorities Clause'?",
+        "options": [
+            "To ensure reinstatement complies with local statutory requirements",
+            "To mandate additional premiums for compliance costs",
+            "To provide extensions for stocks temporarily removed",
+            "To cover penalties imposed by local authorities during inspections"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a critical exclusion under the 'Forest Fire' extension?",
+        "options": [
+            "Damage caused by controlled burns",
+            "Loss caused by the insured\u2019s negligence",
+            "Damage to stocks in cold storage facilities",
+            "Loss caused by bushfires in agricultural zones"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the maximum allowable variation in insured value under Declaration Policies?",
+        "options": [
+            "10%",
+            "20%",
+            "25%",
+            "15%"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the unique feature of the 'Reinstatement Value Policy' that sets it apart from standard policies?",
+        "options": [
+            "It allows property replacement without accounting for depreciation",
+            "It applies only to stocks and machinery but excludes buildings",
+            "It adjusts claims based on fluctuating market conditions",
+            "It mandates separate premiums for each reinstated item"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What specific condition applies to claims under the 'Architects' Fees Clause'?",
+        "options": [
+            "Fees must not exceed 7.5% of the claim amount",
+            "Architects must be pre-approved by the insurer",
+            "Fees are limited to compliance-related repairs only",
+            "Fees must be calculated based on market rates"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How are fluctuating stock values addressed under Floater Policies?",
+        "options": [
+            "By applying a single sum insured across multiple locations",
+            "By adjusting premiums monthly based on declarations",
+            "By excluding transit-related stock fluctuations",
+            "By requiring separate endorsements for high-value items"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes the 'Contract Price Insurance Clause' from other policy clauses?",
+        "options": [
+            "It calculates claims based on agreed contract prices regardless of market value",
+            "It mandates fixed premiums for properties sold under contracts",
+            "It excludes coverage for goods damaged during transit",
+            "It requires insurer approval for all sales contracts exceeding Rs. 10 lakhs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a specific limitation of the 'Deterioration of Stocks' coverage?",
+        "options": [
+            "It excludes spoilage caused by external power failures",
+            "It applies only to stocks stored in government-approved facilities",
+            "It does not cover mechanical breakdowns causing spoilage",
+            "It requires power failure to last at least 24 hours to trigger coverage"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the basis for adjusting premiums under Declaration Policies?",
+        "options": [
+            "Monthly declarations of stock values",
+            "Annual market value assessments",
+            "Fixed percentages based on previous claims history",
+            "Premium adjustments at the time of claim settlement only"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the unique feature of the 'Debris Removal Clause' in relation to reinstatement costs?",
+        "options": [
+            "It provides reimbursement for removal costs exceeding 1% of the claim amount",
+            "It excludes debris removal for properties with pending approvals",
+            "It mandates removal within 15 days of claim settlement",
+            "It adjusts premiums retroactively based on removal costs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of the 'Escalation Clause' in covering inflation-related costs?",
+        "options": [
+            "It adjusts the sum insured based on a predetermined percentage",
+            "It excludes costs for compliance with statutory regulations",
+            "It applies exclusively to stocks in transit",
+            "It mandates insurer approval for all adjustments"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the specific purpose of the 'Forest Fire' add-on?",
+        "options": [
+            "To include damage caused by uncontrolled burning of forests",
+            "To exclude damage caused by bushfires",
+            "To adjust premiums for properties near forests",
+            "To provide additional coverage for stocks stored near forest zones"
+        ],
+        "correctIndex": 0
+    }
+]

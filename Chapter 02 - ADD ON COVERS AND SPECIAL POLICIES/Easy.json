@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What are add-on covers in fire insurance?",
+        "options": [
+            "Extensions that increase coverage for additional premium",
+            "Mandatory clauses in fire insurance",
+            "Basic features of fire insurance",
+            "Discounts provided by insurers"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is covered under the 'Spontaneous Combustion' add-on?",
+        "options": [
+            "Fire damage caused by the insured's animals",
+            "Damage caused by its own fermentation or natural heating",
+            "Damage caused by lightning",
+            "Loss from natural disasters"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the premium rate for Category I materials under Spontaneous Combustion?",
+        "options": [
+            "1.00 per mille",
+            "0.50 per mille",
+            "0.25 per mille",
+            "0.75 per mille"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the Earthquake (Fire and Shock) cover include?",
+        "options": [
+            "Only damage to cold storage machinery",
+            "Fire and shock damage caused by earthquakes",
+            "Loss due to insured animals",
+            "Damage from riot and strike"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is excluded in the standard fire policy but covered under the 'Forest Fire' extension?",
+        "options": [
+            "Bush fire",
+            "Damage by insured's animals",
+            "Burning of forests and jungles",
+            "Damage to stocks in cold storage"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Impact Damage' add-on cover?",
+        "options": [
+            "Damage caused by insured's animals",
+            "Loss caused by power failure",
+            "Direct impact from insured's vehicles",
+            "Damage from theft"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is covered under the 'Deterioration of Stocks' add-on?",
+        "options": [
+            "Stocks damaged by forest fire",
+            "Stocks damaged due to temperature changes caused by insured perils",
+            "Loss due to insured animals",
+            "Damage caused by spontaneous combustion"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What percentage of admitted loss is covered for Architects' fees under the add-on?",
+        "options": [
+            "3%",
+            "5%",
+            "7.5%",
+            "10%"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Debris Removal' add-on cover?",
+        "options": [
+            "Costs for debris removal in excess of 1% of the claim amount",
+            "Removal of insured's animals",
+            "Reinstatement of building structure",
+            "Premium adjustments for new claims"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Omission to Insure' clause apply to?",
+        "options": [
+            "Stocks and movable property",
+            "New buildings, machinery, and furniture",
+            "Cold storage stocks",
+            "Buildings undergoing construction"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is covered under 'Spoilage Material Damage'?",
+        "options": [
+            "Loss caused by spontaneous combustion",
+            "Damage to stocks and machinery by perils causing spoilage",
+            "Loss caused by earthquakes",
+            "Damage caused by insured's animals"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of the 'Temporary Removal of Stocks' clause?",
+        "options": [
+            "To insure stocks removed for processing or finishing",
+            "To exclude damaged stocks",
+            "To include forest fire damage",
+            "To adjust premiums for the main policy"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is insured under the 'Loss of Rent Clause'?",
+        "options": [
+            "Rent for unoccupied premises",
+            "Loss of rent due to damage by insured perils",
+            "Damage to cold storage machinery",
+            "Rent for temporary relocation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'Escalation Clause' provide for?",
+        "options": [
+            "Automatic increase in sum insured for stocks",
+            "Increase in sum insured for buildings and machinery",
+            "Premium adjustment for cold storage stocks",
+            "Coverage for insured's animals"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is unique about Reinstatement Value Policies?",
+        "options": [
+            "They settle claims based on market value",
+            "They cover stocks and machinery equally",
+            "They allow replacement without depreciation adjustments",
+            "They exclude reinstatement of buildings"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Local Authorities Clause' cover?",
+        "options": [
+            "Cost of reinstatement to comply with local regulations",
+            "Costs incurred due to insured animals",
+            "Premium adjustments for new claims",
+            "Fire damage due to negligence"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Declaration Policies'?",
+        "options": [
+            "To insure fluctuating stock values",
+            "To insure stocks removed for processing",
+            "To include reinstatement costs",
+            "To cover loss of rent"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of Floater Policies?",
+        "options": [
+            "To cover stocks at multiple locations under a single sum insured",
+            "To insure stocks removed for processing",
+            "To insure cold storage stocks",
+            "To exclude insured's animals"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is insured under the 'Agreed Bank Clause'?",
+        "options": [
+            "The interests of banks and financial institutions",
+            "Loss caused by insured animals",
+            "Rent for temporary relocation",
+            "Loss due to temperature changes"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Contract Price Insurance Clause' apply to?",
+        "options": [
+            "Imported goods sold under a contract",
+            "Stocks undergoing processing",
+            "Stocks removed temporarily",
+            "Machinery in factories"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Designation of Property Clause'?",
+        "options": [
+            "To classify property based on its entry in insured's books",
+            "To insure buildings and machinery",
+            "To classify stocks undergoing processing",
+            "To exclude insured's animals"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the maximum percentage increase allowed under the 'Escalation Clause'?",
+        "options": [
+            "10%",
+            "15%",
+            "25%",
+            "50%"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What type of property does the 'Reinstatement Value Policy' exclude?",
+        "options": [
+            "Stocks",
+            "Machinery",
+            "Buildings",
+            "Furniture"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is covered under the 'Spoilage Material Damage Cover'?",
+        "options": [
+            "Loss due to insured animals",
+            "Spoilage of stocks caused by perils",
+            "Fire caused by spontaneous combustion",
+            "Damage due to earthquakes"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'Debris Removal Clause' specifically provide?",
+        "options": [
+            "Coverage for debris removal costs exceeding 1% of claim amount",
+            "Coverage for reinstatement costs",
+            "Coverage for insured animals",
+            "Coverage for loss of rent"
+        ],
+        "correctIndex": 0
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What determines the premium rate for Spontaneous Combustion coverage?",
+        "options": [
+            "Type of fire policy",
+            "Relative combustibility of the commodity",
+            "Duration of policy coverage",
+            "Location of the insured property"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the main condition for granting Earthquake (Fire and Shock) cover?",
+        "options": [
+            "The property must be entirely within one complex or compound",
+            "The insured must opt for additional rent coverage",
+            "The policy must include forest fire coverage",
+            "The insured must pay premium in advance"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Forest Fire' add-on?",
+        "options": [
+            "To exclude damage from burning jungles",
+            "To include damage caused by forest fires",
+            "To increase premiums for areas prone to bushfires",
+            "To limit coverage to bushfires only"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is a key exclusion in the 'Impact Damage' add-on?",
+        "options": [
+            "Damage caused by animals",
+            "Damage caused by forklifts",
+            "Impact from external vehicles",
+            "Loss caused by natural disasters"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the minimum duration of power failure covered under 'Deterioration of Stocks'?",
+        "options": [
+            "12 hours",
+            "18 hours",
+            "24 hours",
+            "48 hours"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the coverage limit for Architects' fees under the add-on clause?",
+        "options": [
+            "3% of the claim amount",
+            "5% of the claim amount",
+            "7.5% of the claim amount",
+            "10% of the claim amount"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Omission to Insure' clause primarily focus on?",
+        "options": [
+            "Newly acquired property and machinery",
+            "Stocks undergoing processing",
+            "Additional costs for reinstatement",
+            "Cold storage equipment"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is required under the 'Temporary Removal of Stocks' clause?",
+        "options": [
+            "A pro-rata average condition on removed stocks",
+            "Special endorsement for temporary removal",
+            "Additional premiums for removed stocks",
+            "Separate insurance for removed stocks"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Loss of Rent Clause'?",
+        "options": [
+            "To cover rent when the building is unfit for occupation",
+            "To cover alternative rent for tenants",
+            "To cover loss from tenant disputes",
+            "To cover damage to rental property"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Reinstatement Value Policy' allow?",
+        "options": [
+            "Replacement of property without depreciation adjustments",
+            "Replacement of property including depreciation costs",
+            "Market value settlement only",
+            "Settlement of claims based on premium rates"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the maximum increase in sum insured allowed under the 'Escalation Clause'?",
+        "options": [
+            "15%",
+            "20%",
+            "25%",
+            "30%"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a key condition under Declaration Policies for stocks?",
+        "options": [
+            "Monthly declarations must be submitted by the last day of the succeeding month",
+            "Stocks must be insured for a minimum value of Rs. 5 crores",
+            "Premiums are adjusted annually without declarations",
+            "Only non-fluctuating stocks are covered"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary advantage of Floater Policies?",
+        "options": [
+            "They cover fluctuating stocks at multiple locations under one policy",
+            "They allow separate premiums for each location",
+            "They exclude stocks in transit",
+            "They require monthly declarations for each location"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is covered under the 'Agreed Bank Clause'?",
+        "options": [
+            "Mutual interests of banks and insured parties",
+            "Cold storage equipment damage",
+            "Loss from natural disasters",
+            "Tenant disputes over rent"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Contract Price Insurance Clause' apply to?",
+        "options": [
+            "Goods sold under contracts canceled due to insured perils",
+            "Stocks undergoing manufacturing",
+            "Machinery insured under reinstatement policies",
+            "Property located in multiple locations"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Designation of Property Clause' clarify?",
+        "options": [
+            "The classification of property under insured's books",
+            "The value of stocks during reinstatement",
+            "Premium rates for specific property types",
+            "Depreciation adjustments for machinery"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is excluded under 'Deterioration of Stocks due to Power Failure'?",
+        "options": [
+            "Loss caused by government-imposed power cuts",
+            "Loss caused by insured perils",
+            "Damage to cold storage premises",
+            "Spoilage of stocks in transit"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Escalation Clause' apply to?",
+        "options": [
+            "Buildings and machinery, but not stocks",
+            "Stocks and movable property",
+            "Cold storage equipment",
+            "Rent adjustments for damaged premises"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Local Authorities Clause' cover?",
+        "options": [
+            "Additional costs for compliance with local regulations",
+            "Premium adjustments for reinstatement policies",
+            "Depreciation costs for property",
+            "Loss caused by negligence"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of the 'Spoilage Material Damage Cover'?",
+        "options": [
+            "It covers spoilage caused by insured perils",
+            "It covers rent adjustments for tenants",
+            "It includes costs for debris removal",
+            "It excludes stocks undergoing processing"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a unique feature of Floater Policies?",
+        "options": [
+            "They apply a single premium rate for all locations",
+            "They include additional coverage for cold storage equipment",
+            "They exclude fluctuating stocks",
+            "They allow separate sums insured for each location"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What type of property is excluded from Reinstatement Value Policies?",
+        "options": [
+            "Stocks",
+            "Buildings",
+            "Machinery",
+            "Furniture"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is required for claims under Declaration Policies?",
+        "options": [
+            "Monthly declarations of stock values",
+            "Additional premium adjustments",
+            "Compliance with Agreed Bank Clause",
+            "Separate policies for each stock location"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Debris Removal Clause'?",
+        "options": [
+            "To cover costs for debris removal exceeding 1% of the claim amount",
+            "To provide additional rent for tenants",
+            "To include reinstatement costs",
+            "To exclude costs for cold storage equipment"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a common requirement under all Floater Policies?",
+        "options": [
+            "Good internal audit and accounting procedures",
+            "Separate premiums for each location",
+            "Monthly declarations for removed stocks",
+            "Exclusion of stocks in transit"
+        ],
+        "correctIndex": 0
+    }
+]

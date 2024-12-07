@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the specific condition for reinstating property under the Reinstatement Value Policy?",
+        "options": [
+            "Property must be reinstated within 12 months unless extended by the insurer",
+            "Insurer must approve the reinstatement plan before the claim is filed",
+            "Reinstatement must exclude depreciation adjustments",
+            "The reinstated property must be of the same market value"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Under what circumstances does the 'Temporary Removal of Stocks' clause not apply?",
+        "options": [
+            "When stocks are temporarily removed for exhibition purposes",
+            "When stocks are removed to a processing facility",
+            "When stocks are removed for an indefinite period",
+            "When stocks are removed for purposes other than processing"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a key exclusion in the 'Loss of Rent Clause'?",
+        "options": [
+            "Loss caused by negligence of the landlord",
+            "Loss of rent beyond the policy period",
+            "Rent from properties not damaged by insured perils",
+            "Rent for temporary alternative accommodation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the maximum permissible variation under the 'Escalation Clause'?",
+        "options": [
+            "15% annually",
+            "25% annually",
+            "50% annually",
+            "20% annually"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What distinguishes Declaration Policies from Floater Policies?",
+        "options": [
+            "Declaration Policies adjust premiums based on fluctuating stock values; Floater Policies cover multiple locations under one sum insured",
+            "Declaration Policies apply to fixed stocks only; Floater Policies are for varying stocks",
+            "Floater Policies are location-specific; Declaration Policies adjust based on reinstatement value",
+            "Declaration Policies allow for monthly premiums; Floater Policies require annual adjustments"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the basis for calculating claims under the 'Contract Price Insurance Clause'?",
+        "options": [
+            "The agreed price under the sales contract",
+            "The current market price of the goods",
+            "The reinstatement value of the property",
+            "The book value of the insured items"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which stocks are excluded from coverage under the 'Deterioration of Stocks' add-on?",
+        "options": [
+            "Stocks in transit",
+            "Stocks in processing facilities",
+            "Cold storage stocks damaged by mechanical breakdown",
+            "Stocks affected by external power failures"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of the 'Designation of Property Clause'?",
+        "options": [
+            "To facilitate identification of insured property based on entries in books",
+            "To exclude specific stocks from coverage",
+            "To determine the market value of stocks during claim settlement",
+            "To adjust premium rates for specific machinery"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How are fluctuations in stock values addressed under Declaration Policies?",
+        "options": [
+            "By monthly declarations submitted within a specified timeframe",
+            "By annual adjustments to the sum insured",
+            "By adjusting premiums only after claim settlement",
+            "By excluding fluctuations during the policy term"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main condition for claiming under the 'Spoilage Material Damage Cover'?",
+        "options": [
+            "Spoilage must result directly from insured perils",
+            "Spoilage must occur during the transportation of stocks",
+            "Spoilage must be covered under a separate add-on policy",
+            "Spoilage must affect at least 50% of the stock value"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which clause specifically includes compliance costs for local authority regulations?",
+        "options": [
+            "Local Authorities Clause",
+            "Debris Removal Clause",
+            "Escalation Clause",
+            "Reinstatement Value Clause"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes the 'Agreed Bank Clause' from standard fire policy coverage?",
+        "options": [
+            "It protects the financial interests of the bank in the insured property",
+            "It mandates higher premiums for properties with bank loans",
+            "It excludes damage caused by processing delays",
+            "It allows claims to be directly assigned to third parties"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Under what conditions does the 'Debris Removal Clause' become effective?",
+        "options": [
+            "When debris removal costs exceed 1% of the claim amount",
+            "When debris removal is required for reinstatement",
+            "When debris removal is mandated by local authorities",
+            "When debris removal costs are explicitly mentioned in the policy"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a critical requirement for reinstatement under Reinstatement Value Policies?",
+        "options": [
+            "Property must be reinstated to its original condition within a specified timeframe",
+            "Reinstatement must include depreciation adjustments",
+            "Reinstatement value must match the book value",
+            "Reinstatement must occur within 6 months of the claim date"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the 'Forest Fire' add-on extend standard fire policy coverage?",
+        "options": [
+            "It includes damage caused by burning jungles or forests",
+            "It excludes damage caused by bushfires",
+            "It increases the sum insured for rural properties",
+            "It limits coverage to properties within forest zones"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of the 'Temporary Removal of Stocks' clause?",
+        "options": [
+            "To ensure stocks removed for processing remain covered",
+            "To exclude stocks removed for non-business purposes",
+            "To adjust premiums for temporarily removed stocks",
+            "To increase coverage for processing facilities"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the maximum coverage provided under the 'Architects' Fees Clause'?",
+        "options": [
+            "3% of the claim amount",
+            "5% of the claim amount",
+            "7.5% of the claim amount",
+            "10% of the claim amount"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a unique feature of the 'Debris Removal Clause'?",
+        "options": [
+            "It provides coverage for removal costs exceeding 1% of the claim amount",
+            "It covers compliance costs for local authorities",
+            "It includes additional endorsements for reinstatement costs",
+            "It excludes debris removal for properties outside urban areas"
+        ],
+        "correctIndex": 0
+    }
+]

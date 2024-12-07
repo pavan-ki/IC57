@@ -12,8 +12,8 @@ let selectedMockTest = "Easy"; // Track the currently selected mock test
 // Dynamically populate the accordion menu with chapters and mock tests
 function populateMenu() {
     const chapters = {
-        "Chapter 01 - BASIC PRINCIPLES AND THE FIRE POLICY": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 02 - MARKETING IN MOTOR INSURANCE": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
+        "Chapter 01 - BASIC PRINCIPLES AND THE FIRE POLICY": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Summary.json"],
+        "Chapter 02 - ADD ON COVERS AND SPECIAL POLICIES": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 03 - TYPE OF MOTOR VEHICLES, DOCUMENTS AND POLICIES": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 04 - UNDERWRITING IN MOTOR INSURANCE": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 05 - MOTOR INSURANCE CLAIMS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
