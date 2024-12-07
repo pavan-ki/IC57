@@ -45,7 +45,7 @@ function populateMenu() {
             quizLink.classList.add("quiz-link");
 
             if (mockTest.startsWith("Summary")) {
-                quizLink.onclick = () => loadSummary();
+                quizLink.onclick = () => loadSummary(encodeURIComponent(`${chapter}/${mockTest}`), chapter, mockTest.replace(".json", ""));
             }
             else {
                 quizLink.onclick = () => loadQuiz(encodeURIComponent(`${chapter}/${mockTest}`), chapter, mockTest.replace(".json", ""));
