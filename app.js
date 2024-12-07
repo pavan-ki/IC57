@@ -176,7 +176,7 @@ function createQuestionHTML(question, index) {
 function createSummaryHTML(question) {
     return `
         <div class="question-card">
-            <div class="question-title">${question.question}</div>
+            <div class="question-title">${question}</div>
         </div>
     `;
 }
