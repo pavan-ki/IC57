@@ -44,7 +44,7 @@ function populateMenu() {
             quizLink.textContent = mockTest.replace(".json", ""); // Display name without .json
             quizLink.classList.add("quiz-link");
 
-            if (chapter.startsWith("Summary")) {
+            if (mockTest.startsWith("Summary")) {
                 quizLink.onclick = () => loadSummary();
             }
             else {
