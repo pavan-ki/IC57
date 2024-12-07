@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the purpose of the Escalation Clause in a fire insurance policy?",
+      "options": [
+        "To decrease the sum insured",
+        "To automatically increase the sum insured",
+        "To determine the market value",
+        "To regulate claim settlements"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under the Reinstatement Value Policies (RIV) clause, how is the settlement of claims different from a regular fire policy?",
+      "options": [
+        "Based on market value",
+        "Based on the replacement cost",
+        "Based on actual cash value",
+        "Based on depreciation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main purpose of the Local Authorities Clause in a Reinstatement Value Policy?",
+      "options": [
+        "To provide coverage for additional expenses",
+        "To cover losses due to natural disasters",
+        "To comply with regulations enforced by authorities",
+        "To determine the market value"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In a Declaration Policy, when should the insured declare the value of their stocks?",
+      "options": [
+        "Quarterly",
+        "Annually",
+        "Monthly",
+        "Biennially"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the advantage of Declaration Policies?",
+      "options": [
+        "Fixed premium irrespective of actual risk",
+        "Premium based on the estimated risk",
+        "Premium is not subject to adjustment",
+        "No need for periodic declarations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is a Floater Policy used in fire insurance?",
+      "options": [
+        "To cover specific items",
+        "To cover only machinery",
+        "To cover stocks at various locations under a single sum insured",
+        "To cover losses due to natural disasters"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of the Agreed Bank Clause in insurance policies?",
+      "options": [
+        "To protect the insured",
+        "To protect the bank's interest",
+        "To determine market value",
+        "To regulate claim settlements"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under the Contract Price Insurance Clause, on what basis is the liability of the insurance company calculated for imported goods?",
+      "options": [
+        "Based on the market value",
+        "Based on the invoice value",
+        "Based on the contract price",
+        "Based on the replacement cost"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the Designation of Property Clause clarify in a fire insurance policy?",
+      "options": [
+        "It determines the market value",
+        "It specifies the insured's books of account",
+        "It defines the scope of coverage",
+        "It outlines the claim settlement process"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a Floater Declaration Policy, what is the minimum retention percentage of the annual premium?",
+      "options": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Under the Spoilage Material Damage Cover extension, what types of losses are covered?",
+      "options": [
+        "Loss of stock in process",
+        "Loss due to theft",
+        "Loss from natural disasters",
+        "Loss from business interruptions"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the purpose of the Temporary Removal of Stocks Clause?",
+      "options": [
+        "To permanently relocate stocks",
+        "To cover stocks during transportation",
+        "To cover stocks during fabrication or processing",
+        "To provide coverage for additional expenses"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the Start-up Expenses extension, what does the policy cover?",
+      "options": [
+        "Loss of rent",
+        "Additional expenses of rent for alternative accommodation",
+        "Start-up costs incurred after a loss",
+        "Spoilage material damage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the maximum percentage by which the sum insured can be escalated under the Escalation Clause?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Under the Omission to Insure, Additions, Alterations, or Extensions Clause, when is the cover fully reinstated if the insured fails to declare within 30 days?",
+      "options": [
+        "After 15 days",
+        "After 20 days",
+        "After 25 days",
+        "After 30 days"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary consideration in the Reinstatement Value Policies (RIV) clause when replacing damaged machinery?",
+      "options": [
+        "Identical replacement",
+        "Superior replacement",
+        "Replacement with any available machinery",
+        "Depreciated value replacement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the Local Authorities Clause, what additional cost of reinstatement is covered?",
+      "options": [
+        "Cost of repair",
+        "Cost of replacement",
+        "Cost of compliance with building regulations",
+        "Cost of additional stocks"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the time limit for completing reinstatement in the Reinstatement Value Policies (RIV) clause?",
+      "options": [
+        "6 months",
+        "9 months",
+        "12 months",
+        "18 months"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the Declaration Policies, what is the basis for calculating the premium at the end of the policy period?",
+      "options": [
+        "Initial sum insured",
+        "Average sum insured",
+        "Highest sum insured",
+        "Lowest sum insured"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the minimum sum insured for Floater Declaration Policies?",
+      "options": [
+        "Rs. 1 lakh",
+        "Rs. 1 crore",
+        "Rs. 2 crores",
+        "Rs. 5 crores"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the Floater Policies, how is the premium charged for stocks in a process block?",
+      "options": [
+        "At the storage rate",
+        "At the machinery rate",
+        "At the process rate",
+        "At the market rate"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the Contract Price Insurance Clause?",
+      "options": [
+        "To calculate the liability based on market value",
+        "To calculate the liability based on the replacement cost",
+        "To calculate the liability based on the contract price",
+        "To calculate the liability based on the invoice value"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the Designation of Property Clause consider for determining the insured item?",
+      "options": [
+        "Market value",
+        "Book designation",
+        "Policy wording",
+        "Claim history"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the Agreed Bank Clause require the bank to do in case of changes in ownership or alterations?",
+      "options": [
+        "Notify the company",
+        "Increase the sum insured",
+        "Cancel the policy",
+        "Adjust the premium"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Under the Declaration Policies, what happens if the insured fails to declare the value of their stocks within the specified period?",
+      "options": [
+        "No effect on coverage",
+        "The policy is canceled",
+        "The sum insured is deemed declared",
+        "The premium is refunded"
+      ],
+      "correctIndex": 2
+    }
+  ]
+  
