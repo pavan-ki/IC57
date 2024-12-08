@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the purpose of 'Discharge voucher and cheque settlement' in claim procedures?",
+        "options": [
+            "A partially correct explanation of discharge voucher and cheque settlement.",
+            "An irrelevant concept not tied to discharge voucher and cheque settlement.",
+            "The main goal or explanation of discharge voucher and cheque settlement.",
+            "A term unrelated to discharge voucher and cheque settlement."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Outstanding claims: Known and IBNR' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to outstanding claims: known and ibnr.",
+            "The main goal or explanation of outstanding claims: known and ibnr.",
+            "A term unrelated to outstanding claims: known and ibnr.",
+            "A partially correct explanation of outstanding claims: known and ibnr."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Inspection of the scene of loss' in claim procedures?",
+        "options": [
+            "A partially correct explanation of inspection of the scene of loss.",
+            "The main goal or explanation of inspection of the scene of loss.",
+            "A term unrelated to inspection of the scene of loss.",
+            "An irrelevant concept not tied to inspection of the scene of loss."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Assessment for buildings and machinery' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to assessment for buildings and machinery.",
+            "The main goal or explanation of assessment for buildings and machinery.",
+            "A term unrelated to assessment for buildings and machinery.",
+            "A partially correct explanation of assessment for buildings and machinery."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Handling of furniture and personal effects' in claim procedures?",
+        "options": [
+            "The main goal or explanation of handling of furniture and personal effects.",
+            "A partially correct explanation of handling of furniture and personal effects.",
+            "A term unrelated to handling of furniture and personal effects.",
+            "An irrelevant concept not tied to handling of furniture and personal effects."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Registration of claims and allotment of claim number' in claim procedures?",
+        "options": [
+            "A partially correct explanation of registration of claims and allotment of claim number.",
+            "The main goal or explanation of registration of claims and allotment of claim number.",
+            "A term unrelated to registration of claims and allotment of claim number.",
+            "An irrelevant concept not tied to registration of claims and allotment of claim number."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Condition 15: Pro-rata premium for unexpired period' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to condition 15: pro-rata premium for unexpired period.",
+            "A term unrelated to condition 15: pro-rata premium for unexpired period.",
+            "A partially correct explanation of condition 15: pro-rata premium for unexpired period.",
+            "The main goal or explanation of condition 15: pro-rata premium for unexpired period."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Assessment of stocks and merchandise' in claim procedures?",
+        "options": [
+            "A term unrelated to assessment of stocks and merchandise.",
+            "A partially correct explanation of assessment of stocks and merchandise.",
+            "The main goal or explanation of assessment of stocks and merchandise.",
+            "An irrelevant concept not tied to assessment of stocks and merchandise."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'General process of loss assessment' in claim procedures?",
+        "options": [
+            "A partially correct explanation of general process of loss assessment.",
+            "An irrelevant concept not tied to general process of loss assessment.",
+            "The main goal or explanation of general process of loss assessment.",
+            "A term unrelated to general process of loss assessment."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Reinstatement claims and verification' in claim procedures?",
+        "options": [
+            "A term unrelated to reinstatement claims and verification.",
+            "An irrelevant concept not tied to reinstatement claims and verification.",
+            "A partially correct explanation of reinstatement claims and verification.",
+            "The main goal or explanation of reinstatement claims and verification."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Appointment of surveyor and loss assessor' in claim procedures?",
+        "options": [
+            "The main goal or explanation of appointment of surveyor and loss assessor.",
+            "A partially correct explanation of appointment of surveyor and loss assessor.",
+            "A term unrelated to appointment of surveyor and loss assessor.",
+            "An irrelevant concept not tied to appointment of surveyor and loss assessor."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Assessment of the cause of loss' in claim procedures?",
+        "options": [
+            "A term unrelated to assessment of the cause of loss.",
+            "An irrelevant concept not tied to assessment of the cause of loss.",
+            "The main goal or explanation of assessment of the cause of loss.",
+            "A partially correct explanation of assessment of the cause of loss."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Business interruption claims' in claim procedures?",
+        "options": [
+            "A partially correct explanation of business interruption claims.",
+            "An irrelevant concept not tied to business interruption claims.",
+            "A term unrelated to business interruption claims.",
+            "The main goal or explanation of business interruption claims."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Co-insurance claims handling' in claim procedures?",
+        "options": [
+            "A partially correct explanation of co-insurance claims handling.",
+            "An irrelevant concept not tied to co-insurance claims handling.",
+            "A term unrelated to co-insurance claims handling.",
+            "The main goal or explanation of co-insurance claims handling."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Details in a claim register' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to details in a claim register.",
+            "A term unrelated to details in a claim register.",
+            "A partially correct explanation of details in a claim register.",
+            "The main goal or explanation of details in a claim register."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Final survey report components' in claim procedures?",
+        "options": [
+            "A term unrelated to final survey report components.",
+            "The main goal or explanation of final survey report components.",
+            "A partially correct explanation of final survey report components.",
+            "An irrelevant concept not tied to final survey report components."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Preliminary report by surveyor' in claim procedures?",
+        "options": [
+            "A term unrelated to preliminary report by surveyor.",
+            "The main goal or explanation of preliminary report by surveyor.",
+            "An irrelevant concept not tied to preliminary report by surveyor.",
+            "A partially correct explanation of preliminary report by surveyor."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Recovery from third parties' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to recovery from third parties.",
+            "A term unrelated to recovery from third parties.",
+            "The main goal or explanation of recovery from third parties.",
+            "A partially correct explanation of recovery from third parties."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Surveyor duties as per regulations' in claim procedures?",
+        "options": [
+            "The main goal or explanation of surveyor duties as per regulations.",
+            "A partially correct explanation of surveyor duties as per regulations.",
+            "A term unrelated to surveyor duties as per regulations.",
+            "An irrelevant concept not tied to surveyor duties as per regulations."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Claim form and required information' in claim procedures?",
+        "options": [
+            "A partially correct explanation of claim form and required information.",
+            "An irrelevant concept not tied to claim form and required information.",
+            "A term unrelated to claim form and required information.",
+            "The main goal or explanation of claim form and required information."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Final report by surveyor' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to final report by surveyor.",
+            "A partially correct explanation of final report by surveyor.",
+            "The main goal or explanation of final report by surveyor.",
+            "A term unrelated to final report by surveyor."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Claim procedure under IRDA regulations' in claim procedures?",
+        "options": [
+            "A term unrelated to claim procedure under irda regulations.",
+            "An irrelevant concept not tied to claim procedure under irda regulations.",
+            "A partially correct explanation of claim procedure under irda regulations.",
+            "The main goal or explanation of claim procedure under irda regulations."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Payment of 'on account settlements'' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to payment of 'on account settlements'.",
+            "A partially correct explanation of payment of 'on account settlements'.",
+            "The main goal or explanation of payment of 'on account settlements'.",
+            "A term unrelated to payment of 'on account settlements'."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Steps in survey and loss assessment' in claim procedures?",
+        "options": [
+            "An irrelevant concept not tied to steps in survey and loss assessment.",
+            "A term unrelated to steps in survey and loss assessment.",
+            "The main goal or explanation of steps in survey and loss assessment.",
+            "A partially correct explanation of steps in survey and loss assessment."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Claim verification process' in claim procedures?",
+        "options": [
+            "A term unrelated to claim verification process.",
+            "An irrelevant concept not tied to claim verification process.",
+            "The main goal or explanation of claim verification process.",
+            "A partially correct explanation of claim verification process."
+        ],
+        "correctIndex": 2
+    }
+]

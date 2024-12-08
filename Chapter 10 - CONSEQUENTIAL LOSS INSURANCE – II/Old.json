@@ -1,0 +1,243 @@
+[
+    {
+      "question": "What is the purpose of the 'Dual Basis of Insurance' in wages coverage?",
+      "options": [
+        "To exclude wages from the insurance entirely.",
+        "To provide coverage for wages separately from the gross profit.",
+        "To eliminate the need for indemnity periods in wages coverage.",
+        "To limit coverage for wages to a specific time frame."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Dual Basis method, what is the 'Carry over provision' designed for?",
+      "options": [
+        "To increase the initial period of full wage cover.",
+        "To adjust the rate of premium for the entire indemnity period.",
+        "To utilize saved wages during the initial period for the remaining period.",
+        "To consolidate the dual basis cover into a single basis."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the 'Option to Consolidate' in the Dual Basis method allow the insured to do?",
+      "options": [
+        "Extend the indemnity period for full wage cover.",
+        "Convert the dual basis cover into full wage cover for an increased period.",
+        "Switch to a different method of insuring wages.",
+        "Cancel the coverage for wages entirely."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is the 'Option to Consolidate' typically exercised?",
+      "options": [
+        "At the time of policy renewal.",
+        "After the indemnity period has ended.",
+        "At the time when the claim is made.",
+        "Whenever there is a change in the business structure."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the 'Annual Method' for wages insurance, how are differing indemnity periods arranged?",
+      "options": [
+        "By including all wages in a single period.",
+        "By covering different classes of employees under separate periods.",
+        "By setting a fixed annual indemnity period for all wages.",
+        "By arranging varying indemnity periods for different classes of employees."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the 'Period Basis' or 'Pro-rata Basis' for wages insurance, how are rates of premium determined?",
+      "options": [
+        "Based on the gross profit.",
+        "According to the indemnity period selected.",
+        "As a fixed percentage of the sum insured.",
+        "According to the type of employees covered."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key feature of the 'Dual Basis' method for insuring wages?",
+      "options": [
+        "All wages are entirely excluded from the policy.",
+        "Wages are insured separately for different peril types.",
+        "The insured has the flexibility to scrutinize and adjust wages coverage.",
+        "The insured has no control over the coverage for wages."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the 'Lay-off / Retrenchment Compensation' extension in a consequential loss policy?",
+      "options": [
+        "To provide coverage for damage caused by lay-offs.",
+        "To cover the insured's liability under the Industrial Disputes Act.",
+        "To compensate for loss of turnover due to lay-offs.",
+        "To exclude coverage for lay-offs from the policy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How is the liability calculated under the 'Lay-off / Retrenchment Compensation' extension?",
+      "options": [
+        "It is a fixed percentage of the gross profit.",
+        "It is limited to the amount payable as wages.",
+        "It is proportional to the insured's total liability under the Act.",
+        "It is calculated based on the insured's net profit."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the 'Difference Basis of Specification' involve in gross profit policies?",
+      "options": [
+        "It specifies the difference between insured and uninsured perils.",
+        "It determines the difference between gross profit and net profit.",
+        "It calculates gross profit by considering the difference in specified working expenses.",
+        "It excludes certain specified working expenses from the coverage."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the 'Output' Basis of Specification, when is the policy particularly useful?",
+      "options": [
+        "When there is a constant rate of production.",
+        "When the turnover is unpredictable.",
+        "When there is no fluctuation in standing charges.",
+        "When the indemnity period is short."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the purpose of the 'Accumulation Clause' in a turnover-based policy?",
+      "options": [
+        "To accumulate standing charges.",
+        "To cover losses due to accumulated stocks.",
+        "To extend the indemnity period.",
+        "To adjust rates of premium."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the significance of the 'New Business Clause' in a consequential loss policy?",
+      "options": [
+        "It extends coverage for new types of perils.",
+        "It provides coverage for losses in the first twelve months of a new business.",
+        "It adjusts the rate of gross profit for the first year of trading.",
+        "It limits coverage for new businesses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is the 'Alternative Basis Clause' typically applied in a consequential loss policy?",
+      "options": [
+        "When there is a change in the business structure.",
+        "When there is a dispute over the loss amount.",
+        "When the policy is issued on a turnover basis.",
+        "When the insured switches to a new type of business."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the 'Output Policy' in consequential loss insurance?",
+      "options": [
+        "To exclude losses related to output.",
+        "To cover losses specifically due to turnover.",
+        "To provide accurate indemnity when using accumulated stocks.",
+        "To limit coverage for output-related losses."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under the 'Output Policy,' what is the definition of 'Output'?",
+      "options": [
+        "The quantity of goods manufactured.",
+        "The sale value of goods.",
+        "The value of production costs.",
+        "The total number of units sold."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the 'Output Policy,' how is the rate of gross profit calculated?",
+      "options": [
+        "As the rate of net profit per unit.",
+        "As the rate of gross profit per unit.",
+        "As a fixed percentage of total production.",
+        "As the rate of net profit per sale."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is the 'Difference Basis' of gross profit specification preferable?",
+      "options": [
+        "When there is a constant rate of production.",
+        "When gross profit is measured by turnover.",
+        "When there is a need to list specified standing charges.",
+        "When accumulated stocks are used to maintain turnover."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary advantage of the 'Difference Basis' in gross profit policies?",
+      "options": [
+        "It eliminates the need for reviewing standing charges.",
+        "It simplifies the calculation of gross profit.",
+        "It prevents the omission of specified standing charges.",
+        "It provides a fixed rate of gross profit."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In 'Revenue Policies,' what does 'Gross Revenue' represent?",
+      "options": [
+        "The total income of the insured.",
+        "The total value of goods manufactured.",
+        "The net profit earned by the insured.",
+        "The money paid for services rendered."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What distinguishes 'Gross Fees Policies' from 'Revenue Policies'?",
+      "options": [
+        "Coverage for legal, clerical, and other charges.",
+        "Coverage for gross fees in addition to legal charges.",
+        "Coverage for services rendered by professional persons.",
+        "Coverage for manufacturing businesses."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the primary coverage under 'Gross Fees Policies'?",
+      "options": [
+        "Loss of gross fees and additional expenditure.",
+        "Loss of gross fees only.",
+        "Legal, clerical, and other charges.",
+        "Loss of net profit."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Under 'Gross Fees Policies,' what does item 2 cover?",
+      "options": [
+        "Loss of gross fees.",
+        "Additional expenditure beyond item 1(ii).",
+        "Legal, clerical, and other charges.",
+        "Loss of gross fees and additional expenditure."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common duty of the insured upon the happening of damage, as per condition 3 of the policies?",
+      "options": [
+        "Notify the company of the damage.",
+        "Minimize the interruption at all costs.",
+        "Prepare the claim within 30 days.",
+        "Repay any advance payments made."
+      ],
+      "correctIndex": 0
+    }
+  ]
+  

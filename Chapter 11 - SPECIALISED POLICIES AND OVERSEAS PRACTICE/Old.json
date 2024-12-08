@@ -1,0 +1,203 @@
+[
+    {
+      "question": "What does the Petrochemical Tariff focus on for rating petrochemical plants?",
+      "options": [
+        "Only the quantity of flammable materials",
+        "Properties of chemicals and quantity of flammable materials",
+        "Type of each identifiable process/operation only",
+        "Material of construction and temperature"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Industrial All Risk Policy, what is covered under Section I?",
+      "options": [
+        "Business Interruption",
+        "Material Damage",
+        "Liability",
+        "Burglary"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under the Industrial All Risk Policy, what factor influences the rates?",
+      "options": [
+        "Claims experience",
+        "Deductible opted by the insured",
+        "Quantity of material handled",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What does the Mutual Aid Scheme Regulations recommend for fire safety checks?",
+      "options": [
+        "Monthly",
+        "Annually",
+        "Every six months",
+        "Biennially"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the Excess Clause in insurance policies?",
+      "options": [
+        "To reduce premiums",
+        "To limit the insurer's liability",
+        "To exclude certain perils",
+        "To encourage safety measures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the key feature of the Insurance Pool for Nuclear Disasters in India?",
+      "options": [
+        "Coverage only for radiation zones",
+        "Membership of individual nuclear plants",
+        "Comprehensive coverage for construction, testing, operation, and liability",
+        "Exclusion of liability for nuclear incidents"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common feature of 'All Risks' policies in the UK and Industrial All Risk policies in India?",
+      "options": [
+        "Limited coverage",
+        "Named perils",
+        "Comprehensive coverage",
+        "Exclusion of business interruption"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary benefit of Combined Policies to the insured?",
+      "options": [
+        "Lower deductibles",
+        "Simplified administration",
+        "Higher coverage limits",
+        "No renewal documentation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the USA, what is ISO responsible for in commercial property insurance?",
+      "options": [
+        "Setting premiums",
+        "Developing standardized policy forms",
+        "Conducting inspections",
+        "Handling claims"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary difference between the Basic and Broad Forms in the USA property insurance?",
+      "options": [
+        "Number of perils covered",
+        "Coverage for theft",
+        "Inclusion of earthquake coverage",
+        "Deductible amounts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What valuation method is generally used for property covered by the Business Personal Property (BPP) form in the USA?",
+      "options": [
+        "Market value",
+        "Replacement cost without depreciation",
+        "First loss cover",
+        "Actual cash value"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which form of coverage in the USA is on an 'All-Risk' basis and covers any accidental cause of loss unless specifically excluded?",
+      "options": [
+        "Basic Form",
+        "Broad Form",
+        "Special Form",
+        "Earthquake Form"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the Commercial Package Policy (CPP) in the USA include?",
+      "options": [
+        "Only commercial property coverage",
+        "Multiple coverage parts for different risks",
+        "Boiler and Machinery coverage only",
+        "Liability coverage only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the role of the General Insurance Council in India?",
+      "options": [
+        "Selling insurance policies",
+        "Representing the interests of life insurance companies",
+        "Coordination and advocacy for non-life insurance companies",
+        "Regulating insurance premiums"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What did the General Insurance Council contribute to in recent times regarding deductibles?",
+      "options": [
+        "Elimination of deductibles",
+        "Increase in deductibles",
+        "Revision in deductibles with common consensus",
+        "Introduction of new deductibles"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the Industrial All Risk Policy rated, according to the information provided?",
+      "options": [
+        "Solely based on claims experience",
+        "Deductibles opted by the insured",
+        "A combination of risk assessment, deductibles, and claims experience",
+        "Primarily based on the deductible amount"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the 'Accumulation Clause' in a turnover-based policy?",
+      "options": [
+        "To accumulate standing charges",
+        "To cover losses due to accumulated stocks",
+        "To extend the indemnity period",
+        "To adjust rates of premium"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the significance of the 'New Business Clause' in a consequential loss policy?",
+      "options": [
+        "It extends coverage for new types of perils",
+        "It provides coverage for losses in the first twelve months of a new business",
+        "It adjusts the rate of gross profit for the first year of trading",
+        "It limits coverage for new businesses"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary benefit of Combined Policies to the insured?",
+      "options": [
+        "Lower deductibles",
+        "Simplified administration",
+        "Higher coverage limits",
+        "No renewal documentation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What valuation method is generally used for property covered by the Business Personal Property (BPP) form in the USA?",
+      "options": [
+        "Market value",
+        "Replacement cost without depreciation",
+        "First loss cover",
+        "Actual cash value"
+      ],
+      "correctIndex": 3
+    }
+  ]
+  

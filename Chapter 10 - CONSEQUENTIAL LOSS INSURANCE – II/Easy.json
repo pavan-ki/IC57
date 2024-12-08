@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the purpose of 'Extensions for supplier's premises damage' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to extensions for supplier's premises damage.",
+            "The main goal or explanation of extensions for supplier's premises damage.",
+            "A partially correct explanation of extensions for supplier's premises damage.",
+            "A term unrelated to extensions for supplier's premises damage."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Steps taken by insurers for claim settlement' in consequential loss insurance?",
+        "options": [
+            "The main goal or explanation of steps taken by insurers for claim settlement.",
+            "A term unrelated to steps taken by insurers for claim settlement.",
+            "A partially correct explanation of steps taken by insurers for claim settlement.",
+            "An irrelevant concept not tied to steps taken by insurers for claim settlement."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Definition of consequential loss insurance policy' in consequential loss insurance?",
+        "options": [
+            "A partially correct explanation of definition of consequential loss insurance policy.",
+            "A term unrelated to definition of consequential loss insurance policy.",
+            "The main goal or explanation of definition of consequential loss insurance policy.",
+            "An irrelevant concept not tied to definition of consequential loss insurance policy."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Extensions for customer\u2019s premises damage' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to extensions for customer\u2019s premises damage.",
+            "A term unrelated to extensions for customer\u2019s premises damage.",
+            "A partially correct explanation of extensions for customer\u2019s premises damage.",
+            "The main goal or explanation of extensions for customer\u2019s premises damage."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Insurance for professional fees' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to insurance for professional fees.",
+            "A partially correct explanation of insurance for professional fees.",
+            "An irrelevant concept not tied to insurance for professional fees.",
+            "The main goal or explanation of insurance for professional fees."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Duties of the insured in claims process' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to duties of the insured in claims process.",
+            "An irrelevant concept not tied to duties of the insured in claims process.",
+            "The main goal or explanation of duties of the insured in claims process.",
+            "A partially correct explanation of duties of the insured in claims process."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Add-on covers in C.L. policy' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to add-on covers in c.l. policy.",
+            "The main goal or explanation of add-on covers in c.l. policy.",
+            "A term unrelated to add-on covers in c.l. policy.",
+            "A partially correct explanation of add-on covers in c.l. policy."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Dual basis of wages insurance' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to dual basis of wages insurance.",
+            "A partially correct explanation of dual basis of wages insurance.",
+            "An irrelevant concept not tied to dual basis of wages insurance.",
+            "The main goal or explanation of dual basis of wages insurance."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Coverage for lay-off and retrenchment compensation' in consequential loss insurance?",
+        "options": [
+            "A partially correct explanation of coverage for lay-off and retrenchment compensation.",
+            "A term unrelated to coverage for lay-off and retrenchment compensation.",
+            "An irrelevant concept not tied to coverage for lay-off and retrenchment compensation.",
+            "The main goal or explanation of coverage for lay-off and retrenchment compensation."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'New business clause' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to new business clause.",
+            "A partially correct explanation of new business clause.",
+            "A term unrelated to new business clause.",
+            "The main goal or explanation of new business clause."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Difference basis specification' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to difference basis specification.",
+            "A partially correct explanation of difference basis specification.",
+            "The main goal or explanation of difference basis specification.",
+            "A term unrelated to difference basis specification."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Use of surveyor's preliminary reports' in consequential loss insurance?",
+        "options": [
+            "A partially correct explanation of use of surveyor's preliminary reports.",
+            "A term unrelated to use of surveyor's preliminary reports.",
+            "An irrelevant concept not tied to use of surveyor's preliminary reports.",
+            "The main goal or explanation of use of surveyor's preliminary reports."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Application of alternative basis clause' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to application of alternative basis clause.",
+            "A partially correct explanation of application of alternative basis clause.",
+            "A term unrelated to application of alternative basis clause.",
+            "The main goal or explanation of application of alternative basis clause."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Basis rate and percentage for indemnity period' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to basis rate and percentage for indemnity period.",
+            "The main goal or explanation of basis rate and percentage for indemnity period.",
+            "A partially correct explanation of basis rate and percentage for indemnity period.",
+            "An irrelevant concept not tied to basis rate and percentage for indemnity period."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Revenue policies and their application' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to revenue policies and their application.",
+            "The main goal or explanation of revenue policies and their application.",
+            "A term unrelated to revenue policies and their application.",
+            "A partially correct explanation of revenue policies and their application."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Rating for business interruption section' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to rating for business interruption section.",
+            "An irrelevant concept not tied to rating for business interruption section.",
+            "The main goal or explanation of rating for business interruption section.",
+            "A partially correct explanation of rating for business interruption section."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Trends, variations, and special circumstances clause' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to trends, variations, and special circumstances clause.",
+            "The main goal or explanation of trends, variations, and special circumstances clause.",
+            "A term unrelated to trends, variations, and special circumstances clause.",
+            "A partially correct explanation of trends, variations, and special circumstances clause."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Definition of output basis specification' in consequential loss insurance?",
+        "options": [
+            "A partially correct explanation of definition of output basis specification.",
+            "A term unrelated to definition of output basis specification.",
+            "The main goal or explanation of definition of output basis specification.",
+            "An irrelevant concept not tied to definition of output basis specification."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Material damage proviso' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to material damage proviso.",
+            "A term unrelated to material damage proviso.",
+            "The main goal or explanation of material damage proviso.",
+            "A partially correct explanation of material damage proviso."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Final survey reports in claims assessment' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to final survey reports in claims assessment.",
+            "The main goal or explanation of final survey reports in claims assessment.",
+            "An irrelevant concept not tied to final survey reports in claims assessment.",
+            "A partially correct explanation of final survey reports in claims assessment."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Calculation of gross profit under turnover basis' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to calculation of gross profit under turnover basis.",
+            "A partially correct explanation of calculation of gross profit under turnover basis.",
+            "An irrelevant concept not tied to calculation of gross profit under turnover basis.",
+            "The main goal or explanation of calculation of gross profit under turnover basis."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Adjustments for trends and special circumstances' in consequential loss insurance?",
+        "options": [
+            "A term unrelated to adjustments for trends and special circumstances.",
+            "The main goal or explanation of adjustments for trends and special circumstances.",
+            "An irrelevant concept not tied to adjustments for trends and special circumstances.",
+            "A partially correct explanation of adjustments for trends and special circumstances."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Insurance of auditor's fees' in consequential loss insurance?",
+        "options": [
+            "The main goal or explanation of insurance of auditor's fees.",
+            "An irrelevant concept not tied to insurance of auditor's fees.",
+            "A partially correct explanation of insurance of auditor's fees.",
+            "A term unrelated to insurance of auditor's fees."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Coverage for insured's property at other locations' in consequential loss insurance?",
+        "options": [
+            "The main goal or explanation of coverage for insured's property at other locations.",
+            "A term unrelated to coverage for insured's property at other locations.",
+            "An irrelevant concept not tied to coverage for insured's property at other locations.",
+            "A partially correct explanation of coverage for insured's property at other locations."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Use of output basis for loss measurement' in consequential loss insurance?",
+        "options": [
+            "An irrelevant concept not tied to use of output basis for loss measurement.",
+            "A partially correct explanation of use of output basis for loss measurement.",
+            "The main goal or explanation of use of output basis for loss measurement.",
+            "A term unrelated to use of output basis for loss measurement."
+        ],
+        "correctIndex": 2
+    }
+]

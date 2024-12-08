@@ -1,0 +1,283 @@
+[
+    {
+      "question": "What does the term 'Net Trading Profit' exclude?",
+      "options": [
+        "All capital receipts and accretions",
+        "All outlay properly chargeable to capital",
+        "All standing charges",
+        "Both A and B"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When calculating Gross Profit, what is deducted from the Insured Standing Charges if there is a Net Trading Loss?",
+      "options": [
+        "Net Profit",
+        "Proportion of Net Trading Loss",
+        "All Standing Charges",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the definition of Turnover in the context of the policy?",
+      "options": [
+        "The money paid for goods and services",
+        "The net profit from trading",
+        "The insured's income from trading and services",
+        "The sum of all standing charges"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the Indemnity Period defined?",
+      "options": [
+        "The time from damage occurrence to claim settlement",
+        "The time from damage occurrence to the end of the financial year",
+        "The period during which business results are affected due to damage",
+        "The time from damage occurrence to policy renewal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the initial definition of the Rate of Gross Profit?",
+      "options": [
+        "The rate earned during the financial year before damage",
+        "The rate earned during the last completed financial year",
+        "The rate earned during the indemnity period",
+        "The rate earned during the financial year after damage"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is the Adjustment Clause used in the policy?",
+      "options": [
+        "To fix the Rate of Gross Profit",
+        "To allow adjustments to previous financial year results",
+        "To determine the Annual Turnover",
+        "To calculate the Standard Turnover"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How is Annual Turnover defined in the policy?",
+      "options": [
+        "Turnover during the last completed financial year",
+        "Turnover during the financial year after damage",
+        "Turnover during the twelve months before the date of damage",
+        "Turnover during the twelve months after the date of damage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the Standard Turnover represent?",
+      "options": [
+        "Turnover during the twelve months before the date of damage",
+        "Turnover during the twelve months after the date of damage",
+        "Turnover during the last completed financial year",
+        "Turnover during the maximum indemnity period"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How is the Adjustment Clause applied to trends in business?",
+      "options": [
+        "By ignoring trends in business",
+        "By adjusting figures based on past trends",
+        "By considering trends only in the Annual Turnover",
+        "By applying a fixed percentage to trends"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Adjustment Clause, what does 'The trend of the business' refer to?",
+      "options": [
+        "Changes in the Rate of Gross Profit",
+        "Changes in Annual Turnover",
+        "Upward or downward trends in business results",
+        "The duration of the Indemnity Period"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the Adjustment Clause in the context of variations and special circumstances?",
+      "options": [
+        "To ignore variations and special circumstances",
+        "To make adjustments for trends in business",
+        "To provide fair indemnity for losses due to special circumstances",
+        "To avoid making any adjustments"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When considering variations and special circumstances, what adjustments may be necessary?",
+      "options": [
+        "Adjustments for the Rate of Gross Profit only",
+        "Adjustments for the Annual Turnover only",
+        "Adjustments for the Standard Turnover only",
+        "Adjustments for any essential factors in calculating the loss"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the purpose of the 'Adjustment Clause' in the context of trends in business?",
+      "options": [
+        "To ignore trends in business",
+        "To apply a fixed percentage to trends",
+        "To make adjustments based on past trends",
+        "To prevent any adjustments"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the Gross Profit computed if the business is conducted in different departments?",
+      "options": [
+        "Each department has a separate Gross Profit calculation",
+        "The Gross Profit is calculated for the entire business",
+        "The Gross Profit is divided equally among departments",
+        "Only departments affected by damage have a Gross Profit calculation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does 'Memo 1' specify regarding goods sold or services rendered during the Indemnity Period?",
+      "options": [
+        "The money paid or payable for such sales or services",
+        "The money paid or payable for goods sold or services rendered elsewhere",
+        "The money paid or payable for goods sold or services rendered at the premises",
+        "The money paid or payable for goods sold or services rendered, regardless of location"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How is the additional expenditure considered under 'Memo 2' if any Standing Charges are not insured?",
+      "options": [
+        "The full additional expenditure is brought into account",
+        "A proportion of the additional expenditure is brought into account",
+        "The additional expenditure is ignored",
+        "The insured must pay the entire additional expenditure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under 'Memo 3,' when is a pro-rata return of premium applicable?",
+      "options": [
+        "When the gross profit earned is less than the sum insured",
+        "When the insured declares a loss after the expiry of the period of insurance",
+        "When the insured opts not to reinstate the sum insured",
+        "When the insured fails to furnish documentary evidence for the claim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the purpose of the specified formula in the policy for claim computation?",
+      "options": [
+        "To calculate the sum insured",
+        "To determine the adequacy of the sum insured",
+        "To apply the condition of average",
+        "To estimate the loss during the indemnity period"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When applying the formula for claim computation, what does 'economic limit' refer to?",
+      "options": [
+        "The maximum claim amount",
+        "The maximum gross profit earned",
+        "The maximum additional expenditure",
+        "The maximum reduction in turnover avoided"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In Example 1, what is the insurable amount calculated as?",
+      "options": [
+        "25% of the Turnover during the Indemnity Period",
+        "25% of the Annual Turnover",
+        "25% of the Standard Turnover",
+        "25% of the Gross Profit during the previous financial year"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Example 1, how is the claim amount adjusted for under-insurance?",
+      "options": [
+        "Proportionately increased",
+        "Proportionately reduced",
+        "Ignored",
+        "Doubled"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Example 2, what is the Gross Profit on annual turnover?",
+      "options": [
+        "Rs. 3600",
+        "Rs. 5000",
+        "Rs. 120,000",
+        "Rs. 400,000"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the minimum deductible for Petrochemical Risks under Business Interruption (FLOP)?",
+      "options": [
+        "3 days of Gross Profit",
+        "7 days of Gross Profit",
+        "14 days of Gross Profit",
+        "30 days of Gross Profit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under what condition does the policy cease?",
+      "options": [
+        "If any alteration is made in the business or premises",
+        "If the insured's interest ceases",
+        "If the business is permanently discontinued",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the time limit for enforcing a claim under the policy?",
+      "options": [
+        "One year from the end of the indemnity period",
+        "Three months from the date of loss",
+        "Three months from the date of claim settlement",
+        "Both A and C"
+      ],
+      "correctIndex": 3
+    },
+    {
+        "question": "[REPHRASED QUESTION of 20] What is the first step in computing the loss of gross profit due to a reduction in turnover?",
+        "options": [
+          "Apply the rate of gross profit to the actual turnover during the indemnity period.",
+          "Determine the standard turnover for the period.",
+          "Calculate the rate of gross profit based on the last audited financial accounts.",
+          "Assess the savings in insured standing charges during the interruption period."
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "[REPHRASED QUESTION of 21] How is the loss of gross profit calculated when there is a reduction in turnover?",
+        "options": [
+          "Apply the rate of gross profit to the difference between standard turnover and actual turnover.",
+          "Subtract the actual turnover from the standard turnover and apply the rate of gross profit to the result.",
+          "Deduct the rate of gross profit from the total standing charges.",
+          "Calculate the increase in cost of working."
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "[REPHRASED QUESTION of 22] In the context of increased cost of working, what is the economic limit?",
+        "options": [
+          "The maximum amount the insured can claim for additional expenses.",
+          "The point at which the additional expenditure cannot exceed the gross profit earned.",
+          "The threshold for the rate of gross profit applied to standard turnover.",
+          "The minimum amount the insured must spend to maintain turnover."
+        ],
+        "correctIndex": 1
+      }
+  ]
+  

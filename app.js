@@ -19,10 +19,10 @@ function populateMenu() {
         "Chapter 05 - DOCUMENTS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 06 - UNDERWRITING": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 07 - CLAIMS - LEGAL ASPECTS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 08 - THIRD PARTY LIABILITY INSURANCE": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 09 - PROCEDURES FOR FILING AND DEFENDING": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 10 - QUANTUM FIXATION": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 11 - FRAUD MANAGEMENT AND INTERNAL AUDIT": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"]
+        "Chapter 08 - CLAIMS – PROCEDURAL ASPECTS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
+        "Chapter 09 - CONSEQUENTIAL LOSS INSURANCE - I": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
+        "Chapter 10 - CONSEQUENTIAL LOSS INSURANCE – II": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
+        "Chapter 11 - SPECIALISED POLICIES AND OVERSEAS PRACTICE": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"]
     };
 
     const sidenav = document.getElementById("mySidenav");

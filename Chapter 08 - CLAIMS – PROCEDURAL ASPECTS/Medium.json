@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Which of the following best describes the application of 'Assessment for buildings and machinery' in claim handling?",
+        "options": [
+            "A precise explanation of assessment for buildings and machinery with a practical application.",
+            "A vague explanation of assessment for buildings and machinery unrelated to claim handling.",
+            "An incomplete interpretation of assessment for buildings and machinery.",
+            "A misleading concept regarding assessment for buildings and machinery."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'General process of loss assessment' in claim handling?",
+        "options": [
+            "A precise explanation of general process of loss assessment with a practical application.",
+            "A misleading concept regarding general process of loss assessment.",
+            "A vague explanation of general process of loss assessment unrelated to claim handling.",
+            "An incomplete interpretation of general process of loss assessment."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Reinstatement claims and verification' in claim handling?",
+        "options": [
+            "A precise explanation of reinstatement claims and verification with a practical application.",
+            "A misleading concept regarding reinstatement claims and verification.",
+            "A vague explanation of reinstatement claims and verification unrelated to claim handling.",
+            "An incomplete interpretation of reinstatement claims and verification."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Appointment of surveyor and loss assessor' in claim handling?",
+        "options": [
+            "A misleading concept regarding appointment of surveyor and loss assessor.",
+            "A precise explanation of appointment of surveyor and loss assessor with a practical application.",
+            "An incomplete interpretation of appointment of surveyor and loss assessor.",
+            "A vague explanation of appointment of surveyor and loss assessor unrelated to claim handling."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Condition 15: Pro-rata premium for unexpired period' in claim handling?",
+        "options": [
+            "A vague explanation of condition 15: pro-rata premium for unexpired period unrelated to claim handling.",
+            "A precise explanation of condition 15: pro-rata premium for unexpired period with a practical application.",
+            "An incomplete interpretation of condition 15: pro-rata premium for unexpired period.",
+            "A misleading concept regarding condition 15: pro-rata premium for unexpired period."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Preliminary report by surveyor' in claim handling?",
+        "options": [
+            "A precise explanation of preliminary report by surveyor with a practical application.",
+            "A misleading concept regarding preliminary report by surveyor.",
+            "An incomplete interpretation of preliminary report by surveyor.",
+            "A vague explanation of preliminary report by surveyor unrelated to claim handling."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Claim form and required information' in claim handling?",
+        "options": [
+            "A precise explanation of claim form and required information with a practical application.",
+            "A vague explanation of claim form and required information unrelated to claim handling.",
+            "A misleading concept regarding claim form and required information.",
+            "An incomplete interpretation of claim form and required information."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Assessment of the cause of loss' in claim handling?",
+        "options": [
+            "A misleading concept regarding assessment of the cause of loss.",
+            "An incomplete interpretation of assessment of the cause of loss.",
+            "A precise explanation of assessment of the cause of loss with a practical application.",
+            "A vague explanation of assessment of the cause of loss unrelated to claim handling."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Handling of furniture and personal effects' in claim handling?",
+        "options": [
+            "An incomplete interpretation of handling of furniture and personal effects.",
+            "A misleading concept regarding handling of furniture and personal effects.",
+            "A precise explanation of handling of furniture and personal effects with a practical application.",
+            "A vague explanation of handling of furniture and personal effects unrelated to claim handling."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Co-insurance claims handling' in claim handling?",
+        "options": [
+            "A misleading concept regarding co-insurance claims handling.",
+            "An incomplete interpretation of co-insurance claims handling.",
+            "A precise explanation of co-insurance claims handling with a practical application.",
+            "A vague explanation of co-insurance claims handling unrelated to claim handling."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Discharge voucher and cheque settlement' in claim handling?",
+        "options": [
+            "A precise explanation of discharge voucher and cheque settlement with a practical application.",
+            "An incomplete interpretation of discharge voucher and cheque settlement.",
+            "A vague explanation of discharge voucher and cheque settlement unrelated to claim handling.",
+            "A misleading concept regarding discharge voucher and cheque settlement."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Assessment of stocks and merchandise' in claim handling?",
+        "options": [
+            "An incomplete interpretation of assessment of stocks and merchandise.",
+            "A vague explanation of assessment of stocks and merchandise unrelated to claim handling.",
+            "A misleading concept regarding assessment of stocks and merchandise.",
+            "A precise explanation of assessment of stocks and merchandise with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Business interruption claims' in claim handling?",
+        "options": [
+            "An incomplete interpretation of business interruption claims.",
+            "A precise explanation of business interruption claims with a practical application.",
+            "A misleading concept regarding business interruption claims.",
+            "A vague explanation of business interruption claims unrelated to claim handling."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Final survey report components' in claim handling?",
+        "options": [
+            "A vague explanation of final survey report components unrelated to claim handling.",
+            "An incomplete interpretation of final survey report components.",
+            "A precise explanation of final survey report components with a practical application.",
+            "A misleading concept regarding final survey report components."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Inspection of the scene of loss' in claim handling?",
+        "options": [
+            "A misleading concept regarding inspection of the scene of loss.",
+            "An incomplete interpretation of inspection of the scene of loss.",
+            "A precise explanation of inspection of the scene of loss with a practical application.",
+            "A vague explanation of inspection of the scene of loss unrelated to claim handling."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Final report by surveyor' in claim handling?",
+        "options": [
+            "A misleading concept regarding final report by surveyor.",
+            "A precise explanation of final report by surveyor with a practical application.",
+            "A vague explanation of final report by surveyor unrelated to claim handling.",
+            "An incomplete interpretation of final report by surveyor."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Registration of claims and allotment of claim number' in claim handling?",
+        "options": [
+            "A vague explanation of registration of claims and allotment of claim number unrelated to claim handling.",
+            "A precise explanation of registration of claims and allotment of claim number with a practical application.",
+            "An incomplete interpretation of registration of claims and allotment of claim number.",
+            "A misleading concept regarding registration of claims and allotment of claim number."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Steps in survey and loss assessment' in claim handling?",
+        "options": [
+            "An incomplete interpretation of steps in survey and loss assessment.",
+            "A precise explanation of steps in survey and loss assessment with a practical application.",
+            "A vague explanation of steps in survey and loss assessment unrelated to claim handling.",
+            "A misleading concept regarding steps in survey and loss assessment."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Payment of 'on account settlements'' in claim handling?",
+        "options": [
+            "A vague explanation of payment of 'on account settlements' unrelated to claim handling.",
+            "An incomplete interpretation of payment of 'on account settlements'.",
+            "A misleading concept regarding payment of 'on account settlements'.",
+            "A precise explanation of payment of 'on account settlements' with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Claim verification process' in claim handling?",
+        "options": [
+            "A vague explanation of claim verification process unrelated to claim handling.",
+            "A misleading concept regarding claim verification process.",
+            "A precise explanation of claim verification process with a practical application.",
+            "An incomplete interpretation of claim verification process."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Recovery from third parties' in claim handling?",
+        "options": [
+            "A vague explanation of recovery from third parties unrelated to claim handling.",
+            "A misleading concept regarding recovery from third parties.",
+            "A precise explanation of recovery from third parties with a practical application.",
+            "An incomplete interpretation of recovery from third parties."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Details in a claim register' in claim handling?",
+        "options": [
+            "A misleading concept regarding details in a claim register.",
+            "A precise explanation of details in a claim register with a practical application.",
+            "A vague explanation of details in a claim register unrelated to claim handling.",
+            "An incomplete interpretation of details in a claim register."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Claim procedure under IRDA regulations' in claim handling?",
+        "options": [
+            "An incomplete interpretation of claim procedure under irda regulations.",
+            "A misleading concept regarding claim procedure under irda regulations.",
+            "A vague explanation of claim procedure under irda regulations unrelated to claim handling.",
+            "A precise explanation of claim procedure under irda regulations with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Surveyor duties as per regulations' in claim handling?",
+        "options": [
+            "A vague explanation of surveyor duties as per regulations unrelated to claim handling.",
+            "A precise explanation of surveyor duties as per regulations with a practical application.",
+            "A misleading concept regarding surveyor duties as per regulations.",
+            "An incomplete interpretation of surveyor duties as per regulations."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Outstanding claims: Known and IBNR' in claim handling?",
+        "options": [
+            "A vague explanation of outstanding claims: known and ibnr unrelated to claim handling.",
+            "An incomplete interpretation of outstanding claims: known and ibnr.",
+            "A misleading concept regarding outstanding claims: known and ibnr.",
+            "A precise explanation of outstanding claims: known and ibnr with a practical application."
+        ],
+        "correctIndex": 3
+    }
+]

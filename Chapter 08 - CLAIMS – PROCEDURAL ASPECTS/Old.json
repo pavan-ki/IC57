@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the maximum period for physical reinstatement of damaged property from the date of loss, as per the guidelines?",
+      "options": [
+        "6 months",
+        "12 months",
+        "18 months",
+        "24 months"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In business interruption claims, what role does the surveyor play?",
+      "options": [
+        "Claims Adjuster",
+        "Financial Analyst",
+        "MD of Insured",
+        "Legal Advisor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the first step in the process of surveying and loss assessment?",
+      "options": [
+        "Examination of books of accounts",
+        "Inspection of the scene of loss",
+        "Copying policy documents",
+        "Reviewing interim reports"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is the surveyor provided with copies of policies before proceeding for survey?",
+      "options": [
+        "After completing the survey",
+        "Before proceeding for survey",
+        "Only in serious or large losses",
+        "Copies are never provided"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In cases where the cause of loss is unknown, what conclusion might the surveyor arrive at?",
+      "options": [
+        "Accidental Origin",
+        "Intentional Act",
+        "Natural Disaster",
+        "Unknown Origin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "How is the value of damaged machinery determined in the loss assessment process?",
+      "options": [
+        "Replacement cost only",
+        "Acquisition cost only",
+        "Repair cost with deduction for betterment",
+        "Salvage value only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If damaged stock is totally destroyed and replaceable, how is the loss assessed?",
+      "options": [
+        "Market value",
+        "Cost of replacement",
+        "Salvage value",
+        "Sound value"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What method is used for determining the value of stock in process in industries with cost accountancy methods?",
+      "options": [
+        "Replacement cost",
+        "Historical cost",
+        "Cost of raw materials consumed",
+        "Market value"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What information is included in the 'Description of Damage' section of the final survey report?",
+      "options": [
+        "Surveyor's general observations",
+        "Measures taken to prevent further damage",
+        "Condition of the property after the loss",
+        "Recommendations on issue of cheque"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When might a surveyor consider it not worthwhile to go into the valuation of the property for the application of average?",
+      "options": [
+        "High under-insurance",
+        "Large loss amount",
+        "Small loss amount",
+        "No under-insurance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the surveyor indicate regarding recovery from third parties in the final survey report?",
+      "options": [
+        "Actual recovery amount",
+        "Possibilities of recovery",
+        "Surveyor's fees",
+        "Recovery process details"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Where are the surveyor's expenses indicated in the final assessment of loss?",
+      "options": [
+        "Debris removal expenses",
+        "Architect's fees",
+        "Recommendations on issue of cheque",
+        "Separate section for surveyor's expenses"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "How is insurable interest typically evidenced in the majority of cases?",
+      "options": [
+        "Assignment",
+        "Sole ownership or financial interest",
+        "Lessee/lessor agreement",
+        "Verbal agreement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the case of simple and small losses, what does the surveyor inspect during the scene of loss examination?",
+      "options": [
+        "Salvage value",
+        "Surroundings only",
+        "Damaged property or its remains",
+        "Policy documents"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When might technical experts be involved in the investigation into the cause of loss?",
+      "options": [
+        "Always",
+        "Only in large losses",
+        "Never",
+        "At the discretion of the surveyor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is it important for the surveyor to compare actual property with the property stated in the policy?",
+      "options": [
+        "To find faults in the policy",
+        "To identify the insured property",
+        "To estimate salvage value",
+        "To determine depreciation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What needs to be confirmed in reinstatement claims regarding improvements?",
+      "options": [
+        "Surveyor's recommendation",
+        "Insured's request for time extension",
+        "Deduction for improvements",
+        "Physical reinstatement period"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What advice does the surveyor provide to the insured in business interruption claims?",
+      "options": [
+        "Financial investment tips",
+        "Legal options",
+        "How to restart operations quickly",
+        "Stock market analysis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What records may the surveyor examine to gather information about the occurrence of the loss?",
+      "options": [
+        "Only financial records",
+        "Books of accounts and other records",
+        "Surveyor's reports",
+        "Reinstatement value reports"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What provides reliable evidence of the value of damaged property in the loss assessment process?",
+      "options": [
+        "Surveyor's estimate",
+        "Physical inspection",
+        "Records showing quantities, costs, age, history",
+        "Manufacturer's estimate"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why does the surveyor thoroughly examine the policy during the surveying process?",
+      "options": [
+        "To find errors in the policy",
+        "To ascertain the scope of coverage",
+        "To determine the cause of loss",
+        "To prepare the final survey report"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What information is the surveyor trying to ascertain when examining the scope of coverage in the policy?",
+      "options": [
+        "Cause of loss",
+        "Types of perils covered",
+        "Names of insured parties",
+        "Salvage value"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In what circumstances might technical experts be associated with the investigation into the cause of loss?",
+      "options": [
+        "Always",
+        "Only in unknown origin cases",
+        "At the discretion of the insurers",
+        "Only in simple cases"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What information is included in the 'Name of the Insured' section of the final survey report?",
+      "options": [
+        "Surveyor's name",
+        "Insured's name",
+        "Insurance policy number",
+        "Salvage value"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How is the loss assessed if the damaged stock is taken over as salvage by the insurers?",
+      "options": [
+        "Market value",
+        "Sound value",
+        "Replacement cost",
+        "Salvage value"
+      ],
+      "correctIndex": 3
+    }
+  ]
+  

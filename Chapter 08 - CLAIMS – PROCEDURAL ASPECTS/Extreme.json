@@ -1,0 +1,252 @@
+[
+    {
+        "question": "In specialized claim scenarios, how is 'Claim verification process' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of claim verification process in exceptional claim scenarios.",
+            "A basic interpretation of claim verification process unrelated to advanced scenarios.",
+            "A misleading perspective on claim verification process for complex evaluations.",
+            "A partially relevant but incomplete explanation of claim verification process."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Handling of furniture and personal effects' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on handling of furniture and personal effects for complex evaluations.",
+            "A basic interpretation of handling of furniture and personal effects unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of handling of furniture and personal effects.",
+            "A comprehensive and intricate explanation of handling of furniture and personal effects in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Payment of 'on account settlements'' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of payment of 'on account settlements'.",
+            "A comprehensive and intricate explanation of payment of 'on account settlements' in exceptional claim scenarios.",
+            "A basic interpretation of payment of 'on account settlements' unrelated to advanced scenarios.",
+            "A misleading perspective on payment of 'on account settlements' for complex evaluations."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Details in a claim register' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on details in a claim register for complex evaluations.",
+            "A basic interpretation of details in a claim register unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of details in a claim register.",
+            "A comprehensive and intricate explanation of details in a claim register in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Registration of claims and allotment of claim number' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of registration of claims and allotment of claim number unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of registration of claims and allotment of claim number in exceptional claim scenarios.",
+            "A misleading perspective on registration of claims and allotment of claim number for complex evaluations.",
+            "A partially relevant but incomplete explanation of registration of claims and allotment of claim number."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Condition 15: Pro-rata premium for unexpired period' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on condition 15: pro-rata premium for unexpired period for complex evaluations.",
+            "A basic interpretation of condition 15: pro-rata premium for unexpired period unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of condition 15: pro-rata premium for unexpired period.",
+            "A comprehensive and intricate explanation of condition 15: pro-rata premium for unexpired period in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Claim procedure under IRDA regulations' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of claim procedure under irda regulations in exceptional claim scenarios.",
+            "A misleading perspective on claim procedure under irda regulations for complex evaluations.",
+            "A partially relevant but incomplete explanation of claim procedure under irda regulations.",
+            "A basic interpretation of claim procedure under irda regulations unrelated to advanced scenarios."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'General process of loss assessment' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of general process of loss assessment unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of general process of loss assessment in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of general process of loss assessment.",
+            "A misleading perspective on general process of loss assessment for complex evaluations."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Business interruption claims' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of business interruption claims unrelated to advanced scenarios.",
+            "A misleading perspective on business interruption claims for complex evaluations.",
+            "A comprehensive and intricate explanation of business interruption claims in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of business interruption claims."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Reinstatement claims and verification' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of reinstatement claims and verification unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of reinstatement claims and verification in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of reinstatement claims and verification.",
+            "A misleading perspective on reinstatement claims and verification for complex evaluations."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Preliminary report by surveyor' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on preliminary report by surveyor for complex evaluations.",
+            "A comprehensive and intricate explanation of preliminary report by surveyor in exceptional claim scenarios.",
+            "A basic interpretation of preliminary report by surveyor unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of preliminary report by surveyor."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Appointment of surveyor and loss assessor' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on appointment of surveyor and loss assessor for complex evaluations.",
+            "A basic interpretation of appointment of surveyor and loss assessor unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of appointment of surveyor and loss assessor.",
+            "A comprehensive and intricate explanation of appointment of surveyor and loss assessor in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Recovery from third parties' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A misleading perspective on recovery from third parties for complex evaluations.",
+            "A comprehensive and intricate explanation of recovery from third parties in exceptional claim scenarios.",
+            "A basic interpretation of recovery from third parties unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of recovery from third parties."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Outstanding claims: Known and IBNR' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of outstanding claims: known and ibnr in exceptional claim scenarios.",
+            "A misleading perspective on outstanding claims: known and ibnr for complex evaluations.",
+            "A basic interpretation of outstanding claims: known and ibnr unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of outstanding claims: known and ibnr."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Inspection of the scene of loss' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of inspection of the scene of loss in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of inspection of the scene of loss.",
+            "A misleading perspective on inspection of the scene of loss for complex evaluations.",
+            "A basic interpretation of inspection of the scene of loss unrelated to advanced scenarios."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Final report by surveyor' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of final report by surveyor.",
+            "A comprehensive and intricate explanation of final report by surveyor in exceptional claim scenarios.",
+            "A misleading perspective on final report by surveyor for complex evaluations.",
+            "A basic interpretation of final report by surveyor unrelated to advanced scenarios."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Assessment of stocks and merchandise' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of assessment of stocks and merchandise.",
+            "A basic interpretation of assessment of stocks and merchandise unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of assessment of stocks and merchandise in exceptional claim scenarios.",
+            "A misleading perspective on assessment of stocks and merchandise for complex evaluations."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Final survey report components' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of final survey report components in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of final survey report components.",
+            "A basic interpretation of final survey report components unrelated to advanced scenarios.",
+            "A misleading perspective on final survey report components for complex evaluations."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Steps in survey and loss assessment' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of steps in survey and loss assessment.",
+            "A basic interpretation of steps in survey and loss assessment unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of steps in survey and loss assessment in exceptional claim scenarios.",
+            "A misleading perspective on steps in survey and loss assessment for complex evaluations."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Claim form and required information' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of claim form and required information unrelated to advanced scenarios.",
+            "A misleading perspective on claim form and required information for complex evaluations.",
+            "A partially relevant but incomplete explanation of claim form and required information.",
+            "A comprehensive and intricate explanation of claim form and required information in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Surveyor duties as per regulations' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A comprehensive and intricate explanation of surveyor duties as per regulations in exceptional claim scenarios.",
+            "A basic interpretation of surveyor duties as per regulations unrelated to advanced scenarios.",
+            "A misleading perspective on surveyor duties as per regulations for complex evaluations.",
+            "A partially relevant but incomplete explanation of surveyor duties as per regulations."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Co-insurance claims handling' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of co-insurance claims handling unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of co-insurance claims handling in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of co-insurance claims handling.",
+            "A misleading perspective on co-insurance claims handling for complex evaluations."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Assessment for buildings and machinery' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A basic interpretation of assessment for buildings and machinery unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of assessment for buildings and machinery in exceptional claim scenarios.",
+            "A misleading perspective on assessment for buildings and machinery for complex evaluations.",
+            "A partially relevant but incomplete explanation of assessment for buildings and machinery."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Assessment of the cause of loss' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of assessment of the cause of loss.",
+            "A basic interpretation of assessment of the cause of loss unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of assessment of the cause of loss in exceptional claim scenarios.",
+            "A misleading perspective on assessment of the cause of loss for complex evaluations."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized claim scenarios, how is 'Discharge voucher and cheque settlement' applied to address advanced challenges in claim evaluations?",
+        "options": [
+            "A partially relevant but incomplete explanation of discharge voucher and cheque settlement.",
+            "A comprehensive and intricate explanation of discharge voucher and cheque settlement in exceptional claim scenarios.",
+            "A basic interpretation of discharge voucher and cheque settlement unrelated to advanced scenarios.",
+            "A misleading perspective on discharge voucher and cheque settlement for complex evaluations."
+        ],
+        "correctIndex": 1
+    }
+]
