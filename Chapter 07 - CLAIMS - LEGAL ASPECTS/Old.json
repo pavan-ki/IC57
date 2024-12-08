@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the purpose of a warranty in an insurance policy?",
+      "options": [
+        "To provide coverage for a specific peril",
+        "To impose a condition on the insured",
+        "To determine the premium amount",
+        "To establish the term of the policy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ex-gratia payments in insurance are:",
+      "options": [
+        "Compulsory payments by the insured",
+        "Voluntary payments by the insurer out of goodwill",
+        "Legal obligations of the insured",
+        "Premium payments made after a claim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of the contra proferentum rule?",
+      "options": [
+        "To favor the insurer in case of doubt",
+        "To provide coverage for ambiguous terms",
+        "To resolve policy ambiguities in favor of the insured",
+        "To determine the premium amount"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The legal doctrine of indemnity in insurance is based on:",
+      "options": [
+        "Ensuring a profit for the insured",
+        "Compensating the insurer for losses",
+        "Restoring the insured to the pre-loss financial position",
+        "Providing unlimited coverage to the insured"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In a fire insurance policy, the amount of claim payable is subject to:",
+      "options": [
+        "The insured's financial position",
+        "The insurer's profit margin",
+        "The terms and conditions of the insurance contract",
+        "The insured's negotiation skills"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary factor in determining the value of property in insurance?",
+      "options": [
+        "Sentimental value",
+        "Replacement value",
+        "Market value",
+        "Actual cash value"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Depreciation in insurance refers to:",
+      "options": [
+        "Increase in property value",
+        "Reduction in the value of property due to various factors",
+        "Profit earned by the insured",
+        "Premium reduction for long-term policies"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of indemnity states that the insured should be restored to:",
+      "options": [
+        "A better financial position than before the loss",
+        "The lowest possible financial position",
+        "The same financial position as before the loss",
+        "A worse financial position than before the loss"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the indemnity for buildings typically determined in case of total destruction?",
+      "options": [
+        "Market value",
+        "Sale value",
+        "Cost of reinstatement or reconstruction",
+        "Current replacement cost"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Causes of deterioration in building materials include:",
+      "options": [
+        "Appreciation",
+        "Wear and tear",
+        "Increased market value",
+        "Improved quality"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the basis of settlement for partial damage to machinery?",
+      "options": [
+        "Cost of replacement without depreciation",
+        "Cost of repair without depreciation",
+        "Market value at the time of loss",
+        "Salvage value"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'Stock-in-trade' refers to:",
+      "options": [
+        "Raw materials",
+        "Finished goods",
+        "Merchandise held for sale",
+        "Machinery in use"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the basis of settlement determined for finished goods in a manufacturer's stocks?",
+      "options": [
+        "Net manufacturing cost",
+        "Market value",
+        "Cost of production",
+        "Invoice price"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'salvage' in insurance includes:",
+      "options": [
+        "Only fully damaged property",
+        "Residual value of partially damaged property",
+        "Money received from the sale of undamaged property",
+        "Salvage value as determined by the insured"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of contribution in insurance is designed to:",
+      "options": [
+        "Simplify the claims process for the insured",
+        "Ensure each insurer pays the entire loss",
+        "Establish agreement among insurers before loss settlement",
+        "Provide extra coverage to the insured"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Subrogation in insurance refers to:",
+      "options": [
+        "The insured's right to abandon salvage",
+        "The insured's duty to claim from each insurer",
+        "The transfer of insured's rights to recover from a third party to the insurer",
+        "The insurer's obligation to provide excess coverage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When does subrogation take place according to the fire policy condition?",
+      "options": [
+        "After the insured is indemnified",
+        "Before indemnification by the insurer",
+        "Only if the insured agrees",
+        "Only if the loss is caused by a third party"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pro-rata average condition is applicable when:",
+      "options": [
+        "There is under-insurance",
+        "There is over-insurance",
+        "The insured is not at fault",
+        "The loss is caused by a specified peril"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the purpose of the excess clause in a fire policy?",
+      "options": [
+        "To reduce the overall claim amount",
+        "To increase the premium amount",
+        "To provide additional coverage",
+        "To impose a deductible on each claim"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When may insurers take over salvage in an insurance claim?",
+      "options": [
+        "Only if the insured demands it",
+        "Only if the salvage has no value",
+        "If the insured is unwilling or unable to retain or dispose of it",
+        "If the loss is caused by a natural disaster"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a corollary principle of the principle of indemnity?",
+      "options": [
+        "Principle of depreciation",
+        "Principle of contribution",
+        "Principle of profit",
+        "Principle of excess"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the principle of subrogation imply in an insurance contract?",
+      "options": [
+        "The insured must subrogate his rights to the insurer",
+        "The insurer must subrogate its rights to the insured",
+        "The insured can recover the entire loss without subrogation",
+        "The insurer can recover the loss from the insured"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How is the amount of claim affected if there is under-insurance?",
+      "options": [
+        "It is increased",
+        "It is proportionately reduced",
+        "It remains the same",
+        "It is waived by the insurer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The contra proferentum rule is applied in insurance to resolve:",
+      "options": [
+        "Premium disputes",
+        "Claim disputes",
+        "Disputes between insurers",
+        "Policy ambiguities in favor of the insured"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What does the term 'actual cash value' in insurance refer to?",
+      "options": [
+        "Replacement cost without depreciation",
+        "Market value at the time of loss",
+        "The depreciated cost of the property",
+        "The highest value ever achieved by the property"
+      ],
+      "correctIndex": 2
+    }
+  ]
+  

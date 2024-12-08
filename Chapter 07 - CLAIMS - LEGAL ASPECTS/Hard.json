@@ -1,0 +1,252 @@
+[
+    {
+        "question": "In the context of insurance claims, how does 'Rules for claims marked 'Without Prejudice'' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of rules for claims marked 'without prejudice' lacking detail.",
+            "A detailed explanation of rules for claims marked 'without prejudice' in specialized claim scenarios.",
+            "An inaccurate interpretation of rules for claims marked 'without prejudice' in advanced cases.",
+            "A partially correct explanation of rules for claims marked 'without prejudice' missing key nuances."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Meaning of value of property in insurance' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A detailed explanation of meaning of value of property in insurance in specialized claim scenarios.",
+            "A general description of meaning of value of property in insurance lacking detail.",
+            "An inaccurate interpretation of meaning of value of property in insurance in advanced cases.",
+            "A partially correct explanation of meaning of value of property in insurance missing key nuances."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Principle of indemnity' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A detailed explanation of principle of indemnity in specialized claim scenarios.",
+            "An inaccurate interpretation of principle of indemnity in advanced cases.",
+            "A partially correct explanation of principle of indemnity missing key nuances.",
+            "A general description of principle of indemnity lacking detail."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Principle of contribution' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of principle of contribution lacking detail.",
+            "An inaccurate interpretation of principle of contribution in advanced cases.",
+            "A detailed explanation of principle of contribution in specialized claim scenarios.",
+            "A partially correct explanation of principle of contribution missing key nuances."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Principle of subrogation' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of principle of subrogation missing key nuances.",
+            "A general description of principle of subrogation lacking detail.",
+            "An inaccurate interpretation of principle of subrogation in advanced cases.",
+            "A detailed explanation of principle of subrogation in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Legal aspects of claims processing' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of legal aspects of claims processing in advanced cases.",
+            "A detailed explanation of legal aspects of claims processing in specialized claim scenarios.",
+            "A partially correct explanation of legal aspects of claims processing missing key nuances.",
+            "A general description of legal aspects of claims processing lacking detail."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Rights under condition 7 of the fire policy' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of rights under condition 7 of the fire policy in advanced cases.",
+            "A partially correct explanation of rights under condition 7 of the fire policy missing key nuances.",
+            "A detailed explanation of rights under condition 7 of the fire policy in specialized claim scenarios.",
+            "A general description of rights under condition 7 of the fire policy lacking detail."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Ex-gratia payments' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of ex-gratia payments lacking detail.",
+            "A detailed explanation of ex-gratia payments in specialized claim scenarios.",
+            "An inaccurate interpretation of ex-gratia payments in advanced cases.",
+            "A partially correct explanation of ex-gratia payments missing key nuances."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Market value and actual cash value' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A detailed explanation of market value and actual cash value in specialized claim scenarios.",
+            "An inaccurate interpretation of market value and actual cash value in advanced cases.",
+            "A partially correct explanation of market value and actual cash value missing key nuances.",
+            "A general description of market value and actual cash value lacking detail."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Doctrine of proximate cause' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of doctrine of proximate cause in advanced cases.",
+            "A general description of doctrine of proximate cause lacking detail.",
+            "A partially correct explanation of doctrine of proximate cause missing key nuances.",
+            "A detailed explanation of doctrine of proximate cause in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Fire policy limitations and exclusions' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of fire policy limitations and exclusions lacking detail.",
+            "A partially correct explanation of fire policy limitations and exclusions missing key nuances.",
+            "An inaccurate interpretation of fire policy limitations and exclusions in advanced cases.",
+            "A detailed explanation of fire policy limitations and exclusions in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Duties of the insured' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of duties of the insured missing key nuances.",
+            "A general description of duties of the insured lacking detail.",
+            "A detailed explanation of duties of the insured in specialized claim scenarios.",
+            "An inaccurate interpretation of duties of the insured in advanced cases."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Determining the proximate cause' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of determining the proximate cause lacking detail.",
+            "A partially correct explanation of determining the proximate cause missing key nuances.",
+            "An inaccurate interpretation of determining the proximate cause in advanced cases.",
+            "A detailed explanation of determining the proximate cause in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Onus of proof in fire insurance claims' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of onus of proof in fire insurance claims missing key nuances.",
+            "A detailed explanation of onus of proof in fire insurance claims in specialized claim scenarios.",
+            "A general description of onus of proof in fire insurance claims lacking detail.",
+            "An inaccurate interpretation of onus of proof in fire insurance claims in advanced cases."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Valuation of stock-in-trade' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of valuation of stock-in-trade lacking detail.",
+            "A detailed explanation of valuation of stock-in-trade in specialized claim scenarios.",
+            "A partially correct explanation of valuation of stock-in-trade missing key nuances.",
+            "An inaccurate interpretation of valuation of stock-in-trade in advanced cases."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Role of consequential loss policies' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of role of consequential loss policies missing key nuances.",
+            "A general description of role of consequential loss policies lacking detail.",
+            "A detailed explanation of role of consequential loss policies in specialized claim scenarios.",
+            "An inaccurate interpretation of role of consequential loss policies in advanced cases."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Depreciation and betterment' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of depreciation and betterment in advanced cases.",
+            "A general description of depreciation and betterment lacking detail.",
+            "A detailed explanation of depreciation and betterment in specialized claim scenarios.",
+            "A partially correct explanation of depreciation and betterment missing key nuances."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Definition of warranties' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A detailed explanation of definition of warranties in specialized claim scenarios.",
+            "An inaccurate interpretation of definition of warranties in advanced cases.",
+            "A partially correct explanation of definition of warranties missing key nuances.",
+            "A general description of definition of warranties lacking detail."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Warranties in fire insurance' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A general description of warranties in fire insurance lacking detail.",
+            "A partially correct explanation of warranties in fire insurance missing key nuances.",
+            "An inaccurate interpretation of warranties in fire insurance in advanced cases.",
+            "A detailed explanation of warranties in fire insurance in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Reinstatement value policies' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of reinstatement value policies in advanced cases.",
+            "A detailed explanation of reinstatement value policies in specialized claim scenarios.",
+            "A general description of reinstatement value policies lacking detail.",
+            "A partially correct explanation of reinstatement value policies missing key nuances."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Rules of interpretation of policies' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of rules of interpretation of policies missing key nuances.",
+            "A general description of rules of interpretation of policies lacking detail.",
+            "A detailed explanation of rules of interpretation of policies in specialized claim scenarios.",
+            "An inaccurate interpretation of rules of interpretation of policies in advanced cases."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Rights of insurers' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of rights of insurers in advanced cases.",
+            "A general description of rights of insurers lacking detail.",
+            "A detailed explanation of rights of insurers in specialized claim scenarios.",
+            "A partially correct explanation of rights of insurers missing key nuances."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Role of salvage in indemnity' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A detailed explanation of role of salvage in indemnity in specialized claim scenarios.",
+            "A general description of role of salvage in indemnity lacking detail.",
+            "An inaccurate interpretation of role of salvage in indemnity in advanced cases.",
+            "A partially correct explanation of role of salvage in indemnity missing key nuances."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Importance of timely claim notices' specifically contribute to complex claim evaluations?",
+        "options": [
+            "An inaccurate interpretation of importance of timely claim notices in advanced cases.",
+            "A general description of importance of timely claim notices lacking detail.",
+            "A partially correct explanation of importance of timely claim notices missing key nuances.",
+            "A detailed explanation of importance of timely claim notices in specialized claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In the context of insurance claims, how does 'Role of maintenance in claims assessments' specifically contribute to complex claim evaluations?",
+        "options": [
+            "A partially correct explanation of role of maintenance in claims assessments missing key nuances.",
+            "A detailed explanation of role of maintenance in claims assessments in specialized claim scenarios.",
+            "A general description of role of maintenance in claims assessments lacking detail.",
+            "An inaccurate interpretation of role of maintenance in claims assessments in advanced cases."
+        ],
+        "correctIndex": 1
+    }
+]

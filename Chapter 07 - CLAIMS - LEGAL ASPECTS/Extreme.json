@@ -1,0 +1,252 @@
+[
+    {
+        "question": "In specialized insurance scenarios, how is 'Reinstatement value policies' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of reinstatement value policies in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of reinstatement value policies.",
+            "A basic interpretation of reinstatement value policies unrelated to advanced scenarios.",
+            "A misleading perspective on reinstatement value policies for complex claims."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Valuation of stock-in-trade' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of valuation of stock-in-trade in exceptional claim scenarios.",
+            "A basic interpretation of valuation of stock-in-trade unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of valuation of stock-in-trade.",
+            "A misleading perspective on valuation of stock-in-trade for complex claims."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Onus of proof in fire insurance claims' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of onus of proof in fire insurance claims in exceptional claim scenarios.",
+            "A misleading perspective on onus of proof in fire insurance claims for complex claims.",
+            "A basic interpretation of onus of proof in fire insurance claims unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of onus of proof in fire insurance claims."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Role of maintenance in claims assessments' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of role of maintenance in claims assessments unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of role of maintenance in claims assessments in exceptional claim scenarios.",
+            "A misleading perspective on role of maintenance in claims assessments for complex claims.",
+            "A partially relevant but incomplete explanation of role of maintenance in claims assessments."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Definition of warranties' applied to address advanced claim challenges?",
+        "options": [
+            "A misleading perspective on definition of warranties for complex claims.",
+            "A comprehensive and intricate explanation of definition of warranties in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of definition of warranties.",
+            "A basic interpretation of definition of warranties unrelated to advanced scenarios."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Doctrine of proximate cause' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of doctrine of proximate cause in exceptional claim scenarios.",
+            "A basic interpretation of doctrine of proximate cause unrelated to advanced scenarios.",
+            "A misleading perspective on doctrine of proximate cause for complex claims.",
+            "A partially relevant but incomplete explanation of doctrine of proximate cause."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Warranties in fire insurance' applied to address advanced claim challenges?",
+        "options": [
+            "A misleading perspective on warranties in fire insurance for complex claims.",
+            "A comprehensive and intricate explanation of warranties in fire insurance in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of warranties in fire insurance.",
+            "A basic interpretation of warranties in fire insurance unrelated to advanced scenarios."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Depreciation and betterment' applied to address advanced claim challenges?",
+        "options": [
+            "A partially relevant but incomplete explanation of depreciation and betterment.",
+            "A comprehensive and intricate explanation of depreciation and betterment in exceptional claim scenarios.",
+            "A basic interpretation of depreciation and betterment unrelated to advanced scenarios.",
+            "A misleading perspective on depreciation and betterment for complex claims."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Principle of subrogation' applied to address advanced claim challenges?",
+        "options": [
+            "A misleading perspective on principle of subrogation for complex claims.",
+            "A comprehensive and intricate explanation of principle of subrogation in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of principle of subrogation.",
+            "A basic interpretation of principle of subrogation unrelated to advanced scenarios."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Meaning of value of property in insurance' applied to address advanced claim challenges?",
+        "options": [
+            "A partially relevant but incomplete explanation of meaning of value of property in insurance.",
+            "A misleading perspective on meaning of value of property in insurance for complex claims.",
+            "A basic interpretation of meaning of value of property in insurance unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of meaning of value of property in insurance in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Determining the proximate cause' applied to address advanced claim challenges?",
+        "options": [
+            "A misleading perspective on determining the proximate cause for complex claims.",
+            "A comprehensive and intricate explanation of determining the proximate cause in exceptional claim scenarios.",
+            "A partially relevant but incomplete explanation of determining the proximate cause.",
+            "A basic interpretation of determining the proximate cause unrelated to advanced scenarios."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Ex-gratia payments' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of ex-gratia payments unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of ex-gratia payments.",
+            "A comprehensive and intricate explanation of ex-gratia payments in exceptional claim scenarios.",
+            "A misleading perspective on ex-gratia payments for complex claims."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Legal aspects of claims processing' applied to address advanced claim challenges?",
+        "options": [
+            "A partially relevant but incomplete explanation of legal aspects of claims processing.",
+            "A misleading perspective on legal aspects of claims processing for complex claims.",
+            "A basic interpretation of legal aspects of claims processing unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of legal aspects of claims processing in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Role of salvage in indemnity' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of role of salvage in indemnity unrelated to advanced scenarios.",
+            "A misleading perspective on role of salvage in indemnity for complex claims.",
+            "A partially relevant but incomplete explanation of role of salvage in indemnity.",
+            "A comprehensive and intricate explanation of role of salvage in indemnity in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Fire policy limitations and exclusions' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of fire policy limitations and exclusions in exceptional claim scenarios.",
+            "A misleading perspective on fire policy limitations and exclusions for complex claims.",
+            "A partially relevant but incomplete explanation of fire policy limitations and exclusions.",
+            "A basic interpretation of fire policy limitations and exclusions unrelated to advanced scenarios."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Rights of insurers' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of rights of insurers in exceptional claim scenarios.",
+            "A misleading perspective on rights of insurers for complex claims.",
+            "A basic interpretation of rights of insurers unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of rights of insurers."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Rights under condition 7 of the fire policy' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of rights under condition 7 of the fire policy unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of rights under condition 7 of the fire policy in exceptional claim scenarios.",
+            "A misleading perspective on rights under condition 7 of the fire policy for complex claims.",
+            "A partially relevant but incomplete explanation of rights under condition 7 of the fire policy."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Principle of contribution' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of principle of contribution unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of principle of contribution in exceptional claim scenarios.",
+            "A misleading perspective on principle of contribution for complex claims.",
+            "A partially relevant but incomplete explanation of principle of contribution."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Rules for claims marked 'Without Prejudice'' applied to address advanced claim challenges?",
+        "options": [
+            "A misleading perspective on rules for claims marked 'without prejudice' for complex claims.",
+            "A comprehensive and intricate explanation of rules for claims marked 'without prejudice' in exceptional claim scenarios.",
+            "A basic interpretation of rules for claims marked 'without prejudice' unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of rules for claims marked 'without prejudice'."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Market value and actual cash value' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of market value and actual cash value in exceptional claim scenarios.",
+            "A basic interpretation of market value and actual cash value unrelated to advanced scenarios.",
+            "A misleading perspective on market value and actual cash value for complex claims.",
+            "A partially relevant but incomplete explanation of market value and actual cash value."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Importance of timely claim notices' applied to address advanced claim challenges?",
+        "options": [
+            "A partially relevant but incomplete explanation of importance of timely claim notices.",
+            "A basic interpretation of importance of timely claim notices unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of importance of timely claim notices in exceptional claim scenarios.",
+            "A misleading perspective on importance of timely claim notices for complex claims."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Duties of the insured' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of duties of the insured in exceptional claim scenarios.",
+            "A basic interpretation of duties of the insured unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of duties of the insured.",
+            "A misleading perspective on duties of the insured for complex claims."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Rules of interpretation of policies' applied to address advanced claim challenges?",
+        "options": [
+            "A comprehensive and intricate explanation of rules of interpretation of policies in exceptional claim scenarios.",
+            "A misleading perspective on rules of interpretation of policies for complex claims.",
+            "A partially relevant but incomplete explanation of rules of interpretation of policies.",
+            "A basic interpretation of rules of interpretation of policies unrelated to advanced scenarios."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Principle of indemnity' applied to address advanced claim challenges?",
+        "options": [
+            "A basic interpretation of principle of indemnity unrelated to advanced scenarios.",
+            "A partially relevant but incomplete explanation of principle of indemnity.",
+            "A misleading perspective on principle of indemnity for complex claims.",
+            "A comprehensive and intricate explanation of principle of indemnity in exceptional claim scenarios."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In specialized insurance scenarios, how is 'Role of consequential loss policies' applied to address advanced claim challenges?",
+        "options": [
+            "A partially relevant but incomplete explanation of role of consequential loss policies.",
+            "A basic interpretation of role of consequential loss policies unrelated to advanced scenarios.",
+            "A comprehensive and intricate explanation of role of consequential loss policies in exceptional claim scenarios.",
+            "A misleading perspective on role of consequential loss policies for complex claims."
+        ],
+        "correctIndex": 2
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the purpose of 'Reinstatement value policies' in insurance?",
+        "options": [
+            "The main goal or explanation of reinstatement value policies.",
+            "An irrelevant concept not tied to reinstatement value policies.",
+            "A partially correct explanation of reinstatement value policies.",
+            "A term unrelated to reinstatement value policies."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Rules for claims marked 'Without Prejudice'' in insurance?",
+        "options": [
+            "A term unrelated to rules for claims marked 'without prejudice'.",
+            "The main goal or explanation of rules for claims marked 'without prejudice'.",
+            "An irrelevant concept not tied to rules for claims marked 'without prejudice'.",
+            "A partially correct explanation of rules for claims marked 'without prejudice'."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Duties of the insured' in insurance?",
+        "options": [
+            "A term unrelated to duties of the insured.",
+            "The main goal or explanation of duties of the insured.",
+            "A partially correct explanation of duties of the insured.",
+            "An irrelevant concept not tied to duties of the insured."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Importance of timely claim notices' in insurance?",
+        "options": [
+            "A term unrelated to importance of timely claim notices.",
+            "An irrelevant concept not tied to importance of timely claim notices.",
+            "A partially correct explanation of importance of timely claim notices.",
+            "The main goal or explanation of importance of timely claim notices."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Onus of proof in fire insurance claims' in insurance?",
+        "options": [
+            "An irrelevant concept not tied to onus of proof in fire insurance claims.",
+            "A term unrelated to onus of proof in fire insurance claims.",
+            "The main goal or explanation of onus of proof in fire insurance claims.",
+            "A partially correct explanation of onus of proof in fire insurance claims."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Definition of warranties' in insurance?",
+        "options": [
+            "A partially correct explanation of definition of warranties.",
+            "A term unrelated to definition of warranties.",
+            "An irrelevant concept not tied to definition of warranties.",
+            "The main goal or explanation of definition of warranties."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Fire policy limitations and exclusions' in insurance?",
+        "options": [
+            "The main goal or explanation of fire policy limitations and exclusions.",
+            "A term unrelated to fire policy limitations and exclusions.",
+            "A partially correct explanation of fire policy limitations and exclusions.",
+            "An irrelevant concept not tied to fire policy limitations and exclusions."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Legal aspects of claims processing' in insurance?",
+        "options": [
+            "A term unrelated to legal aspects of claims processing.",
+            "An irrelevant concept not tied to legal aspects of claims processing.",
+            "The main goal or explanation of legal aspects of claims processing.",
+            "A partially correct explanation of legal aspects of claims processing."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Ex-gratia payments' in insurance?",
+        "options": [
+            "A partially correct explanation of ex-gratia payments.",
+            "A term unrelated to ex-gratia payments.",
+            "The main goal or explanation of ex-gratia payments.",
+            "An irrelevant concept not tied to ex-gratia payments."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Role of consequential loss policies' in insurance?",
+        "options": [
+            "A term unrelated to role of consequential loss policies.",
+            "The main goal or explanation of role of consequential loss policies.",
+            "An irrelevant concept not tied to role of consequential loss policies.",
+            "A partially correct explanation of role of consequential loss policies."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Meaning of value of property in insurance' in insurance?",
+        "options": [
+            "A term unrelated to meaning of value of property in insurance.",
+            "The main goal or explanation of meaning of value of property in insurance.",
+            "An irrelevant concept not tied to meaning of value of property in insurance.",
+            "A partially correct explanation of meaning of value of property in insurance."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Valuation of stock-in-trade' in insurance?",
+        "options": [
+            "A term unrelated to valuation of stock-in-trade.",
+            "The main goal or explanation of valuation of stock-in-trade.",
+            "A partially correct explanation of valuation of stock-in-trade.",
+            "An irrelevant concept not tied to valuation of stock-in-trade."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Rules of interpretation of policies' in insurance?",
+        "options": [
+            "A term unrelated to rules of interpretation of policies.",
+            "An irrelevant concept not tied to rules of interpretation of policies.",
+            "The main goal or explanation of rules of interpretation of policies.",
+            "A partially correct explanation of rules of interpretation of policies."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Principle of contribution' in insurance?",
+        "options": [
+            "The main goal or explanation of principle of contribution.",
+            "An irrelevant concept not tied to principle of contribution.",
+            "A partially correct explanation of principle of contribution.",
+            "A term unrelated to principle of contribution."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Warranties in fire insurance' in insurance?",
+        "options": [
+            "The main goal or explanation of warranties in fire insurance.",
+            "A partially correct explanation of warranties in fire insurance.",
+            "An irrelevant concept not tied to warranties in fire insurance.",
+            "A term unrelated to warranties in fire insurance."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Principle of subrogation' in insurance?",
+        "options": [
+            "The main goal or explanation of principle of subrogation.",
+            "A term unrelated to principle of subrogation.",
+            "A partially correct explanation of principle of subrogation.",
+            "An irrelevant concept not tied to principle of subrogation."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Market value and actual cash value' in insurance?",
+        "options": [
+            "An irrelevant concept not tied to market value and actual cash value.",
+            "A term unrelated to market value and actual cash value.",
+            "The main goal or explanation of market value and actual cash value.",
+            "A partially correct explanation of market value and actual cash value."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Doctrine of proximate cause' in insurance?",
+        "options": [
+            "A term unrelated to doctrine of proximate cause.",
+            "An irrelevant concept not tied to doctrine of proximate cause.",
+            "A partially correct explanation of doctrine of proximate cause.",
+            "The main goal or explanation of doctrine of proximate cause."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Role of maintenance in claims assessments' in insurance?",
+        "options": [
+            "The main goal or explanation of role of maintenance in claims assessments.",
+            "An irrelevant concept not tied to role of maintenance in claims assessments.",
+            "A partially correct explanation of role of maintenance in claims assessments.",
+            "A term unrelated to role of maintenance in claims assessments."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of 'Determining the proximate cause' in insurance?",
+        "options": [
+            "A partially correct explanation of determining the proximate cause.",
+            "A term unrelated to determining the proximate cause.",
+            "An irrelevant concept not tied to determining the proximate cause.",
+            "The main goal or explanation of determining the proximate cause."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Rights of insurers' in insurance?",
+        "options": [
+            "A partially correct explanation of rights of insurers.",
+            "The main goal or explanation of rights of insurers.",
+            "A term unrelated to rights of insurers.",
+            "An irrelevant concept not tied to rights of insurers."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Rights under condition 7 of the fire policy' in insurance?",
+        "options": [
+            "A term unrelated to rights under condition 7 of the fire policy.",
+            "The main goal or explanation of rights under condition 7 of the fire policy.",
+            "A partially correct explanation of rights under condition 7 of the fire policy.",
+            "An irrelevant concept not tied to rights under condition 7 of the fire policy."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of 'Depreciation and betterment' in insurance?",
+        "options": [
+            "A partially correct explanation of depreciation and betterment.",
+            "An irrelevant concept not tied to depreciation and betterment.",
+            "A term unrelated to depreciation and betterment.",
+            "The main goal or explanation of depreciation and betterment."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of 'Principle of indemnity' in insurance?",
+        "options": [
+            "An irrelevant concept not tied to principle of indemnity.",
+            "A term unrelated to principle of indemnity.",
+            "The main goal or explanation of principle of indemnity.",
+            "A partially correct explanation of principle of indemnity."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of 'Role of salvage in indemnity' in insurance?",
+        "options": [
+            "An irrelevant concept not tied to role of salvage in indemnity.",
+            "A partially correct explanation of role of salvage in indemnity.",
+            "The main goal or explanation of role of salvage in indemnity.",
+            "A term unrelated to role of salvage in indemnity."
+        ],
+        "correctIndex": 2
+    }
+]

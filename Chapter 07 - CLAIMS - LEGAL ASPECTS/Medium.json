@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Which of the following best describes the application of 'Legal aspects of claims processing' in claims handling?",
+        "options": [
+            "A misleading concept regarding legal aspects of claims processing.",
+            "A vague explanation of legal aspects of claims processing unrelated to claims handling.",
+            "A precise explanation of legal aspects of claims processing with a practical application.",
+            "An incomplete interpretation of legal aspects of claims processing."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Principle of contribution' in claims handling?",
+        "options": [
+            "A misleading concept regarding principle of contribution.",
+            "An incomplete interpretation of principle of contribution.",
+            "A precise explanation of principle of contribution with a practical application.",
+            "A vague explanation of principle of contribution unrelated to claims handling."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Warranties in fire insurance' in claims handling?",
+        "options": [
+            "A vague explanation of warranties in fire insurance unrelated to claims handling.",
+            "An incomplete interpretation of warranties in fire insurance.",
+            "A misleading concept regarding warranties in fire insurance.",
+            "A precise explanation of warranties in fire insurance with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Definition of warranties' in claims handling?",
+        "options": [
+            "A vague explanation of definition of warranties unrelated to claims handling.",
+            "A misleading concept regarding definition of warranties.",
+            "A precise explanation of definition of warranties with a practical application.",
+            "An incomplete interpretation of definition of warranties."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Principle of indemnity' in claims handling?",
+        "options": [
+            "A vague explanation of principle of indemnity unrelated to claims handling.",
+            "An incomplete interpretation of principle of indemnity.",
+            "A precise explanation of principle of indemnity with a practical application.",
+            "A misleading concept regarding principle of indemnity."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Duties of the insured' in claims handling?",
+        "options": [
+            "An incomplete interpretation of duties of the insured.",
+            "A vague explanation of duties of the insured unrelated to claims handling.",
+            "A precise explanation of duties of the insured with a practical application.",
+            "A misleading concept regarding duties of the insured."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Depreciation and betterment' in claims handling?",
+        "options": [
+            "A precise explanation of depreciation and betterment with a practical application.",
+            "An incomplete interpretation of depreciation and betterment.",
+            "A misleading concept regarding depreciation and betterment.",
+            "A vague explanation of depreciation and betterment unrelated to claims handling."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Principle of subrogation' in claims handling?",
+        "options": [
+            "A precise explanation of principle of subrogation with a practical application.",
+            "A misleading concept regarding principle of subrogation.",
+            "A vague explanation of principle of subrogation unrelated to claims handling.",
+            "An incomplete interpretation of principle of subrogation."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Rights of insurers' in claims handling?",
+        "options": [
+            "A vague explanation of rights of insurers unrelated to claims handling.",
+            "A precise explanation of rights of insurers with a practical application.",
+            "A misleading concept regarding rights of insurers.",
+            "An incomplete interpretation of rights of insurers."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Rules of interpretation of policies' in claims handling?",
+        "options": [
+            "An incomplete interpretation of rules of interpretation of policies.",
+            "A vague explanation of rules of interpretation of policies unrelated to claims handling.",
+            "A precise explanation of rules of interpretation of policies with a practical application.",
+            "A misleading concept regarding rules of interpretation of policies."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Importance of timely claim notices' in claims handling?",
+        "options": [
+            "A vague explanation of importance of timely claim notices unrelated to claims handling.",
+            "A precise explanation of importance of timely claim notices with a practical application.",
+            "A misleading concept regarding importance of timely claim notices.",
+            "An incomplete interpretation of importance of timely claim notices."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Role of consequential loss policies' in claims handling?",
+        "options": [
+            "A vague explanation of role of consequential loss policies unrelated to claims handling.",
+            "A precise explanation of role of consequential loss policies with a practical application.",
+            "An incomplete interpretation of role of consequential loss policies.",
+            "A misleading concept regarding role of consequential loss policies."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Meaning of value of property in insurance' in claims handling?",
+        "options": [
+            "A precise explanation of meaning of value of property in insurance with a practical application.",
+            "A vague explanation of meaning of value of property in insurance unrelated to claims handling.",
+            "A misleading concept regarding meaning of value of property in insurance.",
+            "An incomplete interpretation of meaning of value of property in insurance."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Role of maintenance in claims assessments' in claims handling?",
+        "options": [
+            "A misleading concept regarding role of maintenance in claims assessments.",
+            "A precise explanation of role of maintenance in claims assessments with a practical application.",
+            "An incomplete interpretation of role of maintenance in claims assessments.",
+            "A vague explanation of role of maintenance in claims assessments unrelated to claims handling."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Onus of proof in fire insurance claims' in claims handling?",
+        "options": [
+            "A misleading concept regarding onus of proof in fire insurance claims.",
+            "An incomplete interpretation of onus of proof in fire insurance claims.",
+            "A vague explanation of onus of proof in fire insurance claims unrelated to claims handling.",
+            "A precise explanation of onus of proof in fire insurance claims with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Role of salvage in indemnity' in claims handling?",
+        "options": [
+            "A precise explanation of role of salvage in indemnity with a practical application.",
+            "An incomplete interpretation of role of salvage in indemnity.",
+            "A vague explanation of role of salvage in indemnity unrelated to claims handling.",
+            "A misleading concept regarding role of salvage in indemnity."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Fire policy limitations and exclusions' in claims handling?",
+        "options": [
+            "A precise explanation of fire policy limitations and exclusions with a practical application.",
+            "A vague explanation of fire policy limitations and exclusions unrelated to claims handling.",
+            "An incomplete interpretation of fire policy limitations and exclusions.",
+            "A misleading concept regarding fire policy limitations and exclusions."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Rules for claims marked 'Without Prejudice'' in claims handling?",
+        "options": [
+            "A misleading concept regarding rules for claims marked 'without prejudice'.",
+            "A vague explanation of rules for claims marked 'without prejudice' unrelated to claims handling.",
+            "An incomplete interpretation of rules for claims marked 'without prejudice'.",
+            "A precise explanation of rules for claims marked 'without prejudice' with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Rights under condition 7 of the fire policy' in claims handling?",
+        "options": [
+            "An incomplete interpretation of rights under condition 7 of the fire policy.",
+            "A vague explanation of rights under condition 7 of the fire policy unrelated to claims handling.",
+            "A misleading concept regarding rights under condition 7 of the fire policy.",
+            "A precise explanation of rights under condition 7 of the fire policy with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Valuation of stock-in-trade' in claims handling?",
+        "options": [
+            "A misleading concept regarding valuation of stock-in-trade.",
+            "An incomplete interpretation of valuation of stock-in-trade.",
+            "A vague explanation of valuation of stock-in-trade unrelated to claims handling.",
+            "A precise explanation of valuation of stock-in-trade with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Reinstatement value policies' in claims handling?",
+        "options": [
+            "A precise explanation of reinstatement value policies with a practical application.",
+            "An incomplete interpretation of reinstatement value policies.",
+            "A misleading concept regarding reinstatement value policies.",
+            "A vague explanation of reinstatement value policies unrelated to claims handling."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following best describes the application of 'Market value and actual cash value' in claims handling?",
+        "options": [
+            "A misleading concept regarding market value and actual cash value.",
+            "A vague explanation of market value and actual cash value unrelated to claims handling.",
+            "A precise explanation of market value and actual cash value with a practical application.",
+            "An incomplete interpretation of market value and actual cash value."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following best describes the application of 'Ex-gratia payments' in claims handling?",
+        "options": [
+            "A misleading concept regarding ex-gratia payments.",
+            "A precise explanation of ex-gratia payments with a practical application.",
+            "A vague explanation of ex-gratia payments unrelated to claims handling.",
+            "An incomplete interpretation of ex-gratia payments."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following best describes the application of 'Doctrine of proximate cause' in claims handling?",
+        "options": [
+            "A misleading concept regarding doctrine of proximate cause.",
+            "An incomplete interpretation of doctrine of proximate cause.",
+            "A vague explanation of doctrine of proximate cause unrelated to claims handling.",
+            "A precise explanation of doctrine of proximate cause with a practical application."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following best describes the application of 'Determining the proximate cause' in claims handling?",
+        "options": [
+            "An incomplete interpretation of determining the proximate cause.",
+            "A misleading concept regarding determining the proximate cause.",
+            "A precise explanation of determining the proximate cause with a practical application.",
+            "A vague explanation of determining the proximate cause unrelated to claims handling."
+        ],
+        "correctIndex": 2
+    }
+]

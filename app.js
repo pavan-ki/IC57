@@ -18,7 +18,7 @@ function populateMenu() {
         "Chapter 04 - ERSTWHILE TARIFF – RULES AND RATING": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 05 - DOCUMENTS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 06 - UNDERWRITING": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
-        "Chapter 07 - CONSUMER DELIGHT": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
+        "Chapter 07 - CLAIMS - LEGAL ASPECTS": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 08 - THIRD PARTY LIABILITY INSURANCE": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 09 - PROCEDURES FOR FILING AND DEFENDING": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
         "Chapter 10 - QUANTUM FIXATION": ["Easy.json", "Medium.json", "Hard.json", "Extreme.json", "Old.json", "Summary.json"],
