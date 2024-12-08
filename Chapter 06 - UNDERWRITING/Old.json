@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the main purpose of insurance?",
+      "options": [
+        "Profit generation",
+        "Risk transfer mechanism",
+        "Marketing strategy",
+        "Cost reduction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How many steps are involved in the risk management process?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary role of underwriting in insurance?",
+      "options": [
+        "Claims settlement",
+        "Premium calculation",
+        "Risk assessment and acceptance",
+        "Marketing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under which category of products are risks individually rated based on the actual claims experience of the insured?",
+      "options": [
+        "Class rated products",
+        "Internal tariff rated products",
+        "Individual experience rated products",
+        "Exposure rated products"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the new File & Use guidelines, how frequently should underwriting audits be conducted in the absence of tariffs?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Annually",
+        "Bi-annually"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does CRESTA stand for in the context of international classification and nomenclature?",
+      "options": [
+        "Catastrophic Risk Estimation and Standardization Treaty Accord",
+        "Catastrophe Risk Evaluating and Standardising Target Accumulations",
+        "Classification for Risk Evaluation and Standardization of Treaty Agreements",
+        "Catastrophic Risk Evaluation and Standardizing Treaty Association"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary goal of Aggregate Exposure Monitoring in fire insurance underwriting?",
+      "options": [
+        "Determine the burning cost",
+        "Monitor total sum insured exposure",
+        "Assess profit margins",
+        "Establish treaty limits"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of fire insurance, what does PML stand for?",
+      "options": [
+        "Primary Maximum Liability",
+        "Probable Maximum Loss",
+        "Potential Market Loss",
+        "Premium Markup Limit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary focus of reinsurers resorting to reinsurance to protect their portfolio?",
+      "options": [
+        "Profit generation",
+        "Limiting liabilities",
+        "Risk assessment",
+        "Marketing expansion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the All India Fire Tariff, how many EQ zones classify India based on frequency and severity?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of an 'excess of loss' reinsurance in fire insurance?",
+      "options": [
+        "Share risks proportionately",
+        "Limit the maximum loss exposure",
+        "Facilitate profit-sharing",
+        "Decrease premium rates"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does CRESTA provide in the context of global insurance industry standards?",
+      "options": [
+        "Catastrophe zones for India",
+        "Uniform and global system for exposure data transfer",
+        "Underwriting guidelines",
+        "Risk mitigation strategies"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary objective of the Indian Fire Reinsurance Programme?",
+      "options": [
+        "Maximize foreign exchange outgo",
+        "Minimize retention within the country",
+        "Facilitate quota share cessions",
+        "Maximize retention within the country"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "How are class rated products different from individual rated products?",
+      "options": [
+        "Based on international standards",
+        "Determined by exposure to loss",
+        "Rates set by experience of the insured",
+        "Rule-based underwriting"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What does the 'burning cost' method involve in the context of reinsurance rate determination?",
+      "options": [
+        "Calculating loss ratios",
+        "Determining claim settlements",
+        "Estimating pure burning rate",
+        "Setting profit margins"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the GIC Market Fire Pool in India do?",
+      "options": [
+        "Retains surplus after obligatory cessions",
+        "Provides excess of loss protection",
+        "Manages aggregate exposure",
+        "Facilitates retrocession"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the criterion for insurances categorized as large risks in the provided context?",
+      "options": [
+        "Sum insured of Rs. 1,000 crores or more",
+        "Rs. 100 crores or more per event for liability insurances",
+        "Insurances with high premium rates",
+        "Risks not within underwriting capability"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of an internal tariff rated product?",
+      "options": [
+        "Tailor-made for individual clients",
+        "Based on individual claims experience",
+        "Standard product sold by any office of the insurer",
+        "Risk management for large risks"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the role of the Appointed Actuary in underwriting, according to the guidelines?",
+      "options": [
+        "Determine rates for exposure rated products",
+        "Moderate rates for risks without statistical support",
+        "Assess claims experience for individual rated risks",
+        "Delegate authority for quoting rates"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary focus of risk management in insurance?",
+      "options": [
+        "Premium calculation",
+        "Profit generation",
+        "Risk transfer",
+        "Claims assessment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the File & Use guidelines, what should be the frequency of underwriting audit in the early period after tariff removal?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Annually",
+        "Bi-annually"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the core function of underwriting in insurance?",
+      "options": [
+        "Claims settlement",
+        "Profit generation",
+        "Risk assessment and acceptance",
+        "Marketing strategy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary goal of Aggregate Exposure Monitoring in fire insurance underwriting?",
+      "options": [
+        "Determine the burning cost",
+        "Monitor total sum insured exposure",
+        "Assess profit margins",
+        "Establish treaty limits"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of fire insurance, what does PML stand for?",
+      "options": [
+        "Primary Maximum Liability",
+        "Probable Maximum Loss",
+        "Potential Market Loss",
+        "Premium Markup Limit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does CRESTA provide in the context of global insurance industry standards?",
+      "options": [
+        "Catastrophe zones for India",
+        "Uniform and global system for exposure data transfer",
+        "Underwriting guidelines",
+        "Risk mitigation strategies"
+      ],
+      "correctIndex": 1
+    }
+  ]
+  
