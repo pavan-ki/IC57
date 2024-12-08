@@ -1,0 +1,253 @@
+[
+    {
+      "question": "What is the purpose of a risk inspection report in the context of insurance?",
+      "options": [
+        "To determine premium rates only",
+        "To facilitate identification of various blocks and drafting of the policy",
+        "To provide information on past insurance and claims history",
+        "To assess the moral hazard of the proposer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What information is typically included in the Proposal Form for a Standard Fire and Special Perils Policy?",
+      "options": [
+        "Period of insurance and location of risk",
+        "Name of the insurer and policy number",
+        "Building construction details and height of the building",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the Policy Schedule for a manufacturing risk, which block description might be included?",
+      "options": [
+        "Residential Block",
+        "Boiler House",
+        "Administrative Building",
+        "Parking Lot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of the Escalation Clause in an insurance policy?",
+      "options": [
+        "To increase the premium over time",
+        "To provide coverage for increased costs due to inflation",
+        "To limit the insurer's liability",
+        "To exclude coverage for specific perils"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clause is commonly referred to as an 'in-built' cover in a standard fire policy?",
+      "options": [
+        "Agreed Bank Clause",
+        "Reinstatement Value Clause",
+        "Earthquake Extension Clause",
+        "Additional Interest Clause"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main function of endorsements in an insurance policy?",
+      "options": [
+        "To issue a renewal notice",
+        "To make changes to the policy terms and conditions",
+        "To determine the premium rates",
+        "To provide evidence of insurance protection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under the Tariff for manufacturing risks, what affects the rate charged for a Paint Factory?",
+      "options": [
+        "The location of the factory",
+        "The size of the factory",
+        "The type of process of manufacture",
+        "The number of employees"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of a Renewal Notice in the context of insurance policies?",
+      "options": [
+        "To legally bind the insurer to renew the policy",
+        "To provide evidence of insurance protection",
+        "To remind the insured of the upcoming policy expiry",
+        "To determine the premium rates for the renewal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the Policy Schedule, what category of data does 'Occupancy-wise Net Rate Data' refer to?",
+      "options": [
+        "Identification details",
+        "Risk Description",
+        "Occupancy-wise data",
+        "Special Clauses"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the significance of the Declaration Clause in a proposal form?",
+      "options": [
+        "It converts the answers given by the proposer into continuing warranties",
+        "It provides evidence of insurance protection",
+        "It determines the premium rates",
+        "It specifies the coverage limits"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "When is a Cover Note issued in the insurance process?",
+      "options": [
+        "After the proposal form is submitted",
+        "Before the risk inspection report",
+        "After the full premium is received",
+        "After the policy is issued"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the main purpose of the Risk Inspection Report in insurance?",
+      "options": [
+        "To determine the policy premium",
+        "To facilitate easy identification of various blocks",
+        "To make recommendations for risk improvement",
+        "To provide evidence of insurance protection"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does the FEA Warranty in an insurance policy pertain to?",
+      "options": [
+        "Fire Extinguishing Appliances",
+        "Fire and Explosion Association",
+        "Fire Extinguishing Agents",
+        "Fire Extinguishing Authorization"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the context of insurance, what is a moral hazard?",
+      "options": [
+        "A hazard related to natural disasters",
+        "A hazard arising from the character, reputation, or conduct of the insured",
+        "A hazard linked to the location of the insured property",
+        "A hazard associated with the construction of the insured property"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which section of the Insurance Act 1938 is brought to the notice of the proposer regarding the assumption of risk?",
+      "options": [
+        "Section 41",
+        "Section 64 VB",
+        "Section 20",
+        "Section 100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of the Proposal Form in insurance?",
+      "options": [
+        "To issue a policy schedule",
+        "To provide evidence of insurance protection",
+        "To submit a claim",
+        "To facilitate risk inspection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the significance of the Operative Clause in a Cover Note?",
+      "options": [
+        "It converts the answers given by the proposer into continuing warranties",
+        "It specifies the coverage limits",
+        "It facilitates risk inspection",
+        "It provides evidence of insurance protection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clause is typically used to warrant the type of construction in an insurance policy?",
+      "options": [
+        "FEA Warranty",
+        "Construction Warranty",
+        "Earthquake Extension Clause",
+        "Escalation Clause"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main function of a Renewal Notice in insurance?",
+      "options": [
+        "To issue a new policy",
+        "To provide evidence of insurance protection",
+        "To remind the insured of the upcoming policy expiry",
+        "To determine the premium rates for the renewal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What information does the Schedule of a policy typically contain?",
+      "options": [
+        "Details about the proposer's business",
+        "Individual details of the insurance contract",
+        "Only identification details of the insured",
+        "Information on the risk inspection report"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of insurance, what does CED stand for?",
+      "options": [
+        "Centralized Evaluation Database",
+        "Claims Experience Discount",
+        "Construction and Engineering Department",
+        "Comprehensive Examination Document"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of information is typically included in the Identification details category of a Policy Schedule?",
+      "options": [
+        "Description of property and sum insured",
+        "Rates for building and contents",
+        "Policy number and policy period",
+        "Risk Code and net rates"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of the Agreed Bank Clause in an insurance policy?",
+      "options": [
+        "To specify the coverage limits",
+        "To incorporate a bank's name or a financial institution",
+        "To provide evidence of insurance protection",
+        "To limit the insurer's liability"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which category of data does 'Risk Description' refer to in a Policy Schedule?",
+      "options": [
+        "Identification details",
+        "Risk inspection report",
+        "Special Clauses",
+        "Description of property and sum insured"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the purpose of a proposal form in the insurance process?",
+      "options": [
+        "To determine the policy premium",
+        "To submit a claim",
+        "To provide evidence of insurance protection",
+        "To facilitate risk inspection"
+      ],
+      "correctIndex": 2
+    }
+  ]
+  

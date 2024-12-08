@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What does 'Details about proposer in a proposal form' refer to?",
+        "options": [
+            "General guidelines unrelated to details about proposer in a proposal form.",
+            "Explanation about details about proposer in a proposal form.",
+            "An unrelated topic to details about proposer in a proposal form.",
+            "A technical term not concerning details about proposer in a proposal form."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'Role of housekeeping in insurance risk management' refer to?",
+        "options": [
+            "A technical term not concerning role of housekeeping in insurance risk management.",
+            "General guidelines unrelated to role of housekeeping in insurance risk management.",
+            "Explanation about role of housekeeping in insurance risk management.",
+            "An unrelated topic to role of housekeeping in insurance risk management."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Impact of the Insurance Act 1938 on proposal processing' refer to?",
+        "options": [
+            "General guidelines unrelated to impact of the insurance act 1938 on proposal processing.",
+            "An unrelated topic to impact of the insurance act 1938 on proposal processing.",
+            "A technical term not concerning impact of the insurance act 1938 on proposal processing.",
+            "Explanation about impact of the insurance act 1938 on proposal processing."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Purpose of renewal notices in insurance policies' refer to?",
+        "options": [
+            "A technical term not concerning purpose of renewal notices in insurance policies.",
+            "Explanation about purpose of renewal notices in insurance policies.",
+            "General guidelines unrelated to purpose of renewal notices in insurance policies.",
+            "An unrelated topic to purpose of renewal notices in insurance policies."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'Process of drafting a policy' refer to?",
+        "options": [
+            "General guidelines unrelated to process of drafting a policy.",
+            "Explanation about process of drafting a policy.",
+            "An unrelated topic to process of drafting a policy.",
+            "A technical term not concerning process of drafting a policy."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'Differences between cover note and final policy' refer to?",
+        "options": [
+            "General guidelines unrelated to differences between cover note and final policy.",
+            "Explanation about differences between cover note and final policy.",
+            "An unrelated topic to differences between cover note and final policy.",
+            "A technical term not concerning differences between cover note and final policy."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'Role of inspection engineers in assessing risks' refer to?",
+        "options": [
+            "Explanation about role of inspection engineers in assessing risks.",
+            "General guidelines unrelated to role of inspection engineers in assessing risks.",
+            "An unrelated topic to role of inspection engineers in assessing risks.",
+            "A technical term not concerning role of inspection engineers in assessing risks."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Coverage in a fire insurance policy proposal form' refer to?",
+        "options": [
+            "A technical term not concerning coverage in a fire insurance policy proposal form.",
+            "An unrelated topic to coverage in a fire insurance policy proposal form.",
+            "Explanation about coverage in a fire insurance policy proposal form.",
+            "General guidelines unrelated to coverage in a fire insurance policy proposal form."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Fire protection devices and systems' refer to?",
+        "options": [
+            "A technical term not concerning fire protection devices and systems.",
+            "An unrelated topic to fire protection devices and systems.",
+            "General guidelines unrelated to fire protection devices and systems.",
+            "Explanation about fire protection devices and systems."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Factors affecting premium determination' refer to?",
+        "options": [
+            "An unrelated topic to factors affecting premium determination.",
+            "General guidelines unrelated to factors affecting premium determination.",
+            "Explanation about factors affecting premium determination.",
+            "A technical term not concerning factors affecting premium determination."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Definition and significance of endorsements' refer to?",
+        "options": [
+            "Explanation about definition and significance of endorsements.",
+            "A technical term not concerning definition and significance of endorsements.",
+            "General guidelines unrelated to definition and significance of endorsements.",
+            "An unrelated topic to definition and significance of endorsements."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Meaning of declaration clause in a proposal form' refer to?",
+        "options": [
+            "An unrelated topic to meaning of declaration clause in a proposal form.",
+            "A technical term not concerning meaning of declaration clause in a proposal form.",
+            "Explanation about meaning of declaration clause in a proposal form.",
+            "General guidelines unrelated to meaning of declaration clause in a proposal form."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Examples of endorsements in insurance policies' refer to?",
+        "options": [
+            "Explanation about examples of endorsements in insurance policies.",
+            "A technical term not concerning examples of endorsements in insurance policies.",
+            "An unrelated topic to examples of endorsements in insurance policies.",
+            "General guidelines unrelated to examples of endorsements in insurance policies."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Examples of special clauses in insurance policies' refer to?",
+        "options": [
+            "An unrelated topic to examples of special clauses in insurance policies.",
+            "General guidelines unrelated to examples of special clauses in insurance policies.",
+            "A technical term not concerning examples of special clauses in insurance policies.",
+            "Explanation about examples of special clauses in insurance policies."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Warranties and clauses in fire insurance policies' refer to?",
+        "options": [
+            "General guidelines unrelated to warranties and clauses in fire insurance policies.",
+            "An unrelated topic to warranties and clauses in fire insurance policies.",
+            "Explanation about warranties and clauses in fire insurance policies.",
+            "A technical term not concerning warranties and clauses in fire insurance policies."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Description of block-wise risk assessment' refer to?",
+        "options": [
+            "An unrelated topic to description of block-wise risk assessment.",
+            "General guidelines unrelated to description of block-wise risk assessment.",
+            "Explanation about description of block-wise risk assessment.",
+            "A technical term not concerning description of block-wise risk assessment."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Role of the Tariff Advisory Committee' refer to?",
+        "options": [
+            "Explanation about role of the tariff advisory committee.",
+            "General guidelines unrelated to role of the tariff advisory committee.",
+            "An unrelated topic to role of the tariff advisory committee.",
+            "A technical term not concerning role of the tariff advisory committee."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Importance of moral hazard assessment' refer to?",
+        "options": [
+            "An unrelated topic to importance of moral hazard assessment.",
+            "General guidelines unrelated to importance of moral hazard assessment.",
+            "Explanation about importance of moral hazard assessment.",
+            "A technical term not concerning importance of moral hazard assessment."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Key elements of a policy schedule' refer to?",
+        "options": [
+            "A technical term not concerning key elements of a policy schedule.",
+            "An unrelated topic to key elements of a policy schedule.",
+            "General guidelines unrelated to key elements of a policy schedule.",
+            "Explanation about key elements of a policy schedule."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Details of sum insured in a proposal form' refer to?",
+        "options": [
+            "General guidelines unrelated to details of sum insured in a proposal form.",
+            "A technical term not concerning details of sum insured in a proposal form.",
+            "An unrelated topic to details of sum insured in a proposal form.",
+            "Explanation about details of sum insured in a proposal form."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Importance of risk improvement suggestions' refer to?",
+        "options": [
+            "Explanation about importance of risk improvement suggestions.",
+            "An unrelated topic to importance of risk improvement suggestions.",
+            "A technical term not concerning importance of risk improvement suggestions.",
+            "General guidelines unrelated to importance of risk improvement suggestions."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Contents of a cover note' refer to?",
+        "options": [
+            "Explanation about contents of a cover note.",
+            "General guidelines unrelated to contents of a cover note.",
+            "A technical term not concerning contents of a cover note.",
+            "An unrelated topic to contents of a cover note."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'Objective of risk inspection report' refer to?",
+        "options": [
+            "An unrelated topic to objective of risk inspection report.",
+            "General guidelines unrelated to objective of risk inspection report.",
+            "A technical term not concerning objective of risk inspection report.",
+            "Explanation about objective of risk inspection report."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'Details of property in a proposal form' refer to?",
+        "options": [
+            "An unrelated topic to details of property in a proposal form.",
+            "A technical term not concerning details of property in a proposal form.",
+            "Explanation about details of property in a proposal form.",
+            "General guidelines unrelated to details of property in a proposal form."
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'Scope of a risk inspection report' refer to?",
+        "options": [
+            "An unrelated topic to scope of a risk inspection report.",
+            "Explanation about scope of a risk inspection report.",
+            "A technical term not concerning scope of a risk inspection report.",
+            "General guidelines unrelated to scope of a risk inspection report."
+        ],
+        "correctIndex": 1
+    }
+]
