@@ -1,252 +1,152 @@
 [
-    {
-        "question": "What are the eligibility criteria for Industrial All Risk (IAR) Policy?",
-        "options": [
-            "Sum insured above INR 100 crores for one or more locations",
-            "Only petrochemical risks with sum insured above INR 50 crores",
-            "Properties with historical value only",
-            "Commercial buildings with sum insured below INR 10 crores"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Under Petrochemical Tariff, what is the flash point range for Class B products?",
-        "options": [
-            "Below 23\u00b0C",
-            "Above 23\u00b0C and up to 65\u00b0C",
-            "Above 65\u00b0C and up to 93\u00b0C",
-            "Above 93\u00b0C"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What does the 'Silent Risk' clause under Petrochemical Tariff require?",
-        "options": [
-            "That hydrocarbon materials are stored safely during the silent period",
-            "The removal and purging of all flammable materials",
-            "A continuous silent period of 30 days",
-            "An increased premium for idle facilities"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of the Mutual Aid Scheme in the Petrochemical Tariff?",
-        "options": [
-            "To provide discounted premiums for large plants",
-            "To ensure that member plants assist each other during emergencies",
-            "To underwrite higher sums insured collectively",
-            "To standardize fire-fighting equipment across the industry"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the IAR policy, which of the following is a compulsory deductible for Business Interruption in Petrochemical Risks?",
-        "options": [
-            "5% of the claim amount with no minimum",
-            "7 days of Standard Gross Profit",
-            "14 days of Standard Gross Profit",
-            "21 days of Standard Gross Profit"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Intermediate Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 1
-    }
+  {
+    "question": "What is a key feature of the Mutual Aid Scheme?",
+    "options": [
+      "Interchangeability of equipment",
+      "No fire audits required",
+      "Exemption from fire hydrant systems",
+      "Independent plant operations"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the maximum storage capacity for Class A and B tanks under Petrochemical Tariff?",
+    "options": [
+      "40,000 K. Litres",
+      "50,000 K. Litres",
+      "30,000 K. Litres",
+      "20,000 K. Litres"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which warranty must non-petrochemical plants comply with to receive Petrochemical Tariff coverage?",
+    "options": [
+      "Zero-risk material handling",
+      "Reduced water supply requirements",
+      "Electrical installation compliance",
+      "Exemption from Mutual Aid membership"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the silent period requirement under Petrochemical Tariff?",
+    "options": [
+      "90 days including purging",
+      "Minimum 60 continuous days",
+      "At least 30 days",
+      "No minimum period required"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the flash point range for Class C flammable materials?",
+    "options": [
+      "Above 93\u00b0C",
+      "Above 23\u00b0C and up to 65\u00b0C",
+      "Above 65\u00b0C and up to 93\u00b0C",
+      "Below and up to 23\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which risk factor is included in the Petrochemical Tariff rating procedure?",
+    "options": [
+      "Annual production value",
+      "Policyholder's credit score",
+      "Proximity to urban areas",
+      "Material of construction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rating factor for Basic Rate in Petrochemical Tariff?",
+    "options": [
+      "Volume of water supply",
+      "Distance from Mutual Aid facilities",
+      "Hazard factor of each equipment",
+      "Insurance company location"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is excluded from the scope of Industrial All Risk Policy?",
+    "options": [
+      "Declared floating stocks",
+      "Buildings and machinery",
+      "Machinery breakdown",
+      "Property undergoing alteration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is an optional coverage under Industrial All Risk Policy?",
+    "options": [
+      "Machinery Loss of Profit",
+      "Burglary insurance",
+      "Fire Loss of Profit",
+      "Fire and Special Perils"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the deductible for Material Damage under IAR policies with a sum insured above INR 100 Cr?",
+    "options": [
+      "No deductible",
+      "5% of claim amount, no minimum limit",
+      "7% of claim amount, minimum INR 20 lakh",
+      "5% of claim amount, subject to a minimum of INR 10 lakh"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the policy limit for liability under the Civil Liability for Nuclear Damage Act?",
+    "options": [
+      "Rs. 3,000 Crore",
+      "Rs. 1,500 Crore",
+      "Rs. 2,500 Crore",
+      "Rs. 1,000 Crore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the basis for valuing property under Business Personal Property coverage?",
+    "options": [
+      "Original Purchase Price",
+      "Actual Cash Value (ACV)",
+      "Market Value",
+      "Insurer's estimation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is NOT covered under the Broad Form in USA property insurance?",
+    "options": [
+      "Weight of snow",
+      "Breakage of glass",
+      "Flood damage",
+      "Water damage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the expected membership range for the Mutual Aid Scheme?",
+    "options": [
+      "Three plants with minimum 15 km distance",
+      "Two or more industrial plants within 10 km",
+      "Single industrial plants in urban areas",
+      "Five or more public utilities within a city"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the condition for granting discounts under IAR Policy?",
+    "options": [
+      "Pre-approval by insured personnel",
+      "Located within Mutual Aid Scheme zone",
+      "Claims experience discount after 2 years",
+      "Annual production exceeding 10 Cr"
+    ],
+    "correctIndex": 2
+  }
 ]

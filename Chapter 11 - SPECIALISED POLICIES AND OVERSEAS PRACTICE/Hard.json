@@ -1,252 +1,152 @@
 [
-    {
-        "question": "What is the minimum water supply duration required for fire hydrant service in a Petrochemical plant?",
-        "options": [
-            "One hour",
-            "Two hours",
-            "Four hours",
-            "Six hours"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Under Petrochemical Tariff, what defines a 'Proven Process'?",
-        "options": [
-            "A process operational for more than two years",
-            "A process commercially successful at least once worldwide",
-            "A process that complies with ISO standards",
-            "A process tested in laboratory settings"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the primary factor in determining the Basic Rate for Petrochemical Plants?",
-        "options": [
-            "Material of construction only",
-            "Quantity of flammable materials handled",
-            "Discounts available for superior features",
-            "Standard sum insured across all plants"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In an Industrial All Risk policy, what is the consequence of underinsurance exceeding 15%?",
-        "options": [
-            "Immediate cancellation of the policy",
-            "Application of average condition to claims",
-            "No claims are payable under any circumstances",
-            "Increase in premium rates for the next term"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the maximum loading allowed for Fire and Explosion rates in Petrochemical Plants?",
-        "options": [
-            "125% of the Basic Rate",
-            "150% of the Basic Rate",
-            "165% of the Basic Rate",
-            "200% of the Basic Rate"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 0
-    }
+  {
+    "question": "What was the reason for introducing the Petrochemical Tariff in 1976?",
+    "options": [
+      "High magnitude of fire/explosion risks",
+      "To encourage smaller refineries",
+      "To eliminate Mutual Aid requirements",
+      "To simplify property insurance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a key exclusion under the Petrochemical Tariff for plants?",
+    "options": [
+      "Use of electrical installations",
+      "Feedstocks like Natural Gas",
+      "Basic raw materials not being hydrocarbons",
+      "Tankages located outside refinery premises"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the Mutual Aid Scheme requirement for foam stock?",
+    "options": [
+      "Compliance with Rule 7.8 of Fire Protection Manual",
+      "Availability in all plant units",
+      "At least 10,000 liters on premises",
+      "Accessible only during annual audits"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which feature is part of the 'All Risks' policy in the UK?",
+    "options": [
+      "Mandatory fire coverage for all properties",
+      "Limit of liability chosen by the insured",
+      "Exclusion of consequential losses",
+      "Requirement for insured audits every 6 months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the key rating factor for determining material factor under Petrochemical Tariff?",
+    "options": [
+      "Type of final product processed",
+      "Plant compliance history",
+      "Policyholder's production capacity",
+      "Quantity of material in the circuit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What defines the classification of flammable materials into Class A, B, C, and D?",
+    "options": [
+      "Volume of materials stored",
+      "Temperature at time of use",
+      "Flash point of the materials",
+      "Chemical reactivity with air"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the prescribed basic rate for Urea Synthesis Plants under the Petrochemical Tariff?",
+    "options": [
+      "Rs. 1.5%",
+      "Rs. 3.5%",
+      "Rs. 2.75%",
+      "Rs. 2.25%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What defines the minimum requirements for electrical installation under Petrochemical Tariff?",
+    "options": [
+      "Compliance with TAC rules",
+      "Dedicated power supplies",
+      "Located outside tank farm premises",
+      "Installed within last 5 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the coverage limit for Valuable Papers and Records under USA property insurance?",
+    "options": [
+      "Full replacement cost without depreciation",
+      "Original purchase price adjusted annually",
+      "A limited amount specified in the policy",
+      "Sum insured plus declared extensions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which plants are exempted from Petrochemical Tariff coverage?",
+    "options": [
+      "Plants processing LPG",
+      "Non-hydrocarbon-based plants",
+      "Plants located in petrochemical complexes",
+      "Non-refinery auxiliary facilities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the minimum distance requirement for Mutual Aid Scheme industrial plants?",
+    "options": [
+      "Within 15 kilometers",
+      "Within 5 kilometers",
+      "Within 10 kilometers",
+      "Within the same city"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a fire and explosion hazard factor in Petrochemical Tariff?",
+    "options": [
+      "Employee safety training levels",
+      "Process operation temperature",
+      "Distance between utility plants",
+      "Average annual downtime"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What defines 'Silent Risks' under Petrochemical Tariff?",
+    "options": [
+      "Unused plants with active equipment",
+      "Risks not insured under Mutual Aid",
+      "Inactive plants for under 30 days",
+      "Thoroughly purged of flammable materials"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which policy clause is mandatory under IAR Policy?",
+    "options": [
+      "Stock Valuation Declaration",
+      "Premium Recalibration Clause",
+      "Excess Clause Adjustment",
+      "Agreed Bank Clause"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a feature of Combined Policies in the UK?",
+    "options": [
+      "Common warranties across sections",
+      "Pre-determined sum insured",
+      "Separate terms for each section",
+      "Uniform rating for all risks"
+    ],
+    "correctIndex": 2
+  }
 ]

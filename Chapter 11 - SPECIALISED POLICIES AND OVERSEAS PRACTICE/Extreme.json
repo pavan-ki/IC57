@@ -1,252 +1,142 @@
 [
-    {
-        "question": "Under Petrochemical Tariff, what is the flashpoint classification for Class D materials?",
-        "options": [
-            "Below and up to 23\u00b0C",
-            "Above 23\u00b0C and up to 65\u00b0C",
-            "Above 65\u00b0C and up to 93\u00b0C",
-            "Above 93\u00b0C"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the Mutual Aid Scheme ensure interchangeability of equipment among members?",
-        "options": [
-            "Through standardized equipment specifications",
-            "By requiring members to maintain adapter pieces",
-            "By pooling all resources in a central repository",
-            "By exchanging unused equipment quarterly"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is a unique condition for granting 'Silent Risk' coverage under Petrochemical Tariff?",
-        "options": [
-            "A silent period of no less than 30 days",
-            "Hydrocarbons must remain stored securely during the silent period",
-            "Purging all flammable materials before and during the silent period",
-            "A mandatory doubling of the premium during inactivity"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What does the 'Omission to Insure Additions' clause under IAR policy provide for?",
-        "options": [
-            "Automatic coverage for new additions up to a specific limit",
-            "Exclusion of any new additions to the insured premises",
-            "Revised premium for omitted items during claim settlement",
-            "No coverage for items installed after the policy issuance"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "How are claims assessed under the IAR policy for properties covered on Reinstatement Value Basis?",
-        "options": [
-            "Market value minus depreciation",
-            "Replacement cost without depreciation",
-            "Flat rate based on policy sum insured",
-            "Depreciated value adjusted for inflation"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 0
-    }
+  {
+    "question": "What specific regulation applies to electrical installations under Petrochemical Tariff?",
+    "options": [
+      "Mandatory solar power installations",
+      "Replacement every 10 years",
+      "Approval from local authorities",
+      "Compliance with TAC rules for lightning and static discharge protection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Under what conditions can discounts on IAR premiums be applied?",
+    "options": [
+      "Higher deductibles and favorable claims experience",
+      "Exemption from TAC regulations",
+      "No prior fire incidents in 5 years",
+      "Membership in Mutual Aid Scheme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary factor for final process hazard factor adjustment in Petrochemical Tariff?",
+    "options": [
+      "Quantity of non-flammable materials handled",
+      "Hold-up capacity of material in a discrete circuit",
+      "Distance to nearest Mutual Aid facility",
+      "Process temperature during shutdown"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What defines a 'proven process' under Petrochemical Tariff?",
+    "options": [
+      "Having a minimum of three pilot runs",
+      "Commercial operation for at least five years or higher-scale installations",
+      "Approval from two international insurers",
+      "Compliance with all domestic manufacturing standards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What determines the silent period under Petrochemical Tariff?",
+    "options": [
+      "Active processes without major risks",
+      "Absence of Mutual Aid membership",
+      "Complete removal of hydrocarbons and flammable materials",
+      "Reduction of processing capacity to 25%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What additional warranty is required for tank farms under Petrochemical Tariff?",
+    "options": [
+      "No tank should exceed 30,000 K. Litres for Class A/B materials",
+      "Tanks should not store Class C materials",
+      "Tanks should be replaced every 5 years",
+      "Only above-ground tanks are allowed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What governs the membership of the Mutual Aid Scheme?",
+    "options": [
+      "Proximity of industrial plants within 15 kilometers",
+      "Membership from at least five international plants",
+      "Presence of a full-time fire marshal and compatible equipment",
+      "Annual review by TAC authorities"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the insurance coverage for nuclear power plants under the Nuclear Damage Act?",
+    "options": [
+      "Full coverage for construction costs",
+      "Liability limited to Rs. 750 Crores",
+      "Liability up to Rs. 1,500 Crores per incident",
+      "Mandatory liability capped at Rs. 1,000 Crores"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What exclusion applies to Business Personal Property in USA property insurance?",
+    "options": [
+      "Property undergoing alteration or construction",
+      "Furniture and fixtures on site",
+      "Property used in regular business operations",
+      "Machinery under testing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the impact of higher deductibles on IAR Policy rates?",
+    "options": [
+      "Exemption from Mutual Aid membership",
+      "Immediate policy renewal flexibility",
+      "Premium discounts ranging from 10% to 25%",
+      "Fixed annual reduction of 5%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the flash point for Class D flammable materials?",
+    "options": [
+      "Below 23\u00b0C",
+      "Above 65\u00b0C and up to 93\u00b0C",
+      "Above 93\u00b0C",
+      "Above 23\u00b0C and up to 65\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the 'fire and explosion' rate adjustment limit in Petrochemical Tariff?",
+    "options": [
+      "Fixed at 125% of base rate",
+      "Variable based on Mutual Aid Scheme compliance",
+      "No lower than 50% of base rate",
+      "Minimum 65% and maximum 165% of basic rate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is excluded from the Broad Form coverage in USA property insurance?",
+    "options": [
+      "Breakage of building glass",
+      "Earthquake or volcanic eruption",
+      "Weight of snow or ice",
+      "Accidental water damage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What additional clause is attached to IAR Policy?",
+    "options": [
+      "General Liability Clause",
+      "Renewal Period Extension Clause",
+      "Architects\u2019, Surveyors\u2019, and Consulting Engineers\u2019 Fees Clause",
+      "Business Interruption Exclusion Clause"
+    ],
+    "correctIndex": 2
+  }
 ]

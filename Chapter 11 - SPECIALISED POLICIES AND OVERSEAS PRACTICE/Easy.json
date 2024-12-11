@@ -1,252 +1,252 @@
 [
-    {
-        "question": "What is the primary purpose of the Petrochemical Tariff?",
-        "options": [
-            "To insure only LPG bottling plants",
-            "To cover fire and explosion risks in petrochemical plants",
-            "To replace all other types of fire insurance",
-            "To provide coverage only for non-petrochemical industries"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following is included under the Industrial All Risk (IAR) policy?",
-        "options": [
-            "Fire and burglary cover",
-            "Personal accident cover",
-            "Auto insurance",
-            "Livestock coverage"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the key exclusion in an IAR policy?",
-        "options": [
-            "Machinery breakdown",
-            "Damage due to nuclear risks",
-            "Damage caused by faulty design",
-            "Flood damage"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the minimum deductible for Material Damage under an IAR policy with a sum insured above INR 100 Cr?",
-        "options": [
-            "5% of claim amount subject to a minimum of INR 10 lakhs",
-            "10% of claim amount",
-            "No deductible",
-            "Flat INR 5 lakhs"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What does the Mutual Aid Scheme aim to provide?",
-        "options": [
-            "Health insurance for employees",
-            "Supplemental fire-fighting resources for member plants",
-            "Reduction in policy premiums for mutual members",
-            "Coverage for transportation risks"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Basic Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Basic Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Basic Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Basic Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Basic Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Basic Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 3
-    }
+  {
+    "question": "In what year was the first Petrochemical Tariff introduced?",
+    "options": [
+      "1996",
+      "1976",
+      "1987",
+      "1981"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a requirement for granting Petrochemical Tariff cover?",
+    "options": [
+      "Fire protection with hydrant service",
+      "No specific requirements",
+      "Basic rate without warranties",
+      "No need for electrical compliance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What class of flammable materials has a flash point below and up to 23\u00b0C?",
+    "options": [
+      "Class C",
+      "Class D",
+      "Class A",
+      "Class B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is excluded from Petrochemical Tariff coverage?",
+    "options": [
+      "LPG bottling plants within refinery premises",
+      "Tank farms within the complex",
+      "Urea synthesis plants",
+      "Plants where basic raw materials are not hydrocarbons"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a silent risk as per the Petrochemical Tariff?",
+    "options": [
+      "Plants in operation",
+      "Complexes handling Class A materials",
+      "Plants completely purged of hydrocarbons",
+      "Tank farms in use"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a benefit of the Mutual Aid Scheme?",
+    "options": [
+      "Reduced insurance premiums",
+      "Independent plant operations without liaison",
+      "No need for fire protection systems",
+      "Supplement resources during emergencies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the Industrial All Risk (IAR) Policy?",
+    "options": [
+      "Coverage for vehicles and livestock",
+      "To simplify insurance for homeowners",
+      "Comprehensive cover for industrial risks",
+      "Specific cover for petrochemical plants"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is included under compulsory cover in the IAR Policy?",
+    "options": [
+      "Public liability",
+      "Fire and Special Perils",
+      "Off-premises property",
+      "Theft insurance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is excluded from the IAR Policy?",
+    "options": [
+      "Declared floating stocks",
+      "Buildings and machinery",
+      "Stock within premises",
+      "Money and securities"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which form provides the broadest coverage under the USA property insurance policies?",
+    "options": [
+      "Broad Form",
+      "Special Form",
+      "Basic Form",
+      "Standard Form"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'Business Personal Property' include?",
+    "options": [
+      "Livestock",
+      "Furniture and fixtures",
+      "Buildings under construction",
+      "Land and pavements"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the General Insurance Council?",
+    "options": [
+      "Setting fixed premiums for all policies",
+      "Advocating high customer service standards",
+      "Issuing fire tariffs in India",
+      "Determining all insurance claims"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the flash point range for Class B flammable materials?",
+    "options": [
+      "Above 23\u00b0C and up to 65\u00b0C",
+      "Above 93\u00b0C",
+      "Below and up to 23\u00b0C",
+      "Above 65\u00b0C and up to 93\u00b0C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which policy introduced in 1997 provides a package cover for industrial risks?",
+    "options": [
+      "Petrochemical Tariff",
+      "All-Risk Policy",
+      "Fire Tariff Policy",
+      "Industrial All Risk Policy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the Excess Clause in Petrochemical Tariff?",
+    "options": [
+      "To classify flammable materials",
+      "To limit insurer liability per claim",
+      "To exclude silent risks",
+      "To provide discounts on premiums"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which factor is NOT considered in the rating of Petrochemical Tariff?",
+    "options": [
+      "Material of construction",
+      "Properties of chemicals",
+      "Quantity of flammable materials handled",
+      "Location of the insured premises"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the minimum fire pump capacity for Mutual Aid Scheme members?",
+    "options": [
+      "1000 gsm",
+      "6000 gsm",
+      "2000 gsm",
+      "4000 gsm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which peril is NOT covered under the Basic Form in the USA?",
+    "options": [
+      "Flood",
+      "Lightning",
+      "Fire",
+      "Sinkhole collapse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is covered under Business Interruption in IAR Policy?",
+    "options": [
+      "Damage to vehicles",
+      "Loss of profits due to fire",
+      "Flood damage",
+      "Loss of personal property"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the definition of Replacement Cost under USA property insurance?",
+    "options": [
+      "Sum insured multiplied by deductible",
+      "Replacement cost minus depreciation",
+      "Original purchase price of the property",
+      "Market value plus salvage value"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which class of flammable materials has a flash point above 93\u00b0C?",
+    "options": [
+      "Class B",
+      "Class D",
+      "Class C",
+      "Class A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a feature of Combined Policies in the UK?",
+    "options": [
+      "One proposal for multiple covers",
+      "Single set of conditions and exceptions",
+      "Pre-determined restrictions",
+      "First loss cover for all risks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a compulsory deductible for Material Damage in IAR policies with sum insured over INR 2500 Cr?",
+    "options": [
+      "No deductible",
+      "10% of claim amount",
+      "5% of claim amount, min INR 50 lakh",
+      "15% of claim amount"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is NOT included under exclusions for IAR Policy?",
+    "options": [
+      "Theft damage to buildings",
+      "Corrosion",
+      "Acts of fraud",
+      "Faulty design"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which policy combines fire, consequential loss, and liability into a single contract?",
+    "options": [
+      "Combined Policy",
+      "All-Risk Policy",
+      "IAR Policy",
+      "Petrochemical Tariff"
+    ],
+    "correctIndex": 0
+  }
 ]
