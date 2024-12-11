@@ -1,252 +1,252 @@
 [
     {
-        "question": "In what ways does 'Complex interplay of insured and uninsured standing charges' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "How is the indemnity for 'Increase in Cost of Working' calculated under Memo 2?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In what ways does 'Impact of incorrect indemnity period selection on claims' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "By applying the gross profit rate to additional expenditure avoided",
+            "By proportioning additional expenditure based on insured standing charges",
+            "By deducting the uninsured standing charges from total additional costs",
+            "By comparing variable charges and gross profit trends"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Analysis of business interruptions exceeding policy periods' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "What does the 'Departmental Clause' ensure in a multi-department business claim?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In what ways does 'Calculations for Net Trading Loss amidst fluctuating markets' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In what ways does 'Comparative analysis of Annual vs Standard Turnover in claims' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "That only affected departments are considered for loss calculation",
+            "That the sum insured is distributed equally among all departments",
+            "That no average is applied to unaffected departments",
+            "That gross profit from all departments is combined for simplicity"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Financial implications of policy exclusions during litigation' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Why might the 'Rate of Gross Profit' require adjustment under the Adjustment Clause?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In what ways does 'Detailed computation of Gross Profit adjustments under varying trends' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In what ways does 'Financial implications of policy exclusions during litigation' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "To account for discrepancies in audited financial statements",
+            "To reflect business trends and special circumstances",
+            "To match the annual turnover to standard turnover",
+            "To eliminate underinsurance penalties"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Impact of incorrect indemnity period selection on claims' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "What is the key distinction of 'Standard Turnover' for indemnity calculation?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "It is always equal to the turnover from the last audited financial year.",
+            "It includes adjusted turnover figures from the period before the damage.",
+            "It excludes any turnover from alternative premises during the indemnity period.",
+            "It is only used for calculating variable charges."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of the following is not covered by Consequential Loss Insurance?",
+        "options": [
+            "Loss of goodwill",
+            "Savings in insured standing charges",
+            "Reduction in turnover",
+            "Increased cost of working"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Expert-Level Question 6",
+        "options": [
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 7",
+        "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Expert-Level Question 8",
+        "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 9",
+        "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Comparative analysis of Annual vs Standard Turnover in claims' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 10",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In what ways does 'Impact of incorrect indemnity period selection on claims' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 11",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
     },
     {
-        "question": "In what ways does 'Implications of misaligned policy conditions on payout limits' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 12",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Expert-Level Question 13",
+        "options": [
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In what ways does 'Detailed computation of Gross Profit adjustments under varying trends' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 14",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In what ways does 'Adjustment Clause in rapidly changing market conditions' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In what ways does 'Optimizing sum insured to avoid under-insurance penalties' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In what ways does 'Auditor's role in validating claims under Memo provisions' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In what ways does 'Real-world application of Departmental Clause in large organizations' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In what ways does 'Strategic use of adjustment clauses in high-growth businesses' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Strategic use of adjustment clauses in high-growth businesses' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 15",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In what ways does 'Impact of incorrect indemnity period selection on claims' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 16",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In what ways does 'Real-world application of Departmental Clause in large organizations' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 17",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In what ways does 'Calculations for Net Trading Loss amidst fluctuating markets' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In what ways does 'Implications of misaligned policy conditions on payout limits' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In what ways does 'Complex interplay of insured and uninsured standing charges' critically affect the resolution of claims in Consequential Loss Insurance?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In what ways does 'Adjustment Clause in rapidly changing market conditions' critically affect the resolution of claims in Consequential Loss Insurance?",
+        "question": "Expert-Level Question 18",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Expert-Level Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Expert-Level Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
         ],
         "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 24",
+        "options": [
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Expert-Level Question 25",
+        "options": [
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
+        ],
+        "correctIndex": 1
     }
 ]

@@ -1,251 +1,251 @@
 [
     {
-        "question": "How does the 'Departmental Clause in multi-department businesses' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "In the calculation of Gross Profit for a Loss of Profit policy, what happens when there is a net trading loss?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Detailed application of Business Interruption deductibles' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How does the 'Memo provisions in claim adjustments' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "The insured receives the full amount of insured standing charges.",
+            "Gross profit is reduced by the proportion of net trading loss to all standing charges.",
+            "The policy becomes void due to the loss.",
+            "The indemnity is calculated solely on variable charges."
         ],
         "correctIndex": 0
     },
     {
-        "question": "How does the 'Memo provisions in claim adjustments' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "What is the role of the 'Adjustment Clause' in determining indemnity?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How does the 'Detailed application of Business Interruption deductibles' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "To account for trends or special circumstances in the business",
+            "To eliminate underinsurance issues",
+            "To reduce the claim amount for high gross profits",
+            "To extend the indemnity period"
         ],
         "correctIndex": 2
     },
     {
-        "question": "How does the 'Role of Operative Clause in policy execution' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "How is the 'Standard Turnover' adjusted for calculating losses in Consequential Loss Insurance?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Significance of Annual Turnover in claims' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "By including all turnover trends and special circumstances",
+            "By excluding any upward trends in business",
+            "By using only the turnover from the financial year preceding the damage",
+            "By excluding turnover affected by special events"
         ],
         "correctIndex": 0
     },
     {
-        "question": "How does the 'Policy exclusions and their financial impact' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "What is the key limitation of the policy condition related to claims?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Policy exclusions and their financial impact' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Departmental Clause in multi-department businesses' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Departmental Clause in multi-department businesses' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Role of Operative Clause in policy execution' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Policy exclusions and their financial impact' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How does the 'Departmental Clause in multi-department businesses' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Detailed understanding of indemnity period extension' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Claims cannot be filed for underinsured standing charges.",
+            "Claims must be filed within one year from the end of the indemnity period.",
+            "Claims require a minimum deductible of 14 days for non-petrochemical risks.",
+            "Claims exclude adjustments for gross profit trends."
         ],
         "correctIndex": 0
     },
     {
-        "question": "How does the 'Net Trading Loss and its adjustment in policy' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "Which of these factors influences the choice of indemnity period?",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How does the 'Computation of under-insurance and average conditions' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How does the 'Role of Operative Clause in policy execution' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "The amount of gross profit insured",
+            "The time needed to reinstate damaged property and resume business",
+            "The rate of gross profit during the financial year before the fire",
+            "The sum insured for material damages"
         ],
         "correctIndex": 2
     },
     {
-        "question": "How does the 'Adjustments for non-trading income in claims' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "Advanced Question 6",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Detailed understanding of indemnity period extension' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Adjustments for non-trading income in claims' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "How does the 'Computation of under-insurance and average conditions' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "How does the 'Adjustments for non-trading income in claims' influence the claims process in Consequential Loss Insurance policies?",
-        "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
         ],
         "correctIndex": 0
     },
     {
-        "question": "How does the 'Role of Operative Clause in policy execution' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "Advanced Question 7",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 8",
+        "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 9",
+        "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 11",
+        "options": [
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 12",
+        "options": [
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
         ],
         "correctIndex": 0
     },
     {
-        "question": "How does the 'Scenarios covered under Material Damage Proviso' influence the claims process in Consequential Loss Insurance policies?",
+        "question": "Advanced Question 13",
         "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Advanced Question 17",
+        "options": [
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 18",
+        "options": [
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Advanced Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Advanced Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 24",
+        "options": [
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 25",
+        "options": [
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
         ],
         "correctIndex": 3
     }
