@@ -1,252 +1,252 @@
 [
     {
-        "question": "In the calculation of Gross Profit for a Loss of Profit policy, what happens when there is a net trading loss?",
+        "question": "What is the key difference in subject matter between fire insurance and loss of profits insurance?",
         "options": [
-            "The insured receives the full amount of insured standing charges.",
-            "Gross profit is reduced by the proportion of net trading loss to all standing charges.",
-            "The policy becomes void due to the loss.",
-            "The indemnity is calculated solely on variable charges."
+            "Fire insurance covers net profits, while loss of profits insurance covers property.",
+            "Fire insurance insures material property, while loss of profits insurance insures earning capacity.",
+            "Fire insurance focuses on trading losses, while loss of profits insurance covers machinery damages.",
+            "Fire insurance excludes standing charges, while loss of profits insurance includes them."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is the 'Rate of Gross Profit' applied to determine trading losses?",
+        "options": [
+            "By dividing gross profit by turnover for the last financial year",
+            "By multiplying gross profit with annual turnover",
+            "By applying it to the reduction in turnover during the indemnity period",
+            "By subtracting standing charges from gross profit"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following is a precondition for claims under the Material Damage Proviso?",
+        "options": [
+            "A valid consequential loss policy",
+            "A claim approved under the material damage fire policy",
+            "The absence of uninsured standing charges",
+            "A minimum turnover threshold"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does Memo 2 stipulate for uninsured standing charges in claim computations?",
+        "options": [
+            "Uninsured standing charges must be deducted from turnover",
+            "Only a proportional part of additional expenditure is considered payable",
+            "Uninsured charges are fully compensated under a separate policy",
+            "The gross profit rate is adjusted to exclude uninsured standing charges"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is 'Net Trading Loss' factored into gross profit calculations when no net profit is earned?",
+        "options": [
+            "By excluding standing charges from the claim",
+            "By reducing insured standing charges proportionately",
+            "By increasing the indemnity period",
+            "By applying the rate of gross profit to the entire turnover"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the function of the 'Adjustment Clause' in claim settlements?",
+        "options": [
+            "To fix a constant rate of gross profit for all claims",
+            "To adjust turnover and gross profit figures for trends and variations",
+            "To exclude uninsured standing charges from claims",
+            "To ensure a fixed indemnity period"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Under the policy, what is the role of 'Standard Turnover'?",
+        "options": [
+            "To calculate insured standing charges",
+            "To act as a benchmark for assessing turnover reductions",
+            "To determine the sum insured for the next financial year",
+            "To exclude trends in gross profit calculations"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How are upward business trends accounted for in claim calculations?",
+        "options": [
+            "By applying a higher rate of gross profit to all future claims",
+            "By adjusting past figures to reflect potential future earnings",
+            "By excluding variable charges from turnover",
+            "By extending the indemnity period"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the implication of under-insurance in the context of claims?",
+        "options": [
+            "The claim is rejected outright",
+            "The claim amount is reduced proportionately",
+            "The insured pays an additional premium",
+            "Uninsured standing charges are excluded"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause includes revenue from alternative sales locations in turnover calculations?",
+        "options": [
+            "Material Damage Proviso",
+            "Memo 1",
+            "Departmental Clause",
+            "Adjustment Clause"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the significance of the 'Economic Limit' in claims involving additional expenditure?",
+        "options": [
+            "It sets a fixed maximum for all additional expenditures",
+            "It limits additional expenditure to the gross profit earned by it",
+            "It excludes variable charges from turnover adjustments",
+            "It ensures equal compensation for all insured items"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which policy feature determines the duration of compensation after a fire?",
+        "options": [
+            "Annual turnover",
+            "Period of insurance",
+            "Indemnity period",
+            "Rate of gross profit"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What adjustment is allowed for a business affected by a temporary closure before a fire?",
+        "options": [
+            "Turnover figures are adjusted downward for the closure period",
+            "The indemnity period is extended",
+            "Standard turnover is adjusted for variations in operations",
+            "No adjustment is allowed"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of the 'Departmental Clause'?",
+        "options": [
+            "To calculate claims separately for each department",
+            "To exclude uninsured departments from coverage",
+            "To adjust annual turnover figures",
+            "To limit liability for inter-departmental losses"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the role of the 'Adjustment Clause' in determining indemnity?",
+        "question": "What is the primary role of the 'Operative Clause' in the policy?",
         "options": [
-            "To account for trends or special circumstances in the business",
-            "To eliminate underinsurance issues",
-            "To reduce the claim amount for high gross profits",
+            "To set premium rates for different perils",
+            "To outline the conditions for claim payments",
+            "To calculate gross profit for indemnity",
+            "To adjust trends in turnover"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the term 'Gross Profit' include under the policy?",
+        "options": [
+            "Turnover plus net profit",
+            "Net profit plus insured standing charges",
+            "Turnover minus variable expenses",
+            "All income before taxes and deductions"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is the 'Rate of Gross Profit' determined for claim purposes?",
+        "options": [
+            "By using figures from the most recent financial year",
+            "By estimating future turnover trends",
+            "By applying adjustments to the current year's turnover",
+            "By calculating the average of previous three years' profits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor is crucial for selecting an indemnity period?",
+        "options": [
+            "The average annual turnover",
+            "The time needed for business restoration",
+            "The sum insured under the policy",
+            "The premium rate agreed upon"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is the insurable amount of gross profit determined?",
+        "options": [
+            "By adjusting previous financial year's gross profit for trends",
+            "By multiplying annual turnover by net profit",
+            "By excluding standing charges from the calculation",
+            "By averaging the turnover for the last three years"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of Memo 3 in the policy?",
+        "options": [
+            "To limit liability for uninsured standing charges",
+            "To adjust claims for variations in turnover",
+            "To allow a premium refund if gross profit is less than insured",
             "To extend the indemnity period"
         ],
         "correctIndex": 2
     },
     {
-        "question": "How is the 'Standard Turnover' adjusted for calculating losses in Consequential Loss Insurance?",
+        "question": "How is 'Annual Turnover' defined for claim calculations?",
         "options": [
-            "By including all turnover trends and special circumstances",
-            "By excluding any upward trends in business",
-            "By using only the turnover from the financial year preceding the damage",
-            "By excluding turnover affected by special events"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the key limitation of the policy condition related to claims?",
-        "options": [
-            "Claims cannot be filed for underinsured standing charges.",
-            "Claims must be filed within one year from the end of the indemnity period.",
-            "Claims require a minimum deductible of 14 days for non-petrochemical risks.",
-            "Claims exclude adjustments for gross profit trends."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of these factors influences the choice of indemnity period?",
-        "options": [
-            "The amount of gross profit insured",
-            "The time needed to reinstate damaged property and resume business",
-            "The rate of gross profit during the financial year before the fire",
-            "The sum insured for material damages"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
+            "The turnover for the financial year prior to the fire",
+            "The turnover for 12 months before the fire, adjusted for trends",
+            "The projected turnover for the next financial year",
+            "The total turnover over a three-year average"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Advanced Question 14",
+        "question": "What are the consequences of failing to comply with the policy's claim conditions?",
         "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
+            "The policy is automatically renewed",
+            "No claim is payable",
+            "Partial compensation is provided",
+            "The indemnity period is shortened"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Advanced Question 18",
+        "question": "Which of these is NOT typically included in gross profit calculations?",
         "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Advanced Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
+            "Net profit",
+            "Insured standing charges",
+            "Variable production costs",
+            "Adjustments for trends"
         ],
         "correctIndex": 2
     },
     {
-        "question": "Advanced Question 22",
+        "question": "Which clause ensures the policy remains valid despite changes in insured property?",
         "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
+            "Operative Clause",
+            "Adjustment Clause",
+            "Material Damage Proviso",
+            "Policy Conditions Clause"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Advanced Question 23",
+        "question": "What type of losses are explicitly excluded under the policy?",
         "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
+            "Reduction in turnover",
+            "Loss of goodwill",
+            "Increased cost of working",
+            "Insured standing charges"
         ],
         "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 3
     }
 ]

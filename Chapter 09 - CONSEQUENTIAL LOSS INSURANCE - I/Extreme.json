@@ -1,252 +1,242 @@
 [
     {
-        "question": "How is the indemnity for 'Increase in Cost of Working' calculated under Memo 2?",
+        "question": "What does the 'Adjustment Clause' specifically allow in cases of special circumstances?",
         "options": [
-            "By applying the gross profit rate to additional expenditure avoided",
-            "By proportioning additional expenditure based on insured standing charges",
-            "By deducting the uninsured standing charges from total additional costs",
-            "By comparing variable charges and gross profit trends"
+            "Fixed trends for upward and downward adjustments",
+            "Deviation from standard turnover figures based on business variations",
+            "Inclusion of uninsured standing charges",
+            "Reduction in indemnity period to reflect true losses"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What does the 'Departmental Clause' ensure in a multi-department business claim?",
+        "question": "How is 'Savings in Insured Standing Charges' factored into claim calculations?",
         "options": [
-            "That only affected departments are considered for loss calculation",
-            "That the sum insured is distributed equally among all departments",
-            "That no average is applied to unaffected departments",
-            "That gross profit from all departments is combined for simplicity"
+            "It is subtracted from the increase in cost of working",
+            "It is added to the net profit",
+            "It is excluded from gross profit calculations",
+            "It is multiplied by the indemnity period"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What role does the 'Economic Limit' play in limiting additional expenditure claims?",
+        "options": [
+            "It caps the expenditure at a fixed annual turnover percentage",
+            "It restricts claims to the gross profit earned by the additional expenditure",
+            "It excludes standing charges from additional expenditure",
+            "It adjusts net profit figures to exclude uninsured expenses"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Why might the 'Rate of Gross Profit' require adjustment under the Adjustment Clause?",
+        "question": "What does the 'Material Damage Proviso' ensure in the event of prolonged restoration delays?",
         "options": [
-            "To account for discrepancies in audited financial statements",
-            "To reflect business trends and special circumstances",
-            "To match the annual turnover to standard turnover",
-            "To eliminate underinsurance penalties"
+            "The indemnity period is extended proportionately",
+            "Compensation is delayed until restoration is complete",
+            "Material damage insurance supports timely restoration",
+            "The insured is reimbursed for all standing charges immediately"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How are uninsured standing charges apportioned in claims involving additional expenditure?",
+        "options": [
+            "By applying a fixed percentage deduction",
+            "Using the ratio of insured standing charges to total standing charges",
+            "By excluding all uninsured charges from gross profit calculations",
+            "By adding them to net trading loss"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the key distinction of 'Standard Turnover' for indemnity calculation?",
+        "question": "What adjustment does the 'Departmental Clause' require for insured and uninsured departments?",
         "options": [
-            "It is always equal to the turnover from the last audited financial year.",
-            "It includes adjusted turnover figures from the period before the damage.",
-            "It excludes any turnover from alternative premises during the indemnity period.",
-            "It is only used for calculating variable charges."
+            "Uninsured departments are excluded from all claims",
+            "Liability is proportionately reduced based on the insured sum",
+            "All departments are treated as a single unit for claims",
+            "Standard turnover figures are adjusted for all departments"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause ensures that alternative sales locations are included in turnover during the indemnity period?",
+        "options": [
+            "Adjustment Clause",
+            "Memo 1",
+            "Material Damage Clause",
+            "Premium Return Clause"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the formula for applying the rate of gross profit to savings in standing charges?",
+        "options": [
+            "Rate of gross profit \u00d7 total turnover",
+            "Savings in standing charges \u00f7 total standing charges",
+            "Gross profit \u00d7 reduction in turnover",
+            "Insured standing charges \u00d7 net trading loss proportion"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following is not covered by Consequential Loss Insurance?",
+        "question": "What does the 'Return of Premium' clause allow in terms of gross profit adjustments?",
         "options": [
-            "Loss of goodwill",
-            "Savings in insured standing charges",
+            "Full premium refunds for underperforming businesses",
+            "Partial refunds if gross profit is lower than the insured sum",
+            "Refunds only for claims exceeding a fixed threshold",
+            "Adjustments based on indemnity period extensions"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which expenses are explicitly excluded from the Consequential Loss Policy?",
+        "options": [
+            "Reduction in turnover and increase in cost of working",
+            "Preparation costs for fire and consequential loss claims",
+            "Standing charges and net profit",
+            "Expenses related to property restoration delays"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is the 'Rate of Gross Profit' adjusted for an upward trend in turnover?",
+        "options": [
+            "By applying a fixed annual adjustment rate",
+            "By using the trend-adjusted turnover figures for the previous year",
+            "By excluding variable costs from profit calculations",
+            "By increasing the indemnity period proportionately"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does Memo 2 specify about partially insured standing charges in cost of working claims?",
+        "options": [
+            "Only the proportional cost based on insured standing charges is payable",
+            "Uninsured standing charges are included at 50% of their value",
+            "All standing charges are treated as fully insured",
+            "Cost of working claims are reduced by a fixed percentage"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the implication of the 'Adjustment Clause' when turnover trends are unpredictable?",
+        "options": [
+            "Claims are calculated using average turnover figures",
+            "Standard turnover figures are adjusted for actual trends",
+            "Net profit is excluded from gross profit calculations",
+            "Indemnity periods are extended by default"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is 'Net Profit' defined under the policy in terms of tax inclusion?",
+        "options": [
+            "It includes income tax and property tax",
+            "It excludes all forms of tax",
+            "It includes property tax but excludes income tax",
+            "It includes income tax but excludes property tax"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which clause ensures adjustments for new machinery installation before a fire?",
+        "options": [
+            "Material Damage Clause",
+            "Adjustment Clause",
+            "Memo 3",
+            "Departmental Clause"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of 'Specification' in a Consequential Loss Policy?",
+        "options": [
+            "To list insured items and their sums insured",
+            "To define claim procedures for uninsured departments",
+            "To outline premium rates for fire hazards",
+            "To adjust turnover figures for indemnity purposes"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the result if the indemnity period ends but the business remains affected?",
+        "options": [
+            "The claim is extended by default",
+            "A new policy is required to cover remaining losses",
+            "Only partial compensation is provided for the extended period",
+            "No claim is payable beyond the indemnity period"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How does the policy handle savings from insured standing charges during the indemnity period?",
+        "options": [
+            "They are added to net profit",
+            "They are deducted from the claim amount",
+            "They are excluded from all calculations",
+            "They are used to adjust the annual turnover"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which factor is crucial when determining the sum insured for a 24-month indemnity period?",
+        "options": [
+            "Projected annual turnover",
+            "Twice the annual gross profit",
+            "Net profit from the previous year",
+            "Total standing charges for the next two years"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the effect of under-insurance on claims for reduction in turnover?",
+        "options": [
+            "The entire claim is voided",
+            "The claim is proportionately reduced",
+            "Only standing charges are compensated",
+            "Additional premiums are imposed"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'Material Damage Proviso' require in addition to a valid fire policy?",
+        "options": [
+            "Timely restoration of damaged property",
+            "Inclusion of uninsured standing charges",
+            "A minimum annual turnover threshold",
+            "Proportional reduction in claim amounts"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following is a limitation set by the 'Economic Limit'?",
+        "options": [
+            "Total claims must not exceed twice the gross profit",
+            "Additional expenditures cannot exceed the gross profit earned by them",
+            "Standing charges are capped at a fixed percentage",
+            "Turnover reductions are limited to the indemnity period"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What role does Memo 1 play in turnover calculations?",
+        "options": [
+            "Excludes alternative sales locations from turnover",
+            "Includes revenue from sales outside the insured premises",
+            "Adjusts turnover for uninsured standing charges",
+            "Limits turnover to net profit contributions"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which expense is explicitly NOT payable under the Consequential Loss Policy?",
+        "options": [
+            "Loss of market",
+            "Increase in cost of working",
             "Reduction in turnover",
-            "Increased cost of working"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
+            "Insured standing charges"
         ],
         "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Expert-Level Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Expert-Level Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 1
     }
 ]
