@@ -1,252 +1,252 @@
 [
     {
-        "question": "What is the primary purpose of Consequential Loss Insurance?",
+        "question": "What is the main purpose of a Consequential Loss Insurance policy?",
         "options": [
-            "To cover material damages to property",
-            "To compensate for trading losses due to business interruption",
-            "To provide life insurance coverage",
-            "To cover third-party claims"
+            "To cover material damages to buildings and machinery.",
+            "To provide indemnity for trading losses from business stoppage.",
+            "To insure vehicles and equipment.",
+            "To replace damaged goods after a fire."
         ],
-        "correctIndex": 0
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following is not a component of Turnover in a business?",
+        "question": "Which of the following is NOT a component of trading losses?",
         "options": [
-            "Variable Charges",
-            "Standing Charges",
-            "Net Profit",
-            "Third-Party Claims"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the 'Indemnity Period' in Consequential Loss Insurance?",
-        "options": [
-            "The time during which the business policy is active",
-            "The time during which business results are affected after damage",
-            "The time required to claim insurance",
-            "The duration of a financial year"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which type of expense continues despite business stoppage?",
-        "options": [
-            "Variable charges",
-            "Standing charges",
             "Net profit",
-            "Turnover"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the basis of Loss of Profit Insurance?",
-        "options": [
-            "Reduction in Net Profit",
-            "Reduction in Turnover",
-            "Reduction in Standing Charges",
-            "Reduction in Production Costs"
+            "Standing charges",
+            "Increased cost of working",
+            "Material damages"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Sample Question 6",
+        "question": "What is considered as 'Turnover' in a Loss of Profit Policy?",
         "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
+            "Total profit of the business",
+            "Money from sales and services rendered",
+            "Fixed assets of the business",
+            "Insurance premiums collected"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
     },
     {
-        "question": "Sample Question 7",
+        "question": "Which of the following constitutes standing charges?",
         "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
+            "Variable production costs",
+            "Taxes and salaries",
+            "Raw material purchases",
+            "Sales commission fees"
         ],
-        "correctIndex": 3
+        "correctIndex": 1
     },
     {
-        "question": "Sample Question 8",
+        "question": "How is 'Rate of Gross Profit' calculated?",
         "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
+            "Gross profit divided by turnover, expressed as a percentage",
+            "Turnover divided by production costs",
+            "Net profit minus variable charges",
+            "Standing charges divided by gross profit"
         ],
         "correctIndex": 0
     },
     {
-        "question": "Sample Question 9",
+        "question": "What is the maximum indemnity period usually offered in Consequential Loss Insurance?",
         "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Sample Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Sample Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Sample Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Sample Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Sample Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Sample Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Sample Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Sample Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
+            "3 months",
+            "12 months",
+            "3 years",
+            "5 years"
         ],
         "correctIndex": 2
     },
     {
-        "question": "Sample Question 18",
+        "question": "Which of the following is used to calculate the sum insured?",
         "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Sample Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Sample Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Sample Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
+            "Projected gross profit",
+            "Total sales in the last month",
+            "Amount spent on materials",
+            "Fixed costs only"
         ],
         "correctIndex": 0
     },
     {
-        "question": "Sample Question 22",
+        "question": "What does the 'Operative Clause' in the policy specify?",
         "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
+            "The method for calculating gross profit",
+            "Conditions under which the insurance company will pay",
+            "Guidelines for filing a claim",
+            "Premium rates for the policy"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Sample Question 23",
+        "question": "What must the insured maintain for the policy to remain valid?",
         "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
+            "A valid fire policy",
+            "Detailed employee records",
+            "Annual equipment audits",
+            "Updated tax returns"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
     },
     {
-        "question": "Sample Question 24",
+        "question": "What is defined as 'Net Profit'?",
         "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
+            "Gross income minus production costs",
+            "Income after all expenses and taxes",
+            "Revenue from sales before deductions",
+            "Amount allocated for standing charges"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Sample Question 25",
+        "question": "What are 'insured standing charges'?",
         "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
+            "Charges specified in the policy proposal",
+            "All overhead costs of the business",
+            "Uninsured liabilities",
+            "Depreciation costs"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What term refers to the period during which business results are affected after a fire?",
+        "options": [
+            "Annual turnover",
+            "Indemnity period",
+            "Gross profit period",
+            "Claim processing period"
         ],
         "correctIndex": 1
+    },
+    {
+        "question": "Which clause allows adjustments for trends in business during claim calculations?",
+        "options": [
+            "Material Damage Clause",
+            "Adjustment Clause",
+            "Operative Clause",
+            "Standing Charges Clause"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 'standard turnover'?",
+        "options": [
+            "Turnover during the indemnity period",
+            "Turnover before the indemnity period adjusted for trends",
+            "Turnover after claim settlement",
+            "Average turnover over five years"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following is NOT covered under Consequential Loss Insurance?",
+        "options": [
+            "Loss of goodwill",
+            "Reduction in turnover",
+            "Increase in working costs",
+            "Standing charges"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the 'Departmental Clause' used for?",
+        "options": [
+            "Specifying individual claims for different departments",
+            "Determining premium rates",
+            "Excluding non-essential business costs",
+            "Adjusting net profit calculations"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What happens if there is under-insurance in the policy?",
+        "options": [
+            "The entire claim is rejected",
+            "The claim amount is proportionately reduced",
+            "The policy becomes void",
+            "Only standing charges are paid"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which document provides proof of trading results for a claim?",
+        "options": [
+            "Business books and vouchers",
+            "Fire department reports",
+            "Insurance application form",
+            "Material damage policy"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How is 'increase in cost of working' defined?",
+        "options": [
+            "Any fixed cost incurred after a fire",
+            "Abnormal expenses to maintain business continuity",
+            "Additional investments in stock",
+            "Premium payments to insurance companies"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause specifies that goods sold elsewhere must be included in turnover?",
+        "options": [
+            "Memo 1",
+            "Adjustment Clause",
+            "Material Damage Clause",
+            "Premium Return Clause"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does Memo 2 address?",
+        "options": [
+            "Adjustments for uninsured standing charges",
+            "Declaration of gross profit trends",
+            "Computation of claim processing time",
+            "Exclusion of non-trading losses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of a 'Material Damage' proviso?",
+        "options": [
+            "Ensures a valid fire policy is maintained",
+            "Excludes all standing charges",
+            "Automatically increases the indemnity period",
+            "Limits compensation for trading losses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is an 'Illustrative Example' used for in claim computation?",
+        "options": [
+            "Defining policy exclusions",
+            "Explaining the adjustment clause",
+            "Calculating exact premium amounts",
+            "Understanding departmental results"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What happens if claims are not made within the policy's time limits?",
+        "options": [
+            "They are rejected",
+            "They are processed with penalties",
+            "They require special approval",
+            "They are carried forward to the next policy period"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which expenses are generally covered under 'Standing Charges'?",
+        "options": [
+            "Advertising costs",
+            "Employee wages",
+            "Office maintenance fees",
+            "All of the above"
+        ],
+        "correctIndex": 3
     }
 ]
