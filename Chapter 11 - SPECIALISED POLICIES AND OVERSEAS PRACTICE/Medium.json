@@ -1,251 +1,251 @@
 [
     {
-        "question": "Which of the following best describes the application of 'Flammable material classification' in specialized insurance practices?",
+        "question": "What are the eligibility criteria for Industrial All Risk (IAR) Policy?",
         "options": [
-            "A precise explanation of flammable material classification with a practical application.",
-            "An incomplete interpretation of flammable material classification.",
-            "A vague explanation of flammable material classification unrelated to specialized insurance practices.",
-            "A misleading concept regarding flammable material classification."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Clauses under Industrial All Risk Policy' in specialized insurance practices?",
-        "options": [
-            "A precise explanation of clauses under industrial all risk policy with a practical application.",
-            "A misleading concept regarding clauses under industrial all risk policy.",
-            "A vague explanation of clauses under industrial all risk policy unrelated to specialized insurance practices.",
-            "An incomplete interpretation of clauses under industrial all risk policy."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Silent risks and their conditions' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of silent risks and their conditions unrelated to specialized insurance practices.",
-            "A precise explanation of silent risks and their conditions with a practical application.",
-            "A misleading concept regarding silent risks and their conditions.",
-            "An incomplete interpretation of silent risks and their conditions."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Rating and excess clauses in Petrochemical Tariff' in specialized insurance practices?",
-        "options": [
-            "A misleading concept regarding rating and excess clauses in petrochemical tariff.",
-            "An incomplete interpretation of rating and excess clauses in petrochemical tariff.",
-            "A precise explanation of rating and excess clauses in petrochemical tariff with a practical application.",
-            "A vague explanation of rating and excess clauses in petrochemical tariff unrelated to specialized insurance practices."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Perils covered under ISO Business Personal Property policy' in specialized insurance practices?",
-        "options": [
-            "A precise explanation of perils covered under iso business personal property policy with a practical application.",
-            "A vague explanation of perils covered under iso business personal property policy unrelated to specialized insurance practices.",
-            "A misleading concept regarding perils covered under iso business personal property policy.",
-            "An incomplete interpretation of perils covered under iso business personal property policy."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Role and significance of the General Insurance Council in India' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of role and significance of the general insurance council in india unrelated to specialized insurance practices.",
-            "A precise explanation of role and significance of the general insurance council in india with a practical application.",
-            "An incomplete interpretation of role and significance of the general insurance council in india.",
-            "A misleading concept regarding role and significance of the general insurance council in india."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Industrial All Risk Policy features' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of industrial all risk policy features unrelated to specialized insurance practices.",
-            "A precise explanation of industrial all risk policy features with a practical application.",
-            "A misleading concept regarding industrial all risk policy features.",
-            "An incomplete interpretation of industrial all risk policy features."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Special forms for perils in the USA' in specialized insurance practices?",
-        "options": [
-            "An incomplete interpretation of special forms for perils in the usa.",
-            "A vague explanation of special forms for perils in the usa unrelated to specialized insurance practices.",
-            "A misleading concept regarding special forms for perils in the usa.",
-            "A precise explanation of special forms for perils in the usa with a practical application."
+            "Sum insured above INR 100 crores for one or more locations",
+            "Only petrochemical risks with sum insured above INR 50 crores",
+            "Properties with historical value only",
+            "Commercial buildings with sum insured below INR 10 crores"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Compulsory deductibles for Industrial All Risk Policy' in specialized insurance practices?",
+        "question": "Under Petrochemical Tariff, what is the flash point range for Class B products?",
         "options": [
-            "A vague explanation of compulsory deductibles for industrial all risk policy unrelated to specialized insurance practices.",
-            "A precise explanation of compulsory deductibles for industrial all risk policy with a practical application.",
-            "An incomplete interpretation of compulsory deductibles for industrial all risk policy.",
-            "A misleading concept regarding compulsory deductibles for industrial all risk policy."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Key features of insurance pool for nuclear reactors' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of key features of insurance pool for nuclear reactors unrelated to specialized insurance practices.",
-            "A precise explanation of key features of insurance pool for nuclear reactors with a practical application.",
-            "An incomplete interpretation of key features of insurance pool for nuclear reactors.",
-            "A misleading concept regarding key features of insurance pool for nuclear reactors."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Need for specialised policies in high-risk industries' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of need for specialised policies in high-risk industries unrelated to specialized insurance practices.",
-            "An incomplete interpretation of need for specialised policies in high-risk industries.",
-            "A misleading concept regarding need for specialised policies in high-risk industries.",
-            "A precise explanation of need for specialised policies in high-risk industries with a practical application."
+            "Below 23\u00b0C",
+            "Above 23\u00b0C and up to 65\u00b0C",
+            "Above 65\u00b0C and up to 93\u00b0C",
+            "Above 93\u00b0C"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Recent contributions of the General Insurance Council' in specialized insurance practices?",
+        "question": "What does the 'Silent Risk' clause under Petrochemical Tariff require?",
         "options": [
-            "A vague explanation of recent contributions of the general insurance council unrelated to specialized insurance practices.",
-            "A misleading concept regarding recent contributions of the general insurance council.",
-            "A precise explanation of recent contributions of the general insurance council with a practical application.",
-            "An incomplete interpretation of recent contributions of the general insurance council."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Fixation of sum insured in the UK' in specialized insurance practices?",
-        "options": [
-            "A misleading concept regarding fixation of sum insured in the uk.",
-            "A vague explanation of fixation of sum insured in the uk unrelated to specialized insurance practices.",
-            "A precise explanation of fixation of sum insured in the uk with a practical application.",
-            "An incomplete interpretation of fixation of sum insured in the uk."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Rating factors for Industrial All Risk Policy' in specialized insurance practices?",
-        "options": [
-            "An incomplete interpretation of rating factors for industrial all risk policy.",
-            "A precise explanation of rating factors for industrial all risk policy with a practical application.",
-            "A vague explanation of rating factors for industrial all risk policy unrelated to specialized insurance practices.",
-            "A misleading concept regarding rating factors for industrial all risk policy."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Excluded properties under Industrial All Risk Policy' in specialized insurance practices?",
-        "options": [
-            "A misleading concept regarding excluded properties under industrial all risk policy.",
-            "A precise explanation of excluded properties under industrial all risk policy with a practical application.",
-            "An incomplete interpretation of excluded properties under industrial all risk policy.",
-            "A vague explanation of excluded properties under industrial all risk policy unrelated to specialized insurance practices."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Key perils covered under UK fire insurance' in specialized insurance practices?",
-        "options": [
-            "A precise explanation of key perils covered under uk fire insurance with a practical application.",
-            "A vague explanation of key perils covered under uk fire insurance unrelated to specialized insurance practices.",
-            "An incomplete interpretation of key perils covered under uk fire insurance.",
-            "A misleading concept regarding key perils covered under uk fire insurance."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Overview of fire insurance practices in the USA' in specialized insurance practices?",
-        "options": [
-            "An incomplete interpretation of overview of fire insurance practices in the usa.",
-            "A precise explanation of overview of fire insurance practices in the usa with a practical application.",
-            "A misleading concept regarding overview of fire insurance practices in the usa.",
-            "A vague explanation of overview of fire insurance practices in the usa unrelated to specialized insurance practices."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Features of Petrochemical Tariff' in specialized insurance practices?",
-        "options": [
-            "A vague explanation of features of petrochemical tariff unrelated to specialized insurance practices.",
-            "An incomplete interpretation of features of petrochemical tariff.",
-            "A precise explanation of features of petrochemical tariff with a practical application.",
-            "A misleading concept regarding features of petrochemical tariff."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Key components of Petrochemical Tariff' in specialized insurance practices?",
-        "options": [
-            "A precise explanation of key components of petrochemical tariff with a practical application.",
-            "A misleading concept regarding key components of petrochemical tariff.",
-            "A vague explanation of key components of petrochemical tariff unrelated to specialized insurance practices.",
-            "An incomplete interpretation of key components of petrochemical tariff."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Risks covered under Petrochemical Tariff' in specialized insurance practices?",
-        "options": [
-            "An incomplete interpretation of risks covered under petrochemical tariff.",
-            "A vague explanation of risks covered under petrochemical tariff unrelated to specialized insurance practices.",
-            "A precise explanation of risks covered under petrochemical tariff with a practical application.",
-            "A misleading concept regarding risks covered under petrochemical tariff."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Insurance pool for nuclear disasters in India' in specialized insurance practices?",
-        "options": [
-            "A misleading concept regarding insurance pool for nuclear disasters in india.",
-            "An incomplete interpretation of insurance pool for nuclear disasters in india.",
-            "A vague explanation of insurance pool for nuclear disasters in india unrelated to specialized insurance practices.",
-            "A precise explanation of insurance pool for nuclear disasters in india with a practical application."
+            "That hydrocarbon materials are stored safely during the silent period",
+            "The removal and purging of all flammable materials",
+            "A continuous silent period of 30 days",
+            "An increased premium for idle facilities"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Perils covered under Industrial All Risk Policy' in specialized insurance practices?",
+        "question": "What is the purpose of the Mutual Aid Scheme in the Petrochemical Tariff?",
         "options": [
-            "A vague explanation of perils covered under industrial all risk policy unrelated to specialized insurance practices.",
-            "A precise explanation of perils covered under industrial all risk policy with a practical application.",
-            "A misleading concept regarding perils covered under industrial all risk policy.",
-            "An incomplete interpretation of perils covered under industrial all risk policy."
+            "To provide discounted premiums for large plants",
+            "To ensure that member plants assist each other during emergencies",
+            "To underwrite higher sums insured collectively",
+            "To standardize fire-fighting equipment across the industry"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Combined and package policies in UK insurance' in specialized insurance practices?",
+        "question": "In the IAR policy, which of the following is a compulsory deductible for Business Interruption in Petrochemical Risks?",
         "options": [
-            "A precise explanation of combined and package policies in uk insurance with a practical application.",
-            "A misleading concept regarding combined and package policies in uk insurance.",
-            "An incomplete interpretation of combined and package policies in uk insurance.",
-            "A vague explanation of combined and package policies in uk insurance unrelated to specialized insurance practices."
+            "5% of the claim amount with no minimum",
+            "7 days of Standard Gross Profit",
+            "14 days of Standard Gross Profit",
+            "21 days of Standard Gross Profit"
         ],
-        "correctIndex": 0
+        "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Overview of fire insurance practices in the UK' in specialized insurance practices?",
+        "question": "Intermediate Question 6",
         "options": [
-            "An incomplete interpretation of overview of fire insurance practices in the uk.",
-            "A vague explanation of overview of fire insurance practices in the uk unrelated to specialized insurance practices.",
-            "A precise explanation of overview of fire insurance practices in the uk with a practical application.",
-            "A misleading concept regarding overview of fire insurance practices in the uk."
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 7",
+        "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
         ],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following best describes the application of 'Minimum requirements for granting cover under Petrochemical Tariff' in specialized insurance practices?",
+        "question": "Intermediate Question 8",
         "options": [
-            "An incomplete interpretation of minimum requirements for granting cover under petrochemical tariff.",
-            "A precise explanation of minimum requirements for granting cover under petrochemical tariff with a practical application.",
-            "A vague explanation of minimum requirements for granting cover under petrochemical tariff unrelated to specialized insurance practices.",
-            "A misleading concept regarding minimum requirements for granting cover under petrochemical tariff."
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 9",
+        "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Intermediate Question 11",
+        "options": [
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 12",
+        "options": [
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 13",
+        "options": [
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 17",
+        "options": [
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 18",
+        "options": [
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 24",
+        "options": [
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 25",
+        "options": [
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
         ],
         "correctIndex": 1
     }

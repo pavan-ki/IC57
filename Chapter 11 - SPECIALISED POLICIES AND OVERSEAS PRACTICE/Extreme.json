@@ -1,252 +1,252 @@
 [
     {
-        "question": "In specialized insurance scenarios, how is 'Overview of fire insurance practices in the USA' applied to address advanced challenges and unique risks?",
+        "question": "Under Petrochemical Tariff, what is the flashpoint classification for Class D materials?",
         "options": [
-            "A comprehensive and intricate explanation of overview of fire insurance practices in the usa in exceptional scenarios.",
-            "A basic interpretation of overview of fire insurance practices in the usa unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of overview of fire insurance practices in the usa.",
-            "A misleading perspective on overview of fire insurance practices in the usa for complex evaluations."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Features of Petrochemical Tariff' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A misleading perspective on features of petrochemical tariff for complex evaluations.",
-            "A comprehensive and intricate explanation of features of petrochemical tariff in exceptional scenarios.",
-            "A basic interpretation of features of petrochemical tariff unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of features of petrochemical tariff."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Need for specialised policies in high-risk industries' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A misleading perspective on need for specialised policies in high-risk industries for complex evaluations.",
-            "A basic interpretation of need for specialised policies in high-risk industries unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of need for specialised policies in high-risk industries.",
-            "A comprehensive and intricate explanation of need for specialised policies in high-risk industries in exceptional scenarios."
+            "Below and up to 23\u00b0C",
+            "Above 23\u00b0C and up to 65\u00b0C",
+            "Above 65\u00b0C and up to 93\u00b0C",
+            "Above 93\u00b0C"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Industrial All Risk Policy features' applied to address advanced challenges and unique risks?",
+        "question": "How does the Mutual Aid Scheme ensure interchangeability of equipment among members?",
         "options": [
-            "A comprehensive and intricate explanation of industrial all risk policy features in exceptional scenarios.",
-            "A basic interpretation of industrial all risk policy features unrelated to advanced scenarios.",
-            "A misleading perspective on industrial all risk policy features for complex evaluations.",
-            "A partially relevant but incomplete explanation of industrial all risk policy features."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Recent contributions of the General Insurance Council' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of recent contributions of the general insurance council in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of recent contributions of the general insurance council.",
-            "A misleading perspective on recent contributions of the general insurance council for complex evaluations.",
-            "A basic interpretation of recent contributions of the general insurance council unrelated to advanced scenarios."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Role and significance of the General Insurance Council in India' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A partially relevant but incomplete explanation of role and significance of the general insurance council in india.",
-            "A misleading perspective on role and significance of the general insurance council in india for complex evaluations.",
-            "A basic interpretation of role and significance of the general insurance council in india unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of role and significance of the general insurance council in india in exceptional scenarios."
+            "Through standardized equipment specifications",
+            "By requiring members to maintain adapter pieces",
+            "By pooling all resources in a central repository",
+            "By exchanging unused equipment quarterly"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Risks covered under Petrochemical Tariff' applied to address advanced challenges and unique risks?",
+        "question": "What is a unique condition for granting 'Silent Risk' coverage under Petrochemical Tariff?",
         "options": [
-            "A misleading perspective on risks covered under petrochemical tariff for complex evaluations.",
-            "A comprehensive and intricate explanation of risks covered under petrochemical tariff in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of risks covered under petrochemical tariff.",
-            "A basic interpretation of risks covered under petrochemical tariff unrelated to advanced scenarios."
+            "A silent period of no less than 30 days",
+            "Hydrocarbons must remain stored securely during the silent period",
+            "Purging all flammable materials before and during the silent period",
+            "A mandatory doubling of the premium during inactivity"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Omission to Insure Additions' clause under IAR policy provide for?",
+        "options": [
+            "Automatic coverage for new additions up to a specific limit",
+            "Exclusion of any new additions to the insured premises",
+            "Revised premium for omitted items during claim settlement",
+            "No coverage for items installed after the policy issuance"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How are claims assessed under the IAR policy for properties covered on Reinstatement Value Basis?",
+        "options": [
+            "Market value minus depreciation",
+            "Replacement cost without depreciation",
+            "Flat rate based on policy sum insured",
+            "Depreciated value adjusted for inflation"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Key perils covered under UK fire insurance' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 6",
         "options": [
-            "A basic interpretation of key perils covered under uk fire insurance unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of key perils covered under uk fire insurance.",
-            "A misleading perspective on key perils covered under uk fire insurance for complex evaluations.",
-            "A comprehensive and intricate explanation of key perils covered under uk fire insurance in exceptional scenarios."
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 7",
+        "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 8",
+        "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 9",
+        "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Rating and excess clauses in Petrochemical Tariff' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 11",
         "options": [
-            "A misleading perspective on rating and excess clauses in petrochemical tariff for complex evaluations.",
-            "A partially relevant but incomplete explanation of rating and excess clauses in petrochemical tariff.",
-            "A basic interpretation of rating and excess clauses in petrochemical tariff unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of rating and excess clauses in petrochemical tariff in exceptional scenarios."
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 12",
+        "options": [
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Key components of Petrochemical Tariff' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 13",
         "options": [
-            "A misleading perspective on key components of petrochemical tariff for complex evaluations.",
-            "A partially relevant but incomplete explanation of key components of petrochemical tariff.",
-            "A basic interpretation of key components of petrochemical tariff unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of key components of petrochemical tariff in exceptional scenarios."
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Expert-Level Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Expert-Level Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Perils covered under ISO Business Personal Property policy' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 17",
         "options": [
-            "A partially relevant but incomplete explanation of perils covered under iso business personal property policy.",
-            "A basic interpretation of perils covered under iso business personal property policy unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of perils covered under iso business personal property policy in exceptional scenarios.",
-            "A misleading perspective on perils covered under iso business personal property policy for complex evaluations."
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Perils covered under Industrial All Risk Policy' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 18",
         "options": [
-            "A misleading perspective on perils covered under industrial all risk policy for complex evaluations.",
-            "A comprehensive and intricate explanation of perils covered under industrial all risk policy in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of perils covered under industrial all risk policy.",
-            "A basic interpretation of perils covered under industrial all risk policy unrelated to advanced scenarios."
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Compulsory deductibles for Industrial All Risk Policy' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 19",
         "options": [
-            "A basic interpretation of compulsory deductibles for industrial all risk policy unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of compulsory deductibles for industrial all risk policy in exceptional scenarios.",
-            "A misleading perspective on compulsory deductibles for industrial all risk policy for complex evaluations.",
-            "A partially relevant but incomplete explanation of compulsory deductibles for industrial all risk policy."
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Expert-Level Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Expert-Level Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Minimum requirements for granting cover under Petrochemical Tariff' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 23",
         "options": [
-            "A comprehensive and intricate explanation of minimum requirements for granting cover under petrochemical tariff in exceptional scenarios.",
-            "A misleading perspective on minimum requirements for granting cover under petrochemical tariff for complex evaluations.",
-            "A basic interpretation of minimum requirements for granting cover under petrochemical tariff unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of minimum requirements for granting cover under petrochemical tariff."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Excluded properties under Industrial All Risk Policy' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of excluded properties under industrial all risk policy in exceptional scenarios.",
-            "A misleading perspective on excluded properties under industrial all risk policy for complex evaluations.",
-            "A partially relevant but incomplete explanation of excluded properties under industrial all risk policy.",
-            "A basic interpretation of excluded properties under industrial all risk policy unrelated to advanced scenarios."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Special forms for perils in the USA' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A partially relevant but incomplete explanation of special forms for perils in the usa.",
-            "A comprehensive and intricate explanation of special forms for perils in the usa in exceptional scenarios.",
-            "A basic interpretation of special forms for perils in the usa unrelated to advanced scenarios.",
-            "A misleading perspective on special forms for perils in the usa for complex evaluations."
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Clauses under Industrial All Risk Policy' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 24",
         "options": [
-            "A misleading perspective on clauses under industrial all risk policy for complex evaluations.",
-            "A comprehensive and intricate explanation of clauses under industrial all risk policy in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of clauses under industrial all risk policy.",
-            "A basic interpretation of clauses under industrial all risk policy unrelated to advanced scenarios."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Fixation of sum insured in the UK' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of fixation of sum insured in the uk in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of fixation of sum insured in the uk.",
-            "A misleading perspective on fixation of sum insured in the uk for complex evaluations.",
-            "A basic interpretation of fixation of sum insured in the uk unrelated to advanced scenarios."
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In specialized insurance scenarios, how is 'Overview of fire insurance practices in the UK' applied to address advanced challenges and unique risks?",
+        "question": "Expert-Level Question 25",
         "options": [
-            "A misleading perspective on overview of fire insurance practices in the uk for complex evaluations.",
-            "A partially relevant but incomplete explanation of overview of fire insurance practices in the uk.",
-            "A comprehensive and intricate explanation of overview of fire insurance practices in the uk in exceptional scenarios.",
-            "A basic interpretation of overview of fire insurance practices in the uk unrelated to advanced scenarios."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Silent risks and their conditions' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of silent risks and their conditions in exceptional scenarios.",
-            "A basic interpretation of silent risks and their conditions unrelated to advanced scenarios.",
-            "A partially relevant but incomplete explanation of silent risks and their conditions.",
-            "A misleading perspective on silent risks and their conditions for complex evaluations."
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
         ],
         "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Flammable material classification' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of flammable material classification in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of flammable material classification.",
-            "A misleading perspective on flammable material classification for complex evaluations.",
-            "A basic interpretation of flammable material classification unrelated to advanced scenarios."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Combined and package policies in UK insurance' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A basic interpretation of combined and package policies in uk insurance unrelated to advanced scenarios.",
-            "A misleading perspective on combined and package policies in uk insurance for complex evaluations.",
-            "A comprehensive and intricate explanation of combined and package policies in uk insurance in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of combined and package policies in uk insurance."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Insurance pool for nuclear disasters in India' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A misleading perspective on insurance pool for nuclear disasters in india for complex evaluations.",
-            "A basic interpretation of insurance pool for nuclear disasters in india unrelated to advanced scenarios.",
-            "A comprehensive and intricate explanation of insurance pool for nuclear disasters in india in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of insurance pool for nuclear disasters in india."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Key features of insurance pool for nuclear reactors' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A comprehensive and intricate explanation of key features of insurance pool for nuclear reactors in exceptional scenarios.",
-            "A partially relevant but incomplete explanation of key features of insurance pool for nuclear reactors.",
-            "A basic interpretation of key features of insurance pool for nuclear reactors unrelated to advanced scenarios.",
-            "A misleading perspective on key features of insurance pool for nuclear reactors for complex evaluations."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In specialized insurance scenarios, how is 'Rating factors for Industrial All Risk Policy' applied to address advanced challenges and unique risks?",
-        "options": [
-            "A misleading perspective on rating factors for industrial all risk policy for complex evaluations.",
-            "A partially relevant but incomplete explanation of rating factors for industrial all risk policy.",
-            "A comprehensive and intricate explanation of rating factors for industrial all risk policy in exceptional scenarios.",
-            "A basic interpretation of rating factors for industrial all risk policy unrelated to advanced scenarios."
-        ],
-        "correctIndex": 2
     }
 ]

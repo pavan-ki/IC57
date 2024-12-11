@@ -1,252 +1,252 @@
 [
     {
-        "question": "In the context of specialized insurance, how does 'Key features of insurance pool for nuclear reactors' specifically contribute to complex evaluations?",
+        "question": "What is the minimum water supply duration required for fire hydrant service in a Petrochemical plant?",
         "options": [
-            "A general description of key features of insurance pool for nuclear reactors lacking detail.",
-            "A partially correct explanation of key features of insurance pool for nuclear reactors missing key nuances.",
-            "A detailed explanation of key features of insurance pool for nuclear reactors in specialized scenarios.",
-            "An inaccurate interpretation of key features of insurance pool for nuclear reactors in advanced cases."
+            "One hour",
+            "Two hours",
+            "Four hours",
+            "Six hours"
         ],
         "correctIndex": 2
     },
     {
-        "question": "In the context of specialized insurance, how does 'Compulsory deductibles for Industrial All Risk Policy' specifically contribute to complex evaluations?",
+        "question": "Under Petrochemical Tariff, what defines a 'Proven Process'?",
         "options": [
-            "A general description of compulsory deductibles for industrial all risk policy lacking detail.",
-            "A detailed explanation of compulsory deductibles for industrial all risk policy in specialized scenarios.",
-            "A partially correct explanation of compulsory deductibles for industrial all risk policy missing key nuances.",
-            "An inaccurate interpretation of compulsory deductibles for industrial all risk policy in advanced cases."
+            "A process operational for more than two years",
+            "A process commercially successful at least once worldwide",
+            "A process that complies with ISO standards",
+            "A process tested in laboratory settings"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the primary factor in determining the Basic Rate for Petrochemical Plants?",
+        "options": [
+            "Material of construction only",
+            "Quantity of flammable materials handled",
+            "Discounts available for superior features",
+            "Standard sum insured across all plants"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "In an Industrial All Risk policy, what is the consequence of underinsurance exceeding 15%?",
+        "options": [
+            "Immediate cancellation of the policy",
+            "Application of average condition to claims",
+            "No claims are payable under any circumstances",
+            "Increase in premium rates for the next term"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the maximum loading allowed for Fire and Explosion rates in Petrochemical Plants?",
+        "options": [
+            "125% of the Basic Rate",
+            "150% of the Basic Rate",
+            "165% of the Basic Rate",
+            "200% of the Basic Rate"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of specialized insurance, how does 'Minimum requirements for granting cover under Petrochemical Tariff' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 6",
         "options": [
-            "A detailed explanation of minimum requirements for granting cover under petrochemical tariff in specialized scenarios.",
-            "A partially correct explanation of minimum requirements for granting cover under petrochemical tariff missing key nuances.",
-            "An inaccurate interpretation of minimum requirements for granting cover under petrochemical tariff in advanced cases.",
-            "A general description of minimum requirements for granting cover under petrochemical tariff lacking detail."
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 7",
+        "options": [
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 8",
+        "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 9",
+        "options": [
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 11",
+        "options": [
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 12",
+        "options": [
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of specialized insurance, how does 'Overview of fire insurance practices in the UK' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 13",
         "options": [
-            "A detailed explanation of overview of fire insurance practices in the uk in specialized scenarios.",
-            "An inaccurate interpretation of overview of fire insurance practices in the uk in advanced cases.",
-            "A partially correct explanation of overview of fire insurance practices in the uk missing key nuances.",
-            "A general description of overview of fire insurance practices in the uk lacking detail."
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Advanced Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 17",
+        "options": [
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of specialized insurance, how does 'Overview of fire insurance practices in the USA' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 18",
         "options": [
-            "A general description of overview of fire insurance practices in the usa lacking detail.",
-            "A detailed explanation of overview of fire insurance practices in the usa in specialized scenarios.",
-            "An inaccurate interpretation of overview of fire insurance practices in the usa in advanced cases.",
-            "A partially correct explanation of overview of fire insurance practices in the usa missing key nuances."
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Advanced Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of specialized insurance, how does 'Silent risks and their conditions' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 20",
         "options": [
-            "A partially correct explanation of silent risks and their conditions missing key nuances.",
-            "A general description of silent risks and their conditions lacking detail.",
-            "A detailed explanation of silent risks and their conditions in specialized scenarios.",
-            "An inaccurate interpretation of silent risks and their conditions in advanced cases."
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Advanced Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
         ],
         "correctIndex": 2
     },
     {
-        "question": "In the context of specialized insurance, how does 'Fixation of sum insured in the UK' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 24",
         "options": [
-            "A partially correct explanation of fixation of sum insured in the uk missing key nuances.",
-            "A general description of fixation of sum insured in the uk lacking detail.",
-            "An inaccurate interpretation of fixation of sum insured in the uk in advanced cases.",
-            "A detailed explanation of fixation of sum insured in the uk in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Key components of Petrochemical Tariff' specifically contribute to complex evaluations?",
-        "options": [
-            "A partially correct explanation of key components of petrochemical tariff missing key nuances.",
-            "A general description of key components of petrochemical tariff lacking detail.",
-            "An inaccurate interpretation of key components of petrochemical tariff in advanced cases.",
-            "A detailed explanation of key components of petrochemical tariff in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Special forms for perils in the USA' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of special forms for perils in the usa in advanced cases.",
-            "A general description of special forms for perils in the usa lacking detail.",
-            "A partially correct explanation of special forms for perils in the usa missing key nuances.",
-            "A detailed explanation of special forms for perils in the usa in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Features of Petrochemical Tariff' specifically contribute to complex evaluations?",
-        "options": [
-            "A detailed explanation of features of petrochemical tariff in specialized scenarios.",
-            "An inaccurate interpretation of features of petrochemical tariff in advanced cases.",
-            "A general description of features of petrochemical tariff lacking detail.",
-            "A partially correct explanation of features of petrochemical tariff missing key nuances."
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of specialized insurance, how does 'Combined and package policies in UK insurance' specifically contribute to complex evaluations?",
+        "question": "Advanced Question 25",
         "options": [
-            "An inaccurate interpretation of combined and package policies in uk insurance in advanced cases.",
-            "A general description of combined and package policies in uk insurance lacking detail.",
-            "A detailed explanation of combined and package policies in uk insurance in specialized scenarios.",
-            "A partially correct explanation of combined and package policies in uk insurance missing key nuances."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Risks covered under Petrochemical Tariff' specifically contribute to complex evaluations?",
-        "options": [
-            "A detailed explanation of risks covered under petrochemical tariff in specialized scenarios.",
-            "A general description of risks covered under petrochemical tariff lacking detail.",
-            "An inaccurate interpretation of risks covered under petrochemical tariff in advanced cases.",
-            "A partially correct explanation of risks covered under petrochemical tariff missing key nuances."
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
         ],
         "correctIndex": 0
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Rating and excess clauses in Petrochemical Tariff' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of rating and excess clauses in petrochemical tariff in advanced cases.",
-            "A general description of rating and excess clauses in petrochemical tariff lacking detail.",
-            "A partially correct explanation of rating and excess clauses in petrochemical tariff missing key nuances.",
-            "A detailed explanation of rating and excess clauses in petrochemical tariff in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Insurance pool for nuclear disasters in India' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of insurance pool for nuclear disasters in india in advanced cases.",
-            "A partially correct explanation of insurance pool for nuclear disasters in india missing key nuances.",
-            "A detailed explanation of insurance pool for nuclear disasters in india in specialized scenarios.",
-            "A general description of insurance pool for nuclear disasters in india lacking detail."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Flammable material classification' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of flammable material classification in advanced cases.",
-            "A detailed explanation of flammable material classification in specialized scenarios.",
-            "A partially correct explanation of flammable material classification missing key nuances.",
-            "A general description of flammable material classification lacking detail."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Perils covered under ISO Business Personal Property policy' specifically contribute to complex evaluations?",
-        "options": [
-            "A general description of perils covered under iso business personal property policy lacking detail.",
-            "A detailed explanation of perils covered under iso business personal property policy in specialized scenarios.",
-            "An inaccurate interpretation of perils covered under iso business personal property policy in advanced cases.",
-            "A partially correct explanation of perils covered under iso business personal property policy missing key nuances."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Perils covered under Industrial All Risk Policy' specifically contribute to complex evaluations?",
-        "options": [
-            "A general description of perils covered under industrial all risk policy lacking detail.",
-            "A partially correct explanation of perils covered under industrial all risk policy missing key nuances.",
-            "An inaccurate interpretation of perils covered under industrial all risk policy in advanced cases.",
-            "A detailed explanation of perils covered under industrial all risk policy in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Excluded properties under Industrial All Risk Policy' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of excluded properties under industrial all risk policy in advanced cases.",
-            "A partially correct explanation of excluded properties under industrial all risk policy missing key nuances.",
-            "A detailed explanation of excluded properties under industrial all risk policy in specialized scenarios.",
-            "A general description of excluded properties under industrial all risk policy lacking detail."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Key perils covered under UK fire insurance' specifically contribute to complex evaluations?",
-        "options": [
-            "A detailed explanation of key perils covered under uk fire insurance in specialized scenarios.",
-            "An inaccurate interpretation of key perils covered under uk fire insurance in advanced cases.",
-            "A general description of key perils covered under uk fire insurance lacking detail.",
-            "A partially correct explanation of key perils covered under uk fire insurance missing key nuances."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Role and significance of the General Insurance Council in India' specifically contribute to complex evaluations?",
-        "options": [
-            "A general description of role and significance of the general insurance council in india lacking detail.",
-            "A detailed explanation of role and significance of the general insurance council in india in specialized scenarios.",
-            "An inaccurate interpretation of role and significance of the general insurance council in india in advanced cases.",
-            "A partially correct explanation of role and significance of the general insurance council in india missing key nuances."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Industrial All Risk Policy features' specifically contribute to complex evaluations?",
-        "options": [
-            "A partially correct explanation of industrial all risk policy features missing key nuances.",
-            "A detailed explanation of industrial all risk policy features in specialized scenarios.",
-            "An inaccurate interpretation of industrial all risk policy features in advanced cases.",
-            "A general description of industrial all risk policy features lacking detail."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Need for specialised policies in high-risk industries' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of need for specialised policies in high-risk industries in advanced cases.",
-            "A general description of need for specialised policies in high-risk industries lacking detail.",
-            "A detailed explanation of need for specialised policies in high-risk industries in specialized scenarios.",
-            "A partially correct explanation of need for specialised policies in high-risk industries missing key nuances."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Clauses under Industrial All Risk Policy' specifically contribute to complex evaluations?",
-        "options": [
-            "A general description of clauses under industrial all risk policy lacking detail.",
-            "An inaccurate interpretation of clauses under industrial all risk policy in advanced cases.",
-            "A detailed explanation of clauses under industrial all risk policy in specialized scenarios.",
-            "A partially correct explanation of clauses under industrial all risk policy missing key nuances."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Rating factors for Industrial All Risk Policy' specifically contribute to complex evaluations?",
-        "options": [
-            "A partially correct explanation of rating factors for industrial all risk policy missing key nuances.",
-            "An inaccurate interpretation of rating factors for industrial all risk policy in advanced cases.",
-            "A general description of rating factors for industrial all risk policy lacking detail.",
-            "A detailed explanation of rating factors for industrial all risk policy in specialized scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of specialized insurance, how does 'Recent contributions of the General Insurance Council' specifically contribute to complex evaluations?",
-        "options": [
-            "An inaccurate interpretation of recent contributions of the general insurance council in advanced cases.",
-            "A detailed explanation of recent contributions of the general insurance council in specialized scenarios.",
-            "A partially correct explanation of recent contributions of the general insurance council missing key nuances.",
-            "A general description of recent contributions of the general insurance council lacking detail."
-        ],
-        "correctIndex": 1
     }
 ]
