@@ -1,252 +1,252 @@
 [
     {
-        "question": "Which of the following best describes the application of 'Losses not payable under consequential loss policy' in consequential loss insurance?",
+        "question": "What distinguishes fire insurance from loss of profit insurance?",
         "options": [
-            "A precise explanation of losses not payable under consequential loss policy with a practical application.",
-            "An incomplete interpretation of losses not payable under consequential loss policy.",
-            "A misleading concept regarding losses not payable under consequential loss policy.",
-            "A vague explanation of losses not payable under consequential loss policy unrelated to consequential loss insurance."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Indemnity period and its selection' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding indemnity period and its selection.",
-            "A precise explanation of indemnity period and its selection with a practical application.",
-            "A vague explanation of indemnity period and its selection unrelated to consequential loss insurance.",
-            "An incomplete interpretation of indemnity period and its selection."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Basis of loss of profit insurance' in consequential loss insurance?",
-        "options": [
-            "A precise explanation of basis of loss of profit insurance with a practical application.",
-            "A misleading concept regarding basis of loss of profit insurance.",
-            "An incomplete interpretation of basis of loss of profit insurance.",
-            "A vague explanation of basis of loss of profit insurance unrelated to consequential loss insurance."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Adjustment clause for trends and special circumstances' in consequential loss insurance?",
-        "options": [
-            "A precise explanation of adjustment clause for trends and special circumstances with a practical application.",
-            "A vague explanation of adjustment clause for trends and special circumstances unrelated to consequential loss insurance.",
-            "An incomplete interpretation of adjustment clause for trends and special circumstances.",
-            "A misleading concept regarding adjustment clause for trends and special circumstances."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Material damage proviso' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding material damage proviso.",
-            "A precise explanation of material damage proviso with a practical application.",
-            "An incomplete interpretation of material damage proviso.",
-            "A vague explanation of material damage proviso unrelated to consequential loss insurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Turnover and its elements' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding turnover and its elements.",
-            "A vague explanation of turnover and its elements unrelated to consequential loss insurance.",
-            "A precise explanation of turnover and its elements with a practical application.",
-            "An incomplete interpretation of turnover and its elements."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Definition of consequential loss insurance' in consequential loss insurance?",
-        "options": [
-            "An incomplete interpretation of definition of consequential loss insurance.",
-            "A vague explanation of definition of consequential loss insurance unrelated to consequential loss insurance.",
-            "A precise explanation of definition of consequential loss insurance with a practical application.",
-            "A misleading concept regarding definition of consequential loss insurance."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Exclusions in consequential loss insurance' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding exclusions in consequential loss insurance.",
-            "A precise explanation of exclusions in consequential loss insurance with a practical application.",
-            "An incomplete interpretation of exclusions in consequential loss insurance.",
-            "A vague explanation of exclusions in consequential loss insurance unrelated to consequential loss insurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Deductibles for FLOP (Fire Loss of Profit) policies' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding deductibles for flop (fire loss of profit) policies.",
-            "An incomplete interpretation of deductibles for flop (fire loss of profit) policies.",
-            "A vague explanation of deductibles for flop (fire loss of profit) policies unrelated to consequential loss insurance.",
-            "A precise explanation of deductibles for flop (fire loss of profit) policies with a practical application."
+            "Fire insurance covers only trading losses, not material damages.",
+            "Fire insurance focuses on material property, while loss of profit insurance covers earning capacity.",
+            "Loss of profit insurance includes third-party claims, unlike fire insurance.",
+            "Fire insurance does not cover any damages to machinery."
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Annual turnover and standard turnover' in consequential loss insurance?",
+        "question": "What is the 'Rate of Gross Profit' in the context of Loss of Profit Insurance?",
         "options": [
-            "An incomplete interpretation of annual turnover and standard turnover.",
-            "A misleading concept regarding annual turnover and standard turnover.",
-            "A precise explanation of annual turnover and standard turnover with a practical application.",
-            "A vague explanation of annual turnover and standard turnover unrelated to consequential loss insurance."
+            "The ratio of gross profit to annual turnover",
+            "The percentage of variable costs in turnover",
+            "The annual profit divided by total insured amount",
+            "The percentage of claims paid versus claims filed"
         ],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following best describes the application of 'Impact of reinstatement on claim calculations' in consequential loss insurance?",
+        "question": "What is the significance of the 'Material Damage Proviso' in Consequential Loss Insurance?",
         "options": [
-            "An incomplete interpretation of impact of reinstatement on claim calculations.",
-            "A vague explanation of impact of reinstatement on claim calculations unrelated to consequential loss insurance.",
-            "A precise explanation of impact of reinstatement on claim calculations with a practical application.",
-            "A misleading concept regarding impact of reinstatement on claim calculations."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Policy conditions for consequential loss insurance' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding policy conditions for consequential loss insurance.",
-            "A precise explanation of policy conditions for consequential loss insurance with a practical application.",
-            "An incomplete interpretation of policy conditions for consequential loss insurance.",
-            "A vague explanation of policy conditions for consequential loss insurance unrelated to consequential loss insurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Schedule and specifications in the policy' in consequential loss insurance?",
-        "options": [
-            "An incomplete interpretation of schedule and specifications in the policy.",
-            "A vague explanation of schedule and specifications in the policy unrelated to consequential loss insurance.",
-            "A misleading concept regarding schedule and specifications in the policy.",
-            "A precise explanation of schedule and specifications in the policy with a practical application."
+            "Ensures material damages are restored before consequential losses are compensated",
+            "Eliminates the need for a Fire Insurance policy",
+            "Allows claims to be filed for uninsured standing charges",
+            "Provides coverage for third-party litigation costs"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Illustrations of gross profit calculation' in consequential loss insurance?",
+        "question": "Which of the following is a common example of insured standing charges?",
         "options": [
-            "A vague explanation of illustrations of gross profit calculation unrelated to consequential loss insurance.",
-            "A misleading concept regarding illustrations of gross profit calculation.",
-            "A precise explanation of illustrations of gross profit calculation with a practical application.",
-            "An incomplete interpretation of illustrations of gross profit calculation."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Sum insured calculation in loss of profit insurance' in consequential loss insurance?",
-        "options": [
-            "A vague explanation of sum insured calculation in loss of profit insurance unrelated to consequential loss insurance.",
-            "A misleading concept regarding sum insured calculation in loss of profit insurance.",
-            "A precise explanation of sum insured calculation in loss of profit insurance with a practical application.",
-            "An incomplete interpretation of sum insured calculation in loss of profit insurance."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Departmental clause and its application' in consequential loss insurance?",
-        "options": [
-            "An incomplete interpretation of departmental clause and its application.",
-            "A vague explanation of departmental clause and its application unrelated to consequential loss insurance.",
-            "A precise explanation of departmental clause and its application with a practical application.",
-            "A misleading concept regarding departmental clause and its application."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Definitions of net profit, gross profit, and standing charges' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding definitions of net profit, gross profit, and standing charges.",
-            "A vague explanation of definitions of net profit, gross profit, and standing charges unrelated to consequential loss insurance.",
-            "An incomplete interpretation of definitions of net profit, gross profit, and standing charges.",
-            "A precise explanation of definitions of net profit, gross profit, and standing charges with a practical application."
+            "Raw material costs",
+            "Director's fees",
+            "Profit taxes",
+            "Production costs"
         ],
         "correctIndex": 3
     },
     {
-        "question": "Which of the following best describes the application of 'Net profit, standing charges, and increased cost of working' in consequential loss insurance?",
+        "question": "How is the sum insured calculated for a Loss of Profit policy?",
         "options": [
-            "A misleading concept regarding net profit, standing charges, and increased cost of working.",
-            "A vague explanation of net profit, standing charges, and increased cost of working unrelated to consequential loss insurance.",
-            "A precise explanation of net profit, standing charges, and increased cost of working with a practical application.",
-            "An incomplete interpretation of net profit, standing charges, and increased cost of working."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Operative clause in consequential loss policy' in consequential loss insurance?",
-        "options": [
-            "An incomplete interpretation of operative clause in consequential loss policy.",
-            "A vague explanation of operative clause in consequential loss policy unrelated to consequential loss insurance.",
-            "A precise explanation of operative clause in consequential loss policy with a practical application.",
-            "A misleading concept regarding operative clause in consequential loss policy."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Concept of trading losses from stoppage of business' in consequential loss insurance?",
-        "options": [
-            "A misleading concept regarding concept of trading losses from stoppage of business.",
-            "A vague explanation of concept of trading losses from stoppage of business unrelated to consequential loss insurance.",
-            "A precise explanation of concept of trading losses from stoppage of business with a practical application.",
-            "An incomplete interpretation of concept of trading losses from stoppage of business."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Variations and special circumstances in turnover' in consequential loss insurance?",
-        "options": [
-            "A vague explanation of variations and special circumstances in turnover unrelated to consequential loss insurance.",
-            "A precise explanation of variations and special circumstances in turnover with a practical application.",
-            "A misleading concept regarding variations and special circumstances in turnover.",
-            "An incomplete interpretation of variations and special circumstances in turnover."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Handling of business interruption claims' in consequential loss insurance?",
-        "options": [
-            "A precise explanation of handling of business interruption claims with a practical application.",
-            "A misleading concept regarding handling of business interruption claims.",
-            "A vague explanation of handling of business interruption claims unrelated to consequential loss insurance.",
-            "An incomplete interpretation of handling of business interruption claims."
+            "As the projected future gross profit based on previous accounts",
+            "As the total material damages incurred",
+            "As the variable costs saved during indemnity",
+            "As the director's fees and other management expenses"
         ],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Return of premium under memo 3' in consequential loss insurance?",
+        "question": "Intermediate Question 6",
         "options": [
-            "A vague explanation of return of premium under memo 3 unrelated to consequential loss insurance.",
-            "A precise explanation of return of premium under memo 3 with a practical application.",
-            "A misleading concept regarding return of premium under memo 3.",
-            "An incomplete interpretation of return of premium under memo 3."
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Measure of indemnity in consequential loss insurance' in consequential loss insurance?",
+        "question": "Intermediate Question 7",
         "options": [
-            "A precise explanation of measure of indemnity in consequential loss insurance with a practical application.",
-            "A misleading concept regarding measure of indemnity in consequential loss insurance.",
-            "A vague explanation of measure of indemnity in consequential loss insurance unrelated to consequential loss insurance.",
-            "An incomplete interpretation of measure of indemnity in consequential loss insurance."
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 8",
+        "options": [
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
         ],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Examples of claims computation under consequential loss policies' in consequential loss insurance?",
+        "question": "Intermediate Question 9",
         "options": [
-            "A vague explanation of examples of claims computation under consequential loss policies unrelated to consequential loss insurance.",
-            "An incomplete interpretation of examples of claims computation under consequential loss policies.",
-            "A misleading concept regarding examples of claims computation under consequential loss policies.",
-            "A precise explanation of examples of claims computation under consequential loss policies with a practical application."
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Intermediate Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 11",
+        "options": [
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Intermediate Question 12",
+        "options": [
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Intermediate Question 13",
+        "options": [
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
         ],
         "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 17",
+        "options": [
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 18",
+        "options": [
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Intermediate Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Intermediate Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Intermediate Question 24",
+        "options": [
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Intermediate Question 25",
+        "options": [
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
+        ],
+        "correctIndex": 0
     }
 ]

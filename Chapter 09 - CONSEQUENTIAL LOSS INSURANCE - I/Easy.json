@@ -1,252 +1,252 @@
 [
     {
-        "question": "What is the purpose of 'Operative clause in consequential loss policy' in loss of profit insurance?",
+        "question": "What is the primary purpose of Consequential Loss Insurance?",
         "options": [
-            "A term unrelated to operative clause in consequential loss policy.",
-            "An irrelevant concept not tied to operative clause in consequential loss policy.",
-            "The main goal or explanation of operative clause in consequential loss policy.",
-            "A partially correct explanation of operative clause in consequential loss policy."
+            "To cover material damages to property",
+            "To compensate for trading losses due to business interruption",
+            "To provide life insurance coverage",
+            "To cover third-party claims"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following is not a component of Turnover in a business?",
+        "options": [
+            "Variable Charges",
+            "Standing Charges",
+            "Net Profit",
+            "Third-Party Claims"
         ],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Measure of indemnity in consequential loss insurance' in loss of profit insurance?",
+        "question": "What is the 'Indemnity Period' in Consequential Loss Insurance?",
         "options": [
-            "An irrelevant concept not tied to measure of indemnity in consequential loss insurance.",
-            "A term unrelated to measure of indemnity in consequential loss insurance.",
-            "A partially correct explanation of measure of indemnity in consequential loss insurance.",
-            "The main goal or explanation of measure of indemnity in consequential loss insurance."
+            "The time during which the business policy is active",
+            "The time during which business results are affected after damage",
+            "The time required to claim insurance",
+            "The duration of a financial year"
         ],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Handling of business interruption claims' in loss of profit insurance?",
+        "question": "Which type of expense continues despite business stoppage?",
         "options": [
-            "The main goal or explanation of handling of business interruption claims.",
-            "A partially correct explanation of handling of business interruption claims.",
-            "A term unrelated to handling of business interruption claims.",
-            "An irrelevant concept not tied to handling of business interruption claims."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Departmental clause and its application' in loss of profit insurance?",
-        "options": [
-            "A term unrelated to departmental clause and its application.",
-            "The main goal or explanation of departmental clause and its application.",
-            "An irrelevant concept not tied to departmental clause and its application.",
-            "A partially correct explanation of departmental clause and its application."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Definition of consequential loss insurance' in loss of profit insurance?",
-        "options": [
-            "A partially correct explanation of definition of consequential loss insurance.",
-            "An irrelevant concept not tied to definition of consequential loss insurance.",
-            "The main goal or explanation of definition of consequential loss insurance.",
-            "A term unrelated to definition of consequential loss insurance."
+            "Variable charges",
+            "Standing charges",
+            "Net profit",
+            "Turnover"
         ],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Annual turnover and standard turnover' in loss of profit insurance?",
+        "question": "What is the basis of Loss of Profit Insurance?",
         "options": [
-            "A partially correct explanation of annual turnover and standard turnover.",
-            "The main goal or explanation of annual turnover and standard turnover.",
-            "An irrelevant concept not tied to annual turnover and standard turnover.",
-            "A term unrelated to annual turnover and standard turnover."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Exclusions in consequential loss insurance' in loss of profit insurance?",
-        "options": [
-            "The main goal or explanation of exclusions in consequential loss insurance.",
-            "An irrelevant concept not tied to exclusions in consequential loss insurance.",
-            "A partially correct explanation of exclusions in consequential loss insurance.",
-            "A term unrelated to exclusions in consequential loss insurance."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Return of premium under memo 3' in loss of profit insurance?",
-        "options": [
-            "A partially correct explanation of return of premium under memo 3.",
-            "The main goal or explanation of return of premium under memo 3.",
-            "A term unrelated to return of premium under memo 3.",
-            "An irrelevant concept not tied to return of premium under memo 3."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Net profit, standing charges, and increased cost of working' in loss of profit insurance?",
-        "options": [
-            "An irrelevant concept not tied to net profit, standing charges, and increased cost of working.",
-            "The main goal or explanation of net profit, standing charges, and increased cost of working.",
-            "A partially correct explanation of net profit, standing charges, and increased cost of working.",
-            "A term unrelated to net profit, standing charges, and increased cost of working."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Material damage proviso' in loss of profit insurance?",
-        "options": [
-            "The main goal or explanation of material damage proviso.",
-            "An irrelevant concept not tied to material damage proviso.",
-            "A partially correct explanation of material damage proviso.",
-            "A term unrelated to material damage proviso."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Basis of loss of profit insurance' in loss of profit insurance?",
-        "options": [
-            "A partially correct explanation of basis of loss of profit insurance.",
-            "The main goal or explanation of basis of loss of profit insurance.",
-            "A term unrelated to basis of loss of profit insurance.",
-            "An irrelevant concept not tied to basis of loss of profit insurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Indemnity period and its selection' in loss of profit insurance?",
-        "options": [
-            "The main goal or explanation of indemnity period and its selection.",
-            "A term unrelated to indemnity period and its selection.",
-            "A partially correct explanation of indemnity period and its selection.",
-            "An irrelevant concept not tied to indemnity period and its selection."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Deductibles for FLOP (Fire Loss of Profit) policies' in loss of profit insurance?",
-        "options": [
-            "A partially correct explanation of deductibles for flop (fire loss of profit) policies.",
-            "A term unrelated to deductibles for flop (fire loss of profit) policies.",
-            "An irrelevant concept not tied to deductibles for flop (fire loss of profit) policies.",
-            "The main goal or explanation of deductibles for flop (fire loss of profit) policies."
+            "Reduction in Net Profit",
+            "Reduction in Turnover",
+            "Reduction in Standing Charges",
+            "Reduction in Production Costs"
         ],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Policy conditions for consequential loss insurance' in loss of profit insurance?",
+        "question": "Sample Question 6",
         "options": [
-            "A partially correct explanation of policy conditions for consequential loss insurance.",
-            "An irrelevant concept not tied to policy conditions for consequential loss insurance.",
-            "A term unrelated to policy conditions for consequential loss insurance.",
-            "The main goal or explanation of policy conditions for consequential loss insurance."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Schedule and specifications in the policy' in loss of profit insurance?",
-        "options": [
-            "A term unrelated to schedule and specifications in the policy.",
-            "An irrelevant concept not tied to schedule and specifications in the policy.",
-            "A partially correct explanation of schedule and specifications in the policy.",
-            "The main goal or explanation of schedule and specifications in the policy."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Illustrations of gross profit calculation' in loss of profit insurance?",
-        "options": [
-            "A term unrelated to illustrations of gross profit calculation.",
-            "An irrelevant concept not tied to illustrations of gross profit calculation.",
-            "The main goal or explanation of illustrations of gross profit calculation.",
-            "A partially correct explanation of illustrations of gross profit calculation."
+            "Option A6",
+            "Option B6",
+            "Option C6",
+            "Option D6"
         ],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Concept of trading losses from stoppage of business' in loss of profit insurance?",
+        "question": "Sample Question 7",
         "options": [
-            "The main goal or explanation of concept of trading losses from stoppage of business.",
-            "An irrelevant concept not tied to concept of trading losses from stoppage of business.",
-            "A partially correct explanation of concept of trading losses from stoppage of business.",
-            "A term unrelated to concept of trading losses from stoppage of business."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Impact of reinstatement on claim calculations' in loss of profit insurance?",
-        "options": [
-            "An irrelevant concept not tied to impact of reinstatement on claim calculations.",
-            "A partially correct explanation of impact of reinstatement on claim calculations.",
-            "A term unrelated to impact of reinstatement on claim calculations.",
-            "The main goal or explanation of impact of reinstatement on claim calculations."
+            "Option A7",
+            "Option B7",
+            "Option C7",
+            "Option D7"
         ],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Examples of claims computation under consequential loss policies' in loss of profit insurance?",
+        "question": "Sample Question 8",
         "options": [
-            "The main goal or explanation of examples of claims computation under consequential loss policies.",
-            "An irrelevant concept not tied to examples of claims computation under consequential loss policies.",
-            "A partially correct explanation of examples of claims computation under consequential loss policies.",
-            "A term unrelated to examples of claims computation under consequential loss policies."
+            "Option A8",
+            "Option B8",
+            "Option C8",
+            "Option D8"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Sum insured calculation in loss of profit insurance' in loss of profit insurance?",
+        "question": "Sample Question 9",
         "options": [
-            "An irrelevant concept not tied to sum insured calculation in loss of profit insurance.",
-            "The main goal or explanation of sum insured calculation in loss of profit insurance.",
-            "A term unrelated to sum insured calculation in loss of profit insurance.",
-            "A partially correct explanation of sum insured calculation in loss of profit insurance."
+            "Option A9",
+            "Option B9",
+            "Option C9",
+            "Option D9"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Sample Question 10",
+        "options": [
+            "Option A10",
+            "Option B10",
+            "Option C10",
+            "Option D10"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Definitions of net profit, gross profit, and standing charges' in loss of profit insurance?",
+        "question": "Sample Question 11",
         "options": [
-            "An irrelevant concept not tied to definitions of net profit, gross profit, and standing charges.",
-            "A term unrelated to definitions of net profit, gross profit, and standing charges.",
-            "The main goal or explanation of definitions of net profit, gross profit, and standing charges.",
-            "A partially correct explanation of definitions of net profit, gross profit, and standing charges."
+            "Option A11",
+            "Option B11",
+            "Option C11",
+            "Option D11"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Variations and special circumstances in turnover' in loss of profit insurance?",
+        "question": "Sample Question 12",
         "options": [
-            "A partially correct explanation of variations and special circumstances in turnover.",
-            "An irrelevant concept not tied to variations and special circumstances in turnover.",
-            "The main goal or explanation of variations and special circumstances in turnover.",
-            "A term unrelated to variations and special circumstances in turnover."
+            "Option A12",
+            "Option B12",
+            "Option C12",
+            "Option D12"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Turnover and its elements' in loss of profit insurance?",
+        "question": "Sample Question 13",
         "options": [
-            "The main goal or explanation of turnover and its elements.",
-            "A term unrelated to turnover and its elements.",
-            "A partially correct explanation of turnover and its elements.",
-            "An irrelevant concept not tied to turnover and its elements."
+            "Option A13",
+            "Option B13",
+            "Option C13",
+            "Option D13"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Sample Question 14",
+        "options": [
+            "Option A14",
+            "Option B14",
+            "Option C14",
+            "Option D14"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Sample Question 15",
+        "options": [
+            "Option A15",
+            "Option B15",
+            "Option C15",
+            "Option D15"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Sample Question 16",
+        "options": [
+            "Option A16",
+            "Option B16",
+            "Option C16",
+            "Option D16"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Losses not payable under consequential loss policy' in loss of profit insurance?",
+        "question": "Sample Question 17",
         "options": [
-            "A term unrelated to losses not payable under consequential loss policy.",
-            "A partially correct explanation of losses not payable under consequential loss policy.",
-            "The main goal or explanation of losses not payable under consequential loss policy.",
-            "An irrelevant concept not tied to losses not payable under consequential loss policy."
+            "Option A17",
+            "Option B17",
+            "Option C17",
+            "Option D17"
         ],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Adjustment clause for trends and special circumstances' in loss of profit insurance?",
+        "question": "Sample Question 18",
         "options": [
-            "A partially correct explanation of adjustment clause for trends and special circumstances.",
-            "An irrelevant concept not tied to adjustment clause for trends and special circumstances.",
-            "The main goal or explanation of adjustment clause for trends and special circumstances.",
-            "A term unrelated to adjustment clause for trends and special circumstances."
+            "Option A18",
+            "Option B18",
+            "Option C18",
+            "Option D18"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Sample Question 19",
+        "options": [
+            "Option A19",
+            "Option B19",
+            "Option C19",
+            "Option D19"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Sample Question 20",
+        "options": [
+            "Option A20",
+            "Option B20",
+            "Option C20",
+            "Option D20"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Sample Question 21",
+        "options": [
+            "Option A21",
+            "Option B21",
+            "Option C21",
+            "Option D21"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Sample Question 22",
+        "options": [
+            "Option A22",
+            "Option B22",
+            "Option C22",
+            "Option D22"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Sample Question 23",
+        "options": [
+            "Option A23",
+            "Option B23",
+            "Option C23",
+            "Option D23"
         ],
         "correctIndex": 2
+    },
+    {
+        "question": "Sample Question 24",
+        "options": [
+            "Option A24",
+            "Option B24",
+            "Option C24",
+            "Option D24"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Sample Question 25",
+        "options": [
+            "Option A25",
+            "Option B25",
+            "Option C25",
+            "Option D25"
+        ],
+        "correctIndex": 1
     }
 ]
