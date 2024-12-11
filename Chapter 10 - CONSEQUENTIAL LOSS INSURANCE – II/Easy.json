@@ -1,252 +1,127 @@
 [
     {
-        "question": "What is the rate of premium for a Consequential Loss policy based on?",
-        "options": [
-            "The insured's annual net profit",
-            "The basis rate and percentage for the indemnity period",
-            "The insured's turnover and standing charges",
-            "The sum insured for material damages"
-        ],
+        "question": "What does the dual basis method of wages insurance provide?",
+        "options": ["Full wages for initial period and partial wages for remaining period", "Wages coverage only for unskilled workers", "Equal wages coverage throughout the period", "No wages coverage"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is NOT considered under the Gross Fees Policy?",
+        "options": ["Loss of gross fees", "Marketing expenses", "Legal charges for replacing documents", "Increased cost of working"],
+        "correctIndex": 1
+    },
+    {
+        "question": "How is the 'Difference' basis of specification different from the 'Additions' basis?",
+        "options": ["It subtracts variable expenses to calculate Gross Profit", "It merges all incomes into one figure", "It includes all fixed charges", "It excludes standing charges"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the term used for money paid to insureds for services rendered?",
+        "options": ["Standing Charges", "Operating Cost", "Gross Revenue", "Net Profit"],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following can be insured under a C.L. policy extension?",
-        "options": [
-            "Auditor's regular fees",
-            "Spontaneous combustion and earthquake damage",
-            "Loss of goodwill",
-            "Underinsured standing charges"
-        ],
+        "question": "What should the insured do first upon damage occurrence?",
+        "options": ["Start repairs", "Notify the insurer", "Ignore minor damages", "Prepare claim documents"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the basis rate for the Business Interruption Section under Industrial Risks Policy?",
+        "options": ["15% surcharge", "5% discount", "No change", "10% discount"],
         "correctIndex": 3
     },
     {
-        "question": "What is the maximum period for which wages can be insured under a Dual Basis method?",
-        "options": [
-            "6 months",
-            "12 months",
-            "The full indemnity period",
-            "3 months only"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is 'gross revenue' in a Revenue Policy?",
-        "options": [
-            "Total revenue minus all standing charges",
-            "The money paid for services rendered in the course of business",
-            "The sum of insured's turnover and net profit",
-            "Revenue generated from gross fees"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What does the 'Accumulation Clause' address in a Consequential Loss Policy?",
-        "options": [
-            "Losses arising due to accumulated raw materials",
-            "Postponed turnover loss due to usage of finished goods stock",
-            "Accumulated claims that are not yet settled",
-            "All overhead expenses covered by the policy"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Basic Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
+        "question": "What is the primary aim of the New Business Clause?",
+        "options": ["To reduce premium costs", "To provide unlimited coverage", "To address claims for businesses with no prior trading history", "To exclude new businesses from coverage"],
         "correctIndex": 2
     },
     {
-        "question": "Basic Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
+        "question": "What is one of the main reasons for higher percentages for shorter indemnity periods?",
+        "options": ["Equal interruption throughout", "Higher interruption in early months", "Premium discount is higher", "Lower interruption in early months"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is covered under the 'Insured’s Property at other Locations' extension?",
+        "options": ["Interruption due to natural disasters", "Interruption due to labor strikes", "Interruption due to inflation", "Interruption due to damage at specified other locations"],
         "correctIndex": 3
     },
     {
-        "question": "Basic Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
+        "question": "What is insured under the Auditor's Clause?",
+        "options": ["Auditor's office rent", "Auditor's personal expenses", "Auditor's fees for verifying business books", "Audit fees for regular operations"],
         "correctIndex": 2
     },
     {
-        "question": "Basic Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 1
+        "question": "Which method is best for accurately calculating wages coverage?",
+        "options": ["Pro-rata basis", "Full indemnity", "Dual basis", "Annual method"],
+        "correctIndex": 2
     },
     {
-        "question": "Basic Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
+        "question": "Which method of wage insurance is most commonly used for unskilled workers?",
+        "options": ["Dual basis", "Annual method", "Full indemnity", "Pro-rata basis"],
         "correctIndex": 3
     },
     {
-        "question": "Basic Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
+        "question": "What is essential to prevent under-insurance in gross profit items?",
+        "options": ["Higher deductibles", "Adequate sum insured", "Low premium rates", "Short indemnity periods"],
         "correctIndex": 1
     },
     {
-        "question": "Basic Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Basic Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
+        "question": "Which period of indemnity has the highest percentage of basis rates for Continuous Process Plants?",
+        "options": ["6 months", "36 months", "24 months", "12 months"],
         "correctIndex": 3
     },
     {
-        "question": "Basic Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
+        "question": "Which policy type is suitable for private hospitals?",
+        "options": ["Revenue Policy", "C.L. Policy", "Gross Fees Policy", "Fire Policy"],
         "correctIndex": 0
     },
     {
-        "question": "Basic Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Basic Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Basic Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Basic Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
+        "question": "Which of the following is an example of a continuous process plant?",
+        "options": ["Warehouse", "Grocery Store", "Office Building", "Battery Service Stations"],
         "correctIndex": 3
     },
     {
-        "question": "Basic Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
+        "question": "What is the full form of C.L. in C.L. policy?",
+        "options": ["Corporate Liability", "Comprehensive Loss", "Consequential Loss", "Casualty Liability"],
         "correctIndex": 2
     },
     {
-        "question": "Basic Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
+        "question": "What must be identical in the C.L. policy and the Supplier's Extension?",
+        "options": ["Sum insured", "Premium rates", "Covered perils", "Indemnity period"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is covered under the 'Customer's Premises' extension?",
+        "options": ["Loss due to customer's bankruptcy", "Loss due to customer's inability to take delivery", "Customer's transportation issues", "Damage to customer's property"],
         "correctIndex": 1
     },
     {
-        "question": "Basic Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 2
+        "question": "Which peril is NOT usually included in C.L. policy extensions?",
+        "options": ["Accidental failure of electricity", "Stock market crash", "Spontaneous combustion", "Fire"],
+        "correctIndex": 1
     },
     {
-        "question": "Basic Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
+        "question": "What is a key feature of the 'Output' basis of specification?",
+        "options": ["Measures loss based on units produced", "Measures loss based on employee count", "Measures loss based on turnover", "Measures loss based on market value"],
         "correctIndex": 0
     },
     {
-        "question": "Basic Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 0
+        "question": "The term 'Lay-off' is defined under which act?",
+        "options": ["Factories Act", "Labor Act", "Insurance Act", "Industrial Disputes Act"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of the 'Trends, Variations and Special Circumstances' clause?",
+        "options": ["To limit claim amounts", "To increase premium rates", "To remove certain perils", "To adjust figures for fairness"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What document provides a reserve estimate for the insurer?",
+        "options": ["Claim receipt", "Preliminary report", "Trends report", "Final settlement report"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What type of businesses typically use Revenue Policies?",
+        "options": ["Factories", "Mining Companies", "Construction Sites", "Clubs and Hotels"],
+        "correctIndex": 3
     }
 ]

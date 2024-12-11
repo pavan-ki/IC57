@@ -1,252 +1,122 @@
 [
     {
-        "question": "What is the significance of the 'Option to Consolidate' in the Dual Basis method?",
-        "options": [
-            "It allows the insured to convert remaining partial cover to full wages cover.",
-            "It extends the indemnity period beyond 12 months.",
-            "It provides a waiver for underinsurance penalties.",
-            "It automatically includes additional expenditures in the gross profit cover."
-        ],
+        "question": "Which exclusion is unique to the 'Market Conditions Clause'?",
+        "options": ["Losses due to depreciation adjustments", "Losses resulting from production delays", "Losses related to supplier default", "Losses due to competitive market shifts"],
         "correctIndex": 3
     },
     {
-        "question": "Why is the 'Accumulation Clause' critical for manufacturing risks?",
-        "options": [
-            "It adjusts claims based on stockpile turnover maintenance.",
-            "It eliminates the need for turnover-based indemnity calculations.",
-            "It ensures uninterrupted supply from suppliers\u2019 premises.",
-            "It provides automatic coverage for stored raw materials."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Under the 'Output Basis' clause, how is the gross profit rate determined?",
-        "options": [
-            "As the proportion of net profit to turnover",
-            "As gross profit per unit of production",
-            "As the ratio of total output to insured standing charges",
-            "As the percentage of production costs to net revenue"
-        ],
+        "question": "What is the significance of 'Initial Period Discounts' in premium calculation?",
+        "options": ["Applies to policies with high gross profit margins", "Encourages shorter indemnity periods", "Provides discounts for businesses with prior claims", "Applies reduced rates for the first 6 months of coverage"],
         "correctIndex": 1
     },
     {
-        "question": "What is the primary limitation of the 'New Business Clause' in a C.L. Policy?",
-        "options": [
-            "It excludes adjustments for trends and special circumstances.",
-            "It applies only during the first 12 months of trading.",
-            "It does not account for lay-off compensation liabilities.",
-            "It requires a higher premium than standard policies."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the 'Difference Basis' of Gross Profit, what are 'Specified Working Expenses'?",
-        "options": [
-            "All fixed expenses and production overheads",
-            "Variable expenses like purchases and power costs",
-            "Employee wages included as standing charges",
-            "Turnover adjustments made for annual revenue fluctuations"
-        ],
+        "question": "How does the 'Gross Fees Clause' affect professional liability insurance?",
+        "options": ["Ensures inclusion of professional fees in indemnity", "Caps liability for legal expenses", "Eliminates standing charges from claims", "Excludes revenue losses beyond 12 months"],
         "correctIndex": 0
     },
     {
-        "question": "Expert-Level Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
+        "question": "What is the difference between the 'Gross Fees Policy' and the 'Revenue Policy'?",
+        "options": ["Gross Fees Policy includes professional service revenue", "Revenue Policy covers only fixed expenses", "Revenue Policy is for continuous process plants", "Gross Fees Policy excludes turnover losses"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary benefit of the 'Additional Premium Adjustment Clause'?",
+        "options": ["Extends coverage to new risks during policy term", "Eliminates turnover variability in calculations", "Allows mid-term premium revisions", "Applies fixed rates regardless of claim frequency"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of the 'Deferred Period Clause'?",
+        "options": ["Adjusts premium rates for deferred claims", "Extends the indemnity period proportionately", "Postpones coverage for initial operational losses", "Provides a buffer for calculating turnover recovery"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the calculation basis for losses under the 'Revenue Policy' in service industries?",
+        "options": ["Average turnover over two financial years", "Net profit plus increased working costs", "Gross revenue minus variable costs", "Standing charges multiplied by turnover"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the 'Loss Avoidance Measures Clause' encourage?",
+        "options": ["Delaying claims submission for accurate assessment", "Increased cost of working to mitigate losses", "Enhancing stockpiles to prevent interruptions", "Shifting operational risks to suppliers"],
         "correctIndex": 1
     },
     {
-        "question": "Expert-Level Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
+        "question": "What is the key feature of the 'Turnover Adjusted Indemnity Clause'?",
+        "options": ["Eliminates standing charges from turnover losses", "Caps indemnity based on average turnover", "Adjusts indemnity for seasonal businesses", "Applies only to non-manufacturing enterprises"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the 'Indemnity Balance Clause' used for?",
+        "options": ["To balance fixed and variable costs in indemnity", "To split indemnity proportionately among suppliers", "To adjust indemnity for cumulative losses", "To allocate indemnity across multiple claim periods"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What distinguishes 'Pro-Rata Basis' coverage from 'Dual Basis' coverage?",
+        "options": ["Pro-rata applies only to service industries", "Dual basis excludes alternative trading losses", "Dual basis separates standing charges and variable costs", "Pro-rata allocates fixed proportions to all expenses"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What adjustment does the 'Standard Turnover Clause' provide?",
+        "options": ["Accounts for seasonal variations in turnover", "Adjusts gross profit based on average turnover", "Caps indemnity at 80% of annual turnover", "Limits liability for non-operational periods"],
         "correctIndex": 0
     },
     {
-        "question": "Expert-Level Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
+        "question": "What distinguishes the 'Dual Wages Basis Clause' from the 'Annual Wages Basis'?",
+        "options": ["Provides full wages for the entire indemnity period", "Separates skilled and unskilled wages for better allocation", "Does not cover layoffs during the indemnity period", "Limits coverage to the first 3 months only"],
         "correctIndex": 1
     },
     {
-        "question": "Expert-Level Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
+        "question": "How is the 'Average Clause' calculated when the sum insured is less than the value at risk?",
+        "options": ["Proportional adjustment based on underinsurance", "Direct deduction from the claim amount", "Flat rate adjustment by the insurer", "Adjustment only applies to turnover policies"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the unique application of the 'Earnings Trend Clause'?",
+        "options": ["Excludes turnover losses beyond 12 months", "Adjusts indemnity for future market conditions", "Covers only high-growth industries", "Projects earnings based on prior growth trends"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the basis for indemnity in 'Alternative Trading Clause' scenarios?",
+        "options": ["Total loss assessed after 6 months", "Revenue generated from alternative methods", "Standard turnover adjusted for fixed costs", "Wages reduction due to alternative trading"],
         "correctIndex": 1
     },
     {
-        "question": "Expert-Level Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
+        "question": "What is the primary limitation of the 'Alternative Basis Clause'?",
+        "options": ["Limited to indemnity periods under 12 months", "Cannot be applied to turnover-based policies", "Excludes losses due to market downturns", "Applies only to businesses with dual trading lines"],
         "correctIndex": 2
     },
     {
-        "question": "Expert-Level Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
+        "question": "What adjustment is provided by the 'Excess Stock Clause'?",
+        "options": ["Limits liability for accumulated stock depreciation", "Reduces indemnity for excessive stockholding", "Accounts for surplus stock used during interruptions", "Covers losses due to obsolete stock"],
         "correctIndex": 2
     },
     {
-        "question": "Expert-Level Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Expert-Level Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
+        "question": "Under what conditions does the 'Additional Increase in Cost of Working' clause apply?",
+        "options": ["When alternative trading fails to mitigate the loss", "When standing charges are excluded", "When the increase in cost is above the sum insured", "When indemnity exceeds 24 months"],
         "correctIndex": 0
     },
     {
-        "question": "Expert-Level Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Expert-Level Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
+        "question": "In what scenario does the 'Accumulated Stock Clause' primarily apply?",
+        "options": ["When stock is used to maintain turnover during interruptions", "When stock is destroyed by insured perils", "When accumulated stock value exceeds gross profit", "When production output exceeds forecasted turnover"],
         "correctIndex": 0
     },
     {
-        "question": "Expert-Level Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
+        "question": "Which of the following is a core component of the 'Increased Cost of Working' coverage?",
+        "options": ["Losses due to depreciation of assets", "Standing charges adjustment", "Temporary relocation expenses", "Wages compensation beyond indemnity period"],
         "correctIndex": 2
     },
     {
-        "question": "Expert-Level Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 0
+        "question": "What is the effect of the 'Trends Clause' on gross profit calculations?",
+        "options": ["Eliminates seasonal fluctuations", "Accounts for changes due to external factors", "Caps gross profit at a maximum rate", "Excludes non-operational revenue"],
+        "correctIndex": 1
     },
     {
-        "question": "Expert-Level Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
-        "correctIndex": 3
+        "question": "How does the 'Specified Suppliers' Clause' differ from the 'Public Utilities Clause'?",
+        "options": ["Limited to turnover losses only", "Applies to named suppliers versus general utility providers", "Excludes indemnity period adjustments", "Covers manufacturing defects instead of external damage"],
+        "correctIndex": 1
     },
     {
-        "question": "Expert-Level Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
-        "correctIndex": 2
+        "question": "What is the primary limitation of 'Uninsured Working Expenses'?",
+        "options": ["Reduces overall claim payout proportionately", "Cannot be claimed under gross profit policies", "Excludes turnover losses beyond indemnity period", "Applies only to partial operational shutdowns"],
+        "correctIndex": 1
     }
 ]

@@ -1,252 +1,127 @@
 [
     {
-        "question": "What is the primary consideration when setting the sum insured for Lay-Off and Retrenchment Compensation?",
-        "options": [
-            "The annual gross revenue of the business",
-            "The employer's total legal liability under the Industrial Disputes Act",
-            "The cost of retrenchment for badli workers",
-            "The total material damages incurred"
-        ],
-        "correctIndex": 0
+        "question": "What factor is NOT considered in the Alternative Basis Clause?",
+        "options": ["Output", "Accumulated stock usage", "Employee count", "Turnover"],
+        "correctIndex": 2
     },
     {
-        "question": "Under the Dual Basis of Wages Insurance, what is the significance of the 'Carry Over' provision?",
-        "options": [
-            "Allows unused wages savings to be utilized in subsequent periods",
-            "Increases the insured amount for the next indemnity period",
-            "Eliminates underinsurance penalties",
-            "Provides additional coverage for retrenchment costs"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of the 'Output Basis' in Gross Profit specification?",
-        "options": [
-            "To calculate loss of gross profit based on production rather than turnover",
-            "To eliminate standing charges from loss calculations",
-            "To simplify indemnity calculations for service-based businesses",
-            "To adjust claims based on accumulated stock losses"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following is a requirement for insuring Wages under the Pro-Rata Basis?",
-        "options": [
-            "The sum insured must represent full annual wages",
-            "Wages must be divided into skilled and unskilled categories",
-            "The indemnity period must not exceed 12 months",
-            "Wages for the selected period only are insured"
-        ],
+        "question": "Which industry is an example of a business suited for Revenue Policies?",
+        "options": ["Distillery", "Hotel", "Tile Factory", "Retail Supermarket"],
         "correctIndex": 1
     },
     {
-        "question": "What does the 'Trends, Variation and Special Circumstances' clause account for in a claim?",
-        "options": [
-            "Changes in gross profit rate after the damage",
-            "All material damages to property",
-            "Adjustments to indemnity based on business growth or decline",
-            "Additional premium payments made during the policy period"
-        ],
+        "question": "What defines the rate of gross profit under the 'Output' basis?",
+        "options": ["Gross profit per unit of production", "Total turnover", "Units sold in the previous financial year", "Market value per unit of production"],
         "correctIndex": 0
     },
     {
-        "question": "Intermediate Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Intermediate Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
+        "question": "What is the 'Difference Basis' method primarily used for?",
+        "options": ["Including all expenses under gross profit", "Calculating premium rates", "Comparing different loss policies", "Excluding variable costs to calculate gross profit"],
         "correctIndex": 3
     },
     {
-        "question": "Intermediate Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
+        "question": "Which method of insuring wages provides flexibility to the insured?",
+        "options": ["Annual method", "Pro-rata basis", "Full indemnity period", "Dual basis"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the percentage of wages covered in the first period under the Dual Basis method?",
+        "options": ["50%", "25%", "75%", "100%"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the discount rate for the Business Interruption Section under Industrial Risks Policy?",
+        "options": ["15%", "10%", "20%", "5%"],
         "correctIndex": 1
     },
     {
-        "question": "Intermediate Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
+        "question": "Which industry is NOT listed as a continuous process plant?",
+        "options": ["Retail Supermarket", "Distilleries", "Paper Mill", "Tile Manufacturing"],
         "correctIndex": 0
     },
     {
-        "question": "Intermediate Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 1
+        "question": "Which extension covers insured property at specified other locations?",
+        "options": ["Customer's Premises Extension", "Accumulation Clause", "Property at Other Locations Extension", "Supplier's Premises Extension"],
+        "correctIndex": 2
     },
     {
-        "question": "Intermediate Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
+        "question": "What is the additional premium loading for 'Lay-off Compensation' under a C.L. policy?",
+        "options": ["50%", "25%", "75%", "10%"],
         "correctIndex": 0
     },
     {
-        "question": "Intermediate Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Intermediate Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
+        "question": "Which type of policy is ideal for professional services like lawyers or accountants?",
+        "options": ["Industrial Risks Policy", "Revenue Policy", "Gross Fees Policy", "Turnover Policy"],
         "correctIndex": 2
     },
     {
-        "question": "Intermediate Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Intermediate Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Intermediate Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
+        "question": "What is the maximum indemnity period for a standard C.L. policy?",
+        "options": ["36 months", "12 months", "24 months", "18 months"],
         "correctIndex": 0
     },
     {
-        "question": "Intermediate Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
+        "question": "What is NOT included in the definition of 'Specified Working Expenses'?",
+        "options": ["Purchases", "Depreciation", "Bad debts", "Packing material"],
         "correctIndex": 1
     },
     {
-        "question": "Intermediate Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
+        "question": "What is the primary purpose of the 'Accumulation Clause'?",
+        "options": ["To reduce the premium cost", "To adjust losses when turnover is maintained using accumulated stock", "To allow temporary production shutdowns", "To increase the coverage period of the policy"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which period is typically covered under the Annual Method for insuring wages?",
+        "options": ["12 months", "6 months", "18 months", "3 months"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which factor is NOT considered in calculating the gross profit under the 'Output' basis?",
+        "options": ["Shortage in output", "Rate of gross profit per unit", "Market share", "Units of production"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which business is classified as a continuous process plant?",
+        "options": ["Warehouse", "Retail Store", "Corporate Office", "Vegetable Oil Solvent Extraction Plant"],
         "correctIndex": 3
     },
     {
-        "question": "Intermediate Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
+        "question": "What is insured under the 'Auditor's Clause'?",
+        "options": ["Auditor's office maintenance costs", "Auditor's normal operational fees", "Auditor's fees for verifying claim-related details", "Auditor's travel expenses"],
         "correctIndex": 2
+    },
+    {
+        "question": "What is the minimum basis rate for a C.L. policy in premises with no manufacturing process?",
+        "options": ["1.5 times the average fire rate", "0.75 times the average fire rate", "Equal to the average fire rate", "1.25 times the average fire rate"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the significance of the 'Alternative Basis Clause'?",
+        "options": ["Combines revenue and gross fees policies", "Sets minimum standards for gross profit calculations", "Provides extended coverage for additional periods", "Allows using output as an alternative to turnover for loss measurement"],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which factor does NOT affect the premium rate for a C.L. policy?",
+        "options": ["Location of the premises", "Average fire rate", "Indemnity period", "Type of machinery used"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Trends, Variations and Special Circumstances' clause adjust?",
+        "options": ["Claim settlement timelines", "Sum insured and premium rates", "Rate of gross profit, turnover, and indemnity period", "Loss assessment procedures"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the indemnity period for 'Lay-off Compensation' coverage?",
+        "options": ["Equal to the indemnity period of the main policy", "6 months", "Equal to the policy period", "12 months"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What clause addresses losses when turnover remains stable but production is interrupted?",
+        "options": ["Alternative Basis Clause", "Supplier's Extension Clause", "Output Basis Clause", "Accumulation Clause"],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which clause is useful for measuring loss based on service revenue rather than production?",
+        "options": ["Output Clause", "Revenue Clause", "Turnover Clause", "Gross Fees Clause"],
+        "correctIndex": 1
     }
 ]

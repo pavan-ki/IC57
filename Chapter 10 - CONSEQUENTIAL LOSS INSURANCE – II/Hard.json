@@ -1,252 +1,127 @@
 [
     {
-        "question": "What does the 'New Business Clause' provide for in Loss of Profits insurance?",
-        "options": [
-            "Standard turnover calculations based on future projections",
-            "Definitions for rate of gross profit and turnover for businesses under one year old",
-            "Additional premiums for businesses with incomplete financial records",
-            "Waiver of underinsurance penalties for new businesses"
-        ],
+        "question": "Which industry is most suitable for a 'Revenue Policy'?",
+        "options": ["Clubs and Hotels", "Educational Institutes", "Mining Companies", "Construction Firms"],
         "correctIndex": 0
     },
     {
-        "question": "What is the key advantage of the 'Difference Basis' for calculating Gross Profit?",
-        "options": [
-            "It eliminates the need to list specific standing charges",
-            "It adjusts for depreciation of assets automatically",
-            "It ensures higher claims for small businesses",
-            "It simplifies the calculation of net profit"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "How is the 'Alternative Basis Clause' different from the 'Output Basis'?",
-        "options": [
-            "It allows substitution of turnover with output only during certain claims",
-            "It includes an automatic adjustment for accumulated stock losses",
-            "It calculates indemnity solely on the annual turnover",
-            "It requires a separate policy endorsement for implementation"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Under what conditions can the indemnity period for damage at a supplier's premises be extended?",
-        "options": [
-            "If the supplier is an intermediary trader",
-            "If the damage is caused by uninsured perils",
-            "If the period matches the main policy\u2019s indemnity period",
-            "If the supplier is located abroad"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the primary consideration for setting premium rates for Dual Basis Wages Insurance?",
-        "options": [
-            "The total annual gross profit of the insured",
-            "The proportion of wages insured for the remaining indemnity period",
-            "The sum insured for lay-off compensation",
-            "The annual material damage premium"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 6",
-        "options": [
-            "Option A6",
-            "Option B6",
-            "Option C6",
-            "Option D6"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 7",
-        "options": [
-            "Option A7",
-            "Option B7",
-            "Option C7",
-            "Option D7"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 8",
-        "options": [
-            "Option A8",
-            "Option B8",
-            "Option C8",
-            "Option D8"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 9",
-        "options": [
-            "Option A9",
-            "Option B9",
-            "Option C9",
-            "Option D9"
-        ],
+        "question": "Which clause excludes loss due to changes in market conditions?",
+        "options": ["Loss Mitigation Clause", "Uninsured Working Expenses Clause", "Market Exclusion Clause", "Trends Adjustment Clause"],
         "correctIndex": 3
     },
     {
-        "question": "Advanced Question 10",
-        "options": [
-            "Option A10",
-            "Option B10",
-            "Option C10",
-            "Option D10"
-        ],
+        "question": "Which of the following factors is considered under the 'Turnover Clause'?",
+        "options": ["Seasonal fluctuations", "Market value variations", "Production output", "Wage adjustments"],
         "correctIndex": 0
     },
     {
-        "question": "Advanced Question 11",
-        "options": [
-            "Option A11",
-            "Option B11",
-            "Option C11",
-            "Option D11"
-        ],
-        "correctIndex": 0
+        "question": "What determines the 'Alternative Trading Clause' applicability?",
+        "options": ["Revenue impact beyond 12 months", "Ability to operate alternative premises", "Seasonal adjustments in operational costs", "Turnover derived from alternate methods"],
+        "correctIndex": 1
     },
     {
-        "question": "Advanced Question 12",
-        "options": [
-            "Option A12",
-            "Option B12",
-            "Option C12",
-            "Option D12"
-        ],
-        "correctIndex": 0
+        "question": "What is the primary role of the 'Output Basis Clause'?",
+        "options": ["To ensure net profit calculation includes fixed expenses", "To adjust premium rates dynamically", "To measure business interruption based on production output", "To enable indemnity beyond standard coverage limits"],
+        "correctIndex": 2
     },
     {
-        "question": "Advanced Question 13",
-        "options": [
-            "Option A13",
-            "Option B13",
-            "Option C13",
-            "Option D13"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 14",
-        "options": [
-            "Option A14",
-            "Option B14",
-            "Option C14",
-            "Option D14"
-        ],
+        "question": "How is the 'Annual Turnover' calculated under Turnover Policies?",
+        "options": ["Deducting taxes and depreciation from revenue", "Based on quarterly performance averages", "Adding prior year's turnover and next year's estimates", "Turnover from the preceding 12 months"],
         "correctIndex": 3
     },
     {
-        "question": "Advanced Question 15",
-        "options": [
-            "Option A15",
-            "Option B15",
-            "Option C15",
-            "Option D15"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 16",
-        "options": [
-            "Option A16",
-            "Option B16",
-            "Option C16",
-            "Option D16"
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Advanced Question 17",
-        "options": [
-            "Option A17",
-            "Option B17",
-            "Option C17",
-            "Option D17"
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Advanced Question 18",
-        "options": [
-            "Option A18",
-            "Option B18",
-            "Option C18",
-            "Option D18"
-        ],
+        "question": "What defines the rate used for 'Standing Charges' under a gross profit calculation?",
+        "options": ["Variable costs excluded from revenue", "Total gross profit minus revenue", "Revenue divided by standing charges", "Fixed charges proportionate to turnover"],
         "correctIndex": 3
     },
     {
-        "question": "Advanced Question 19",
-        "options": [
-            "Option A19",
-            "Option B19",
-            "Option C19",
-            "Option D19"
-        ],
+        "question": "Which type of C.L. policy typically uses a 'Flexible First Loss' approach?",
+        "options": ["Small Office Home Office (SOHO) Policies", "High-Net-Worth Individual (HNWI) Policies", "Industrial Policies", "Retail-Specific Policies"],
         "correctIndex": 2
     },
     {
-        "question": "Advanced Question 20",
-        "options": [
-            "Option A20",
-            "Option B20",
-            "Option C20",
-            "Option D20"
-        ],
+        "question": "What is a key aspect of the 'Declaration-Linked Policies'?",
+        "options": ["Premium adjustments based on declared gross profit", "Fixed premiums for all declarations", "Sum insured is halved for temporary interruptions", "Excludes turnover variance in the first year"],
         "correctIndex": 0
     },
     {
-        "question": "Advanced Question 21",
-        "options": [
-            "Option A21",
-            "Option B21",
-            "Option C21",
-            "Option D21"
-        ],
+        "question": "What is the primary purpose of the 'Supplier's Extension Clause'?",
+        "options": ["To include additional suppliers in the insurance policy", "To cover losses due to damage to suppliers' premises", "To increase turnover during supply shortages", "To protect suppliers' machinery"],
         "correctIndex": 1
     },
     {
-        "question": "Advanced Question 22",
-        "options": [
-            "Option A22",
-            "Option B22",
-            "Option C22",
-            "Option D22"
-        ],
+        "question": "What is the typical coverage duration under 'Supplier's Premises Clause'?",
+        "options": ["Variable based on policy type", "12 months", "6 months", "Equal to the main indemnity period"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does the 'Time Deductible Clause' specify?",
+        "options": ["Reduction in turnover calculations", "Period before coverage applies", "Extended coverage beyond indemnity period", "Amount of time claims take for approval"],
         "correctIndex": 1
     },
     {
-        "question": "Advanced Question 23",
-        "options": [
-            "Option A23",
-            "Option B23",
-            "Option C23",
-            "Option D23"
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Advanced Question 24",
-        "options": [
-            "Option A24",
-            "Option B24",
-            "Option C24",
-            "Option D24"
-        ],
+        "question": "What is the 'Professional Fees Clause' designed to protect?",
+        "options": ["Consultants hired for machinery inspections", "Insurance broker commissions", "Auditor's fees for verifying claims and loss reports", "Lawyers' fees during litigation"],
         "correctIndex": 2
     },
     {
-        "question": "Advanced Question 25",
-        "options": [
-            "Option A25",
-            "Option B25",
-            "Option C25",
-            "Option D25"
-        ],
+        "question": "Which of the following defines the 'New Business Clause'?",
+        "options": ["Applies to businesses operating under different names", "Allows new businesses to exclude turnover from the first month", "Provides guidelines for businesses without prior trading figures", "Covers businesses with a long trading history"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What clause extends coverage to loss of utilities due to external damage?",
+        "options": ["Supplier's Extension Clause", "Infrastructure Clause", "Public Utilities Clause", "External Hazards Clause"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which clause applies when loss is sustained despite continuous operations?",
+        "options": ["Insurable Earnings Clause", "Customer Premises Clause", "Loss Avoidance Clause", "Turnover Maintenance Clause"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which coverage ensures fixed costs are accounted for in Gross Profit?",
+        "options": ["Turnover Inclusion", "Alternative Basis Clause", "Standing Charges Inclusion", "Wages Coverage"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the formula used to calculate indemnity when stock levels are reduced but turnover is maintained?",
+        "options": ["Turnover x Profit rate + Stock reduction deficit", "Profit rate x Turnover deficit", "Accumulated stock value - Variable cost", "Stock reduction x Average profit rate"],
         "correctIndex": 0
+    },
+    {
+        "question": "What does the 'Uninsured Standing Charges Clause' address?",
+        "options": ["Non-variable costs excluded from gross profit calculation", "Additional costs incurred during operational downtime", "Redundant costs excluded from turnover estimation", "Variable costs that are insured separately"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the typical premium rate loading for extended indemnity periods of over 24 months?",
+        "options": ["100%", "75%", "50%", "25%"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the most critical element when defining 'Indemnity Period'?",
+        "options": ["Turnover decline rate", "Time taken to resume normal operations", "Stock replenishment speed", "Claims settlement speed"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the significance of the 'Standing Charges Clause' in profit policies?",
+        "options": ["Adjusts turnover for seasonal losses", "Ensures inclusion of fixed expenses", "Determines maximum indemnity", "Excludes wages from fixed cost"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which clause enables proportional indemnity in case of partial damage?",
+        "options": ["Trends Adjustment Clause", "Pro-Rata Adjustment Clause", "Partial Damage Clause", "Alternative Basis Clause"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the adjustment factor in 'Average Clause' for underinsured policies?",
+        "options": ["Sum insured / Value at risk", "Total loss / Actual loss", "Value insured / Sum insured", "Turnover reduction / Average standing charges"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following does NOT typically fall under Gross Revenue Policies?",
+        "options": ["Clubs", "Construction Companies", "Hotels", "Event Management Firms"],
+        "correctIndex": 1
     }
 ]
