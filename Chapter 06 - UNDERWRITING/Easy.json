@@ -1,252 +1,127 @@
 [
     {
-        "question": "What is the purpose of 'Fixing of retention limits'?",
-        "options": [
-            "The main goal or explanation of fixing of retention limits.",
-            "A term unrelated to fixing of retention limits.",
-            "A partially correct explanation of fixing of retention limits.",
-            "An irrelevant concept not tied to fixing of retention limits."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Definition of PML (Probable Maximum Loss)'?",
-        "options": [
-            "A term unrelated to definition of pml (probable maximum loss).",
-            "A partially correct explanation of definition of pml (probable maximum loss).",
-            "The main goal or explanation of definition of pml (probable maximum loss).",
-            "An irrelevant concept not tied to definition of pml (probable maximum loss)."
-        ],
+        "question": "What is underwriting broadly concerned with?",
+        "options": ["Marketing insurance policies", "Setting up claim processes", "Accepting or rejecting risks", "Hiring insurance agents"],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Surplus Treaty'?",
-        "options": [
-            "The main goal or explanation of surplus treaty.",
-            "A term unrelated to surplus treaty.",
-            "A partially correct explanation of surplus treaty.",
-            "An irrelevant concept not tied to surplus treaty."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'International classification by CRESTA'?",
-        "options": [
-            "A term unrelated to international classification by cresta.",
-            "An irrelevant concept not tied to international classification by cresta.",
-            "A partially correct explanation of international classification by cresta.",
-            "The main goal or explanation of international classification by cresta."
-        ],
+        "question": "What is a key objective of underwriting?",
+        "options": ["Increasing the claims ratio", "Reducing employee costs", "Providing discounts to policyholders", "Earning a reasonable profit"],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Indian fire reinsurance programme'?",
-        "options": [
-            "A partially correct explanation of indian fire reinsurance programme.",
-            "An irrelevant concept not tied to indian fire reinsurance programme.",
-            "The main goal or explanation of indian fire reinsurance programme.",
-            "A term unrelated to indian fire reinsurance programme."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Retention and reinsurance'?",
-        "options": [
-            "A partially correct explanation of retention and reinsurance.",
-            "The main goal or explanation of retention and reinsurance.",
-            "A term unrelated to retention and reinsurance.",
-            "An irrelevant concept not tied to retention and reinsurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Objectives of underwriting'?",
-        "options": [
-            "The main goal or explanation of objectives of underwriting.",
-            "A term unrelated to objectives of underwriting.",
-            "A partially correct explanation of objectives of underwriting.",
-            "An irrelevant concept not tied to objectives of underwriting."
-        ],
+        "question": "What does the term 'retention' refer to in underwriting?",
+        "options": ["The amount of risk an insurer keeps for itself", "The claims approved in a year", "The fees paid to reinsurers", "The premium paid by policyholders"],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Methods of reinsurance'?",
-        "options": [
-            "A term unrelated to methods of reinsurance.",
-            "The main goal or explanation of methods of reinsurance.",
-            "An irrelevant concept not tied to methods of reinsurance.",
-            "A partially correct explanation of methods of reinsurance."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Quota Share Treaty'?",
-        "options": [
-            "An irrelevant concept not tied to quota share treaty.",
-            "A partially correct explanation of quota share treaty.",
-            "The main goal or explanation of quota share treaty.",
-            "A term unrelated to quota share treaty."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Principles of prudent underwriting'?",
-        "options": [
-            "The main goal or explanation of principles of prudent underwriting.",
-            "A term unrelated to principles of prudent underwriting.",
-            "A partially correct explanation of principles of prudent underwriting.",
-            "An irrelevant concept not tied to principles of prudent underwriting."
-        ],
+        "question": "What is the primary purpose of reinsurance?",
+        "options": ["To reduce the insurer's liability", "To eliminate underwriting risks", "To increase policyholder coverage", "To create new insurance policies"],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Treaty reinsurance'?",
-        "options": [
-            "An irrelevant concept not tied to treaty reinsurance.",
-            "A partially correct explanation of treaty reinsurance.",
-            "The main goal or explanation of treaty reinsurance.",
-            "A term unrelated to treaty reinsurance."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Selection of business in underwriting'?",
-        "options": [
-            "A partially correct explanation of selection of business in underwriting.",
-            "The main goal or explanation of selection of business in underwriting.",
-            "A term unrelated to selection of business in underwriting.",
-            "An irrelevant concept not tied to selection of business in underwriting."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Catastrophe perils in India'?",
-        "options": [
-            "A term unrelated to catastrophe perils in india.",
-            "A partially correct explanation of catastrophe perils in india.",
-            "The main goal or explanation of catastrophe perils in india.",
-            "An irrelevant concept not tied to catastrophe perils in india."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'CAT XoL (Catastrophe Excess of Loss)'?",
-        "options": [
-            "A partially correct explanation of cat xol (catastrophe excess of loss).",
-            "A term unrelated to cat xol (catastrophe excess of loss).",
-            "An irrelevant concept not tied to cat xol (catastrophe excess of loss).",
-            "The main goal or explanation of cat xol (catastrophe excess of loss)."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'New regulations for fire underwriting'?",
-        "options": [
-            "A partially correct explanation of new regulations for fire underwriting.",
-            "The main goal or explanation of new regulations for fire underwriting.",
-            "A term unrelated to new regulations for fire underwriting.",
-            "An irrelevant concept not tied to new regulations for fire underwriting."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Geographical distribution of risks'?",
-        "options": [
-            "The main goal or explanation of geographical distribution of risks.",
-            "An irrelevant concept not tied to geographical distribution of risks.",
-            "A term unrelated to geographical distribution of risks.",
-            "A partially correct explanation of geographical distribution of risks."
-        ],
+        "question": "What is the main goal of geographical distribution of risks in underwriting?",
+        "options": ["To spread risks across different territories", "To increase premium rates", "To avoid small claims", "To reduce marketing costs"],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Underwriting factors'?",
-        "options": [
-            "A term unrelated to underwriting factors.",
-            "An irrelevant concept not tied to underwriting factors.",
-            "A partially correct explanation of underwriting factors.",
-            "The main goal or explanation of underwriting factors."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Concept of underwriting'?",
-        "options": [
-            "A partially correct explanation of concept of underwriting.",
-            "An irrelevant concept not tied to concept of underwriting.",
-            "The main goal or explanation of concept of underwriting.",
-            "A term unrelated to concept of underwriting."
-        ],
+        "question": "What is the meaning of PML in underwriting?",
+        "options": ["Policy Management Liability", "Premium Management Loss", "Probable Maximum Loss", "Potential Market Loss"],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Corporate governance in underwriting'?",
-        "options": [
-            "A term unrelated to corporate governance in underwriting.",
-            "A partially correct explanation of corporate governance in underwriting.",
-            "The main goal or explanation of corporate governance in underwriting.",
-            "An irrelevant concept not tied to corporate governance in underwriting."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'PML assessment factors'?",
-        "options": [
-            "A partially correct explanation of pml assessment factors.",
-            "The main goal or explanation of pml assessment factors.",
-            "An irrelevant concept not tied to pml assessment factors.",
-            "A term unrelated to pml assessment factors."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Regulations in fire insurance underwriting'?",
-        "options": [
-            "A term unrelated to regulations in fire insurance underwriting.",
-            "An irrelevant concept not tied to regulations in fire insurance underwriting.",
-            "A partially correct explanation of regulations in fire insurance underwriting.",
-            "The main goal or explanation of regulations in fire insurance underwriting."
-        ],
+        "question": "What is a facultative reinsurance method?",
+        "options": ["Reinsuring claims only", "Reinsuring all risks automatically", "Reinsuring based on region", "Reinsuring individual risks selectively"],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Facultative reinsurance'?",
-        "options": [
-            "A term unrelated to facultative reinsurance.",
-            "An irrelevant concept not tied to facultative reinsurance.",
-            "A partially correct explanation of facultative reinsurance.",
-            "The main goal or explanation of facultative reinsurance."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Non-proportional treaties'?",
-        "options": [
-            "A partially correct explanation of non-proportional treaties.",
-            "An irrelevant concept not tied to non-proportional treaties.",
-            "The main goal or explanation of non-proportional treaties.",
-            "A term unrelated to non-proportional treaties."
-        ],
+        "question": "What type of stocks are considered to burn with great intensity?",
+        "options": ["Flour and tobacco", "Crockery and clocks", "Spirits and celluloid", "Metal goods and hardware"],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Excess of loss treaty'?",
-        "options": [
-            "An irrelevant concept not tied to excess of loss treaty.",
-            "The main goal or explanation of excess of loss treaty.",
-            "A term unrelated to excess of loss treaty.",
-            "A partially correct explanation of excess of loss treaty."
-        ],
+        "question": "What does a Quota Share Treaty involve?",
+        "options": ["Reducing claims for specific risks", "Sharing a fixed proportion of all risks", "Fixing premium amounts for all policies", "Excluding high-risk policies"],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Class-wise distribution of risks'?",
-        "options": [
-            "A partially correct explanation of class-wise distribution of risks.",
-            "The main goal or explanation of class-wise distribution of risks.",
-            "An irrelevant concept not tied to class-wise distribution of risks.",
-            "A term unrelated to class-wise distribution of risks."
-        ],
+        "question": "What is the purpose of a surplus treaty?",
+        "options": ["To reinsure amounts beyond the insurer's retention", "To eliminate low-risk policies", "To manage policyholder discounts", "To avoid claims for catastrophic losses"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a key feature of proportional treaties?",
+        "options": ["Premiums and losses are shared in proportion", "Claims are rejected automatically", "Losses are fully borne by the reinsurer", "Premiums are fixed for all policies"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'fire protection' evaluation include in underwriting?",
+        "options": ["Evaluating employee insurance", "Assessing fire extinguishing systems", "Inspecting electrical appliances", "Measuring building heights"],
         "correctIndex": 1
+    },
+    {
+        "question": "What is a critical factor in assessing 'construction and occupancy'?",
+        "options": ["The proximity to other properties", "The number of employees in the building", "The type of building materials used", "The location of the nearest fire station"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the purpose of the 'burning cost' method?",
+        "options": ["To estimate claim settlement time", "To eliminate catastrophic claims", "To calculate premiums for excess loss covers", "To reduce premiums for high-risk policies"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is an example of a non-proportional treaty?",
+        "options": ["Quota Share Treaty", "Surplus Treaty", "Excess of Loss Treaty", "Facultative Reinsurance"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a key characteristic of catastrophe reinsurance?",
+        "options": ["It applies to only one specific policy", "It is mandatory for all insurers", "It covers losses from natural and manmade disasters", "It excludes all small claims"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does CRESTA primarily focus on?",
+        "options": ["Calculating global premium rates", "Standardizing accumulation risk data", "Creating new reinsurance treaties", "Monitoring insurance agent performance"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of obligatory cessions in India?",
+        "options": ["To maximize retention within the country", "To eliminate small claims", "To fix premium rates across all policies", "To reduce the number of reinsurers"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main goal of the Indian Fire Reinsurance Programme?",
+        "options": ["To increase insurance claims", "To create more insurance policies", "To reduce foreign exchange outgo", "To eliminate underwriting risks"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What type of products are 'internal tariff rated' products?",
+        "options": ["Policies with high claim frequency", "Standard products with predefined rates", "Custom-designed policies for individuals", "Risk-based products for unique risks"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'risk management' aim to achieve in underwriting?",
+        "options": ["Reducing the number of policies issued", "Transferring financial losses caused by risks", "Increasing marketing budgets", "Eliminating claims for all risks"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary purpose of reinsurance treaties?",
+        "options": ["To provide automatic premium discounts", "To spread risks among multiple insurers", "To avoid claims for catastrophic losses", "To reduce underwriting expenses"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'non-risk booked risks' refer to?",
+        "options": ["Policies for high-risk properties", "Policies with large claims history", "Policies with a sum insured up to Rs. 30 crores", "Policies involving reinsurance treaties"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a 'Listed Risk' in Indian underwriting?",
+        "options": ["A low-risk property", "A claim-free policy", "A risk with a PML greater than Rs. 26 crores", "A policy with a sum insured below Rs. 30 crores"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does 'corporate governance' in underwriting emphasize?",
+        "options": ["Increasing the number of insurance policies", "Eliminating underwriting audits", "Board involvement in underwriting philosophy", "Reducing premium rates for customers"],
+        "correctIndex": 2
     }
 ]

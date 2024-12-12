@@ -1,252 +1,242 @@
 [
     {
-        "question": "In the context of insurance claims, how does 'Rules for claims marked 'Without Prejudice'' specifically contribute to complex claim evaluations?",
+        "question": "What does the principle of proximate cause prioritize in claim settlement?",
         "options": [
-            "A general description of rules for claims marked 'without prejudice' lacking detail.",
-            "A detailed explanation of rules for claims marked 'without prejudice' in specialized claim scenarios.",
-            "An inaccurate interpretation of rules for claims marked 'without prejudice' in advanced cases.",
-            "A partially correct explanation of rules for claims marked 'without prejudice' missing key nuances."
+            "Determining the insured's financial status",
+            "Identifying the nearest event to the loss",
+            "Determining the dominant cause directly responsible for the loss",
+            "Assessing all indirect causes leading to the loss"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Why might an insurer invoke the average clause in fire insurance claims?",
+        "options": [
+            "To settle claims faster",
+            "To penalize the insured for underinsurance",
+            "To exclude salvage from the claim amount",
+            "To compensate for moral hazard"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of insurance claims, how does 'Meaning of value of property in insurance' specifically contribute to complex claim evaluations?",
+        "question": "What is the insurer's obligation under the principle of subrogation?",
         "options": [
-            "A detailed explanation of meaning of value of property in insurance in specialized claim scenarios.",
-            "A general description of meaning of value of property in insurance lacking detail.",
-            "An inaccurate interpretation of meaning of value of property in insurance in advanced cases.",
-            "A partially correct explanation of meaning of value of property in insurance missing key nuances."
+            "To claim the insured's rights against a third party after payment of the claim",
+            "To pay claims only when salvage is recovered",
+            "To prioritize smaller claims over larger ones",
+            "To ensure the insured has no further obligations"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Principle of indemnity' specifically contribute to complex claim evaluations?",
+        "question": "What distinguishes a valued policy from a reinstatement value policy?",
         "options": [
-            "A detailed explanation of principle of indemnity in specialized claim scenarios.",
-            "An inaccurate interpretation of principle of indemnity in advanced cases.",
-            "A partially correct explanation of principle of indemnity missing key nuances.",
-            "A general description of principle of indemnity lacking detail."
+            "A valued policy pays a pre-agreed sum irrespective of the actual loss",
+            "A valued policy includes depreciation in its calculations",
+            "A reinstatement value policy always excludes salvage",
+            "A reinstatement value policy is only for businesses"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Principle of contribution' specifically contribute to complex claim evaluations?",
+        "question": "What is a key factor in determining the proximate cause of loss?",
         "options": [
-            "A general description of principle of contribution lacking detail.",
-            "An inaccurate interpretation of principle of contribution in advanced cases.",
-            "A detailed explanation of principle of contribution in specialized claim scenarios.",
-            "A partially correct explanation of principle of contribution missing key nuances."
+            "The chronological order of events leading to the loss",
+            "The timing of the insurance policy",
+            "The cause that had the most significant impact on the loss",
+            "All potential causes, regardless of impact"
         ],
         "correctIndex": 2
     },
     {
-        "question": "In the context of insurance claims, how does 'Principle of subrogation' specifically contribute to complex claim evaluations?",
+        "question": "What does 'contribution' ensure in co-insurance arrangements?",
         "options": [
-            "A partially correct explanation of principle of subrogation missing key nuances.",
-            "A general description of principle of subrogation lacking detail.",
-            "An inaccurate interpretation of principle of subrogation in advanced cases.",
-            "A detailed explanation of principle of subrogation in specialized claim scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Legal aspects of claims processing' specifically contribute to complex claim evaluations?",
-        "options": [
-            "An inaccurate interpretation of legal aspects of claims processing in advanced cases.",
-            "A detailed explanation of legal aspects of claims processing in specialized claim scenarios.",
-            "A partially correct explanation of legal aspects of claims processing missing key nuances.",
-            "A general description of legal aspects of claims processing lacking detail."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Rights under condition 7 of the fire policy' specifically contribute to complex claim evaluations?",
-        "options": [
-            "An inaccurate interpretation of rights under condition 7 of the fire policy in advanced cases.",
-            "A partially correct explanation of rights under condition 7 of the fire policy missing key nuances.",
-            "A detailed explanation of rights under condition 7 of the fire policy in specialized claim scenarios.",
-            "A general description of rights under condition 7 of the fire policy lacking detail."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Ex-gratia payments' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A general description of ex-gratia payments lacking detail.",
-            "A detailed explanation of ex-gratia payments in specialized claim scenarios.",
-            "An inaccurate interpretation of ex-gratia payments in advanced cases.",
-            "A partially correct explanation of ex-gratia payments missing key nuances."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Market value and actual cash value' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A detailed explanation of market value and actual cash value in specialized claim scenarios.",
-            "An inaccurate interpretation of market value and actual cash value in advanced cases.",
-            "A partially correct explanation of market value and actual cash value missing key nuances.",
-            "A general description of market value and actual cash value lacking detail."
+            "Each insurer shares the claim liability proportionately",
+            "All insurers pay equal amounts regardless of policy terms",
+            "One insurer pays the entire claim amount",
+            "The insured contributes to the premium payment"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Doctrine of proximate cause' specifically contribute to complex claim evaluations?",
+        "question": "What is the purpose of including warranties in fire policies?",
         "options": [
-            "An inaccurate interpretation of doctrine of proximate cause in advanced cases.",
-            "A general description of doctrine of proximate cause lacking detail.",
-            "A partially correct explanation of doctrine of proximate cause missing key nuances.",
-            "A detailed explanation of doctrine of proximate cause in specialized claim scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Fire policy limitations and exclusions' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A general description of fire policy limitations and exclusions lacking detail.",
-            "A partially correct explanation of fire policy limitations and exclusions missing key nuances.",
-            "An inaccurate interpretation of fire policy limitations and exclusions in advanced cases.",
-            "A detailed explanation of fire policy limitations and exclusions in specialized claim scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Duties of the insured' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A partially correct explanation of duties of the insured missing key nuances.",
-            "A general description of duties of the insured lacking detail.",
-            "A detailed explanation of duties of the insured in specialized claim scenarios.",
-            "An inaccurate interpretation of duties of the insured in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Determining the proximate cause' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A general description of determining the proximate cause lacking detail.",
-            "A partially correct explanation of determining the proximate cause missing key nuances.",
-            "An inaccurate interpretation of determining the proximate cause in advanced cases.",
-            "A detailed explanation of determining the proximate cause in specialized claim scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Onus of proof in fire insurance claims' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A partially correct explanation of onus of proof in fire insurance claims missing key nuances.",
-            "A detailed explanation of onus of proof in fire insurance claims in specialized claim scenarios.",
-            "A general description of onus of proof in fire insurance claims lacking detail.",
-            "An inaccurate interpretation of onus of proof in fire insurance claims in advanced cases."
+            "To allow flexibility in policy terms",
+            "To make specific conditions legally binding for coverage",
+            "To determine premium adjustments for high-value risks",
+            "To exclude indirect losses from the policy"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of insurance claims, how does 'Valuation of stock-in-trade' specifically contribute to complex claim evaluations?",
+        "question": "What is the primary limitation of indemnity in fire insurance?",
         "options": [
-            "A general description of valuation of stock-in-trade lacking detail.",
-            "A detailed explanation of valuation of stock-in-trade in specialized claim scenarios.",
-            "A partially correct explanation of valuation of stock-in-trade missing key nuances.",
-            "An inaccurate interpretation of valuation of stock-in-trade in advanced cases."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Role of consequential loss policies' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A partially correct explanation of role of consequential loss policies missing key nuances.",
-            "A general description of role of consequential loss policies lacking detail.",
-            "A detailed explanation of role of consequential loss policies in specialized claim scenarios.",
-            "An inaccurate interpretation of role of consequential loss policies in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Depreciation and betterment' specifically contribute to complex claim evaluations?",
-        "options": [
-            "An inaccurate interpretation of depreciation and betterment in advanced cases.",
-            "A general description of depreciation and betterment lacking detail.",
-            "A detailed explanation of depreciation and betterment in specialized claim scenarios.",
-            "A partially correct explanation of depreciation and betterment missing key nuances."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Definition of warranties' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A detailed explanation of definition of warranties in specialized claim scenarios.",
-            "An inaccurate interpretation of definition of warranties in advanced cases.",
-            "A partially correct explanation of definition of warranties missing key nuances.",
-            "A general description of definition of warranties lacking detail."
+            "It only covers the market value of the property at the time of loss",
+            "It automatically includes all indirect losses",
+            "It excludes claims for underinsured properties",
+            "It always compensates the insured at the policy's maximum limit"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Warranties in fire insurance' specifically contribute to complex claim evaluations?",
+        "question": "What must be established to invoke subrogation rights?",
         "options": [
-            "A general description of warranties in fire insurance lacking detail.",
-            "A partially correct explanation of warranties in fire insurance missing key nuances.",
-            "An inaccurate interpretation of warranties in fire insurance in advanced cases.",
-            "A detailed explanation of warranties in fire insurance in specialized claim scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Reinstatement value policies' specifically contribute to complex claim evaluations?",
-        "options": [
-            "An inaccurate interpretation of reinstatement value policies in advanced cases.",
-            "A detailed explanation of reinstatement value policies in specialized claim scenarios.",
-            "A general description of reinstatement value policies lacking detail.",
-            "A partially correct explanation of reinstatement value policies missing key nuances."
+            "That the insured acted negligently",
+            "That the loss was caused by a third party",
+            "That the insured was underinsured",
+            "That the policy included a reinstatement clause"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of insurance claims, how does 'Rules of interpretation of policies' specifically contribute to complex claim evaluations?",
+        "question": "What distinguishes a consequential loss from a direct loss?",
         "options": [
-            "A partially correct explanation of rules of interpretation of policies missing key nuances.",
-            "A general description of rules of interpretation of policies lacking detail.",
-            "A detailed explanation of rules of interpretation of policies in specialized claim scenarios.",
-            "An inaccurate interpretation of rules of interpretation of policies in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Rights of insurers' specifically contribute to complex claim evaluations?",
-        "options": [
-            "An inaccurate interpretation of rights of insurers in advanced cases.",
-            "A general description of rights of insurers lacking detail.",
-            "A detailed explanation of rights of insurers in specialized claim scenarios.",
-            "A partially correct explanation of rights of insurers missing key nuances."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of insurance claims, how does 'Role of salvage in indemnity' specifically contribute to complex claim evaluations?",
-        "options": [
-            "A detailed explanation of role of salvage in indemnity in specialized claim scenarios.",
-            "A general description of role of salvage in indemnity lacking detail.",
-            "An inaccurate interpretation of role of salvage in indemnity in advanced cases.",
-            "A partially correct explanation of role of salvage in indemnity missing key nuances."
+            "A consequential loss arises indirectly from the insured peril",
+            "A consequential loss is fully covered by standard fire policies",
+            "A direct loss is always more significant than a consequential loss",
+            "A consequential loss is limited to market value only"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Importance of timely claim notices' specifically contribute to complex claim evaluations?",
+        "question": "What does the reinstatement value clause exclude from compensation?",
         "options": [
-            "An inaccurate interpretation of importance of timely claim notices in advanced cases.",
-            "A general description of importance of timely claim notices lacking detail.",
-            "A partially correct explanation of importance of timely claim notices missing key nuances.",
-            "A detailed explanation of importance of timely claim notices in specialized claim scenarios."
+            "Depreciation for wear and tear",
+            "Costs associated with salvage recovery",
+            "Expenses related to claim processing",
+            "Losses caused by negligence"
         ],
-        "correctIndex": 3
+        "correctIndex": 0
     },
     {
-        "question": "In the context of insurance claims, how does 'Role of maintenance in claims assessments' specifically contribute to complex claim evaluations?",
+        "question": "How does the excess clause affect claims processing?",
         "options": [
-            "A partially correct explanation of role of maintenance in claims assessments missing key nuances.",
-            "A detailed explanation of role of maintenance in claims assessments in specialized claim scenarios.",
-            "A general description of role of maintenance in claims assessments lacking detail.",
-            "An inaccurate interpretation of role of maintenance in claims assessments in advanced cases."
+            "It reduces the claim amount by a fixed excess for each claim",
+            "It mandates the insured to bear all costs of salvage",
+            "It requires insurers to approve claims above the policy limit",
+            "It eliminates the need for subrogation rights"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What happens if a breach of warranty does not cause the loss?",
+        "options": [
+            "The insurer can still deny the claim based on the breach",
+            "The warranty is automatically nullified",
+            "The claim is processed as if no breach occurred",
+            "The insured must pay an additional premium"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why might ex-gratia payments be offered by an insurer?",
+        "options": [
+            "To encourage the insured to renew their policy",
+            "To settle claims outside the scope of the policy as a goodwill gesture",
+            "To cover indirect losses not included in the fire policy",
+            "To offset costs related to moral hazard"
         ],
         "correctIndex": 1
+    },
+    {
+        "question": "What role does salvage play in claim settlement?",
+        "options": [
+            "It reduces the claim amount by the salvage value",
+            "It increases the total claim payable",
+            "It nullifies the insurer’s liability under subrogation",
+            "It ensures full compensation for all insured items"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary reason for applying the average clause?",
+        "options": [
+            "To penalize underinsurance and reduce claim payouts proportionally",
+            "To eliminate small claims automatically",
+            "To encourage higher premiums for high-risk properties",
+            "To ensure quicker claim processing"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes market value coverage from reinstatement value coverage?",
+        "options": [
+            "Market value considers depreciation, whereas reinstatement value provides full replacement costs",
+            "Reinstatement value excludes underinsurance, while market value does not",
+            "Market value applies only to businesses, while reinstatement value applies to individuals",
+            "Reinstatement value includes salvage deductions, while market value excludes them"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of the proximate cause doctrine in complex claims?",
+        "options": [
+            "To determine the financial responsibility of the insured",
+            "To identify the primary cause of the loss and exclude irrelevant factors",
+            "To categorize all contributing factors equally",
+            "To prioritize moral hazard over actual causes"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is a key characteristic of indemnity in fire insurance?",
+        "options": [
+            "It guarantees profit from the insured event",
+            "It limits claim payouts to the insured property's actual value",
+            "It automatically includes coverage for consequential losses",
+            "It excludes subrogation rights from claims"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What distinguishes salvage from ex-gratia payments?",
+        "options": [
+            "Salvage represents recoverable property, while ex-gratia payments are goodwill compensations",
+            "Ex-gratia payments offset salvage value losses",
+            "Salvage only applies to underinsured properties",
+            "Ex-gratia payments include salvage adjustments"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of warranties in fire insurance policies?",
+        "options": [
+            "To ensure compliance with specific conditions for the coverage to remain valid",
+            "To calculate premium adjustments for high-value properties",
+            "To categorize indirect losses under the claim",
+            "To prioritize the insured’s interests over the insurer's"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does contribution prevent unjust enrichment in co-insurance?",
+        "options": [
+            "By ensuring the insured cannot recover more than the actual loss",
+            "By reducing the total claim amount proportionally",
+            "By dividing liability equally among insurers regardless of terms",
+            "By capping claims to a fixed sum insured"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of a 'Without Prejudice' statement in claims correspondence?",
+        "options": [
+            "To confirm the insurer’s liability without investigation",
+            "To leave liability open while clarifying facts",
+            "To waive all conditions in the policy for goodwill",
+            "To reject claims without explanation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the impact of underinsurance on claim settlements?",
+        "options": [
+            "It triggers the average clause, reducing claim payouts proportionally",
+            "It voids all claims under the policy",
+            "It automatically increases the insured's premium for renewal",
+            "It excludes salvage from total claim value"
+        ],
+        "correctIndex": 0
     }
 ]

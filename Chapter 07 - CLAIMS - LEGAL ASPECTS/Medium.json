@@ -1,252 +1,242 @@
 [
     {
-        "question": "Which of the following best describes the application of 'Legal aspects of claims processing' in claims handling?",
+        "question": "What should an insured do immediately after a fire occurs?",
         "options": [
-            "A misleading concept regarding legal aspects of claims processing.",
-            "A vague explanation of legal aspects of claims processing unrelated to claims handling.",
-            "A precise explanation of legal aspects of claims processing with a practical application.",
-            "An incomplete interpretation of legal aspects of claims processing."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Principle of contribution' in claims handling?",
-        "options": [
-            "A misleading concept regarding principle of contribution.",
-            "An incomplete interpretation of principle of contribution.",
-            "A precise explanation of principle of contribution with a practical application.",
-            "A vague explanation of principle of contribution unrelated to claims handling."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Warranties in fire insurance' in claims handling?",
-        "options": [
-            "A vague explanation of warranties in fire insurance unrelated to claims handling.",
-            "An incomplete interpretation of warranties in fire insurance.",
-            "A misleading concept regarding warranties in fire insurance.",
-            "A precise explanation of warranties in fire insurance with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Definition of warranties' in claims handling?",
-        "options": [
-            "A vague explanation of definition of warranties unrelated to claims handling.",
-            "A misleading concept regarding definition of warranties.",
-            "A precise explanation of definition of warranties with a practical application.",
-            "An incomplete interpretation of definition of warranties."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Principle of indemnity' in claims handling?",
-        "options": [
-            "A vague explanation of principle of indemnity unrelated to claims handling.",
-            "An incomplete interpretation of principle of indemnity.",
-            "A precise explanation of principle of indemnity with a practical application.",
-            "A misleading concept regarding principle of indemnity."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Duties of the insured' in claims handling?",
-        "options": [
-            "An incomplete interpretation of duties of the insured.",
-            "A vague explanation of duties of the insured unrelated to claims handling.",
-            "A precise explanation of duties of the insured with a practical application.",
-            "A misleading concept regarding duties of the insured."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Depreciation and betterment' in claims handling?",
-        "options": [
-            "A precise explanation of depreciation and betterment with a practical application.",
-            "An incomplete interpretation of depreciation and betterment.",
-            "A misleading concept regarding depreciation and betterment.",
-            "A vague explanation of depreciation and betterment unrelated to claims handling."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Principle of subrogation' in claims handling?",
-        "options": [
-            "A precise explanation of principle of subrogation with a practical application.",
-            "A misleading concept regarding principle of subrogation.",
-            "A vague explanation of principle of subrogation unrelated to claims handling.",
-            "An incomplete interpretation of principle of subrogation."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Rights of insurers' in claims handling?",
-        "options": [
-            "A vague explanation of rights of insurers unrelated to claims handling.",
-            "A precise explanation of rights of insurers with a practical application.",
-            "A misleading concept regarding rights of insurers.",
-            "An incomplete interpretation of rights of insurers."
+            "Contact the insurer directly",
+            "Take steps to extinguish the fire and protect salvage",
+            "Focus on finding temporary housing",
+            "File a claim without delay"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Rules of interpretation of policies' in claims handling?",
+        "question": "Which principle prevents the insured from making a profit out of their loss?",
         "options": [
-            "An incomplete interpretation of rules of interpretation of policies.",
-            "A vague explanation of rules of interpretation of policies unrelated to claims handling.",
-            "A precise explanation of rules of interpretation of policies with a practical application.",
-            "A misleading concept regarding rules of interpretation of policies."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Importance of timely claim notices' in claims handling?",
-        "options": [
-            "A vague explanation of importance of timely claim notices unrelated to claims handling.",
-            "A precise explanation of importance of timely claim notices with a practical application.",
-            "A misleading concept regarding importance of timely claim notices.",
-            "An incomplete interpretation of importance of timely claim notices."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Role of consequential loss policies' in claims handling?",
-        "options": [
-            "A vague explanation of role of consequential loss policies unrelated to claims handling.",
-            "A precise explanation of role of consequential loss policies with a practical application.",
-            "An incomplete interpretation of role of consequential loss policies.",
-            "A misleading concept regarding role of consequential loss policies."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "Which of the following best describes the application of 'Meaning of value of property in insurance' in claims handling?",
-        "options": [
-            "A precise explanation of meaning of value of property in insurance with a practical application.",
-            "A vague explanation of meaning of value of property in insurance unrelated to claims handling.",
-            "A misleading concept regarding meaning of value of property in insurance.",
-            "An incomplete interpretation of meaning of value of property in insurance."
+            "Principle of Indemnity",
+            "Principle of Contribution",
+            "Doctrine of Proximate Cause",
+            "Principle of Subrogation"
         ],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Role of maintenance in claims assessments' in claims handling?",
+        "question": "What is the insurer's right under the principle of subrogation?",
         "options": [
-            "A misleading concept regarding role of maintenance in claims assessments.",
-            "A precise explanation of role of maintenance in claims assessments with a practical application.",
-            "An incomplete interpretation of role of maintenance in claims assessments.",
-            "A vague explanation of role of maintenance in claims assessments unrelated to claims handling."
+            "To inspect the salvage",
+            "To recover the loss amount from a responsible third party",
+            "To increase the claim amount",
+            "To adjust the premium rate"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Onus of proof in fire insurance claims' in claims handling?",
+        "question": "What is the primary reason for including warranties in fire insurance policies?",
         "options": [
-            "A misleading concept regarding onus of proof in fire insurance claims.",
-            "An incomplete interpretation of onus of proof in fire insurance claims.",
-            "A vague explanation of onus of proof in fire insurance claims unrelated to claims handling.",
-            "A precise explanation of onus of proof in fire insurance claims with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Role of salvage in indemnity' in claims handling?",
-        "options": [
-            "A precise explanation of role of salvage in indemnity with a practical application.",
-            "An incomplete interpretation of role of salvage in indemnity.",
-            "A vague explanation of role of salvage in indemnity unrelated to claims handling.",
-            "A misleading concept regarding role of salvage in indemnity."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Fire policy limitations and exclusions' in claims handling?",
-        "options": [
-            "A precise explanation of fire policy limitations and exclusions with a practical application.",
-            "A vague explanation of fire policy limitations and exclusions unrelated to claims handling.",
-            "An incomplete interpretation of fire policy limitations and exclusions.",
-            "A misleading concept regarding fire policy limitations and exclusions."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Rules for claims marked 'Without Prejudice'' in claims handling?",
-        "options": [
-            "A misleading concept regarding rules for claims marked 'without prejudice'.",
-            "A vague explanation of rules for claims marked 'without prejudice' unrelated to claims handling.",
-            "An incomplete interpretation of rules for claims marked 'without prejudice'.",
-            "A precise explanation of rules for claims marked 'without prejudice' with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Rights under condition 7 of the fire policy' in claims handling?",
-        "options": [
-            "An incomplete interpretation of rights under condition 7 of the fire policy.",
-            "A vague explanation of rights under condition 7 of the fire policy unrelated to claims handling.",
-            "A misleading concept regarding rights under condition 7 of the fire policy.",
-            "A precise explanation of rights under condition 7 of the fire policy with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Valuation of stock-in-trade' in claims handling?",
-        "options": [
-            "A misleading concept regarding valuation of stock-in-trade.",
-            "An incomplete interpretation of valuation of stock-in-trade.",
-            "A vague explanation of valuation of stock-in-trade unrelated to claims handling.",
-            "A precise explanation of valuation of stock-in-trade with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Reinstatement value policies' in claims handling?",
-        "options": [
-            "A precise explanation of reinstatement value policies with a practical application.",
-            "An incomplete interpretation of reinstatement value policies.",
-            "A misleading concept regarding reinstatement value policies.",
-            "A vague explanation of reinstatement value policies unrelated to claims handling."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "Which of the following best describes the application of 'Market value and actual cash value' in claims handling?",
-        "options": [
-            "A misleading concept regarding market value and actual cash value.",
-            "A vague explanation of market value and actual cash value unrelated to claims handling.",
-            "A precise explanation of market value and actual cash value with a practical application.",
-            "An incomplete interpretation of market value and actual cash value."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Ex-gratia payments' in claims handling?",
-        "options": [
-            "A misleading concept regarding ex-gratia payments.",
-            "A precise explanation of ex-gratia payments with a practical application.",
-            "A vague explanation of ex-gratia payments unrelated to claims handling.",
-            "An incomplete interpretation of ex-gratia payments."
+            "To encourage higher premium payments",
+            "To ensure compliance with specific conditions for coverage",
+            "To allow insurers to reject claims arbitrarily",
+            "To simplify the claim settlement process"
         ],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Doctrine of proximate cause' in claims handling?",
+        "question": "Which of the following best describes salvage?",
         "options": [
-            "A misleading concept regarding doctrine of proximate cause.",
-            "An incomplete interpretation of doctrine of proximate cause.",
-            "A vague explanation of doctrine of proximate cause unrelated to claims handling.",
-            "A precise explanation of doctrine of proximate cause with a practical application."
+            "The total loss amount approved by the insurer",
+            "Property that survives a fire or is recoverable after damage",
+            "The estimated depreciation value of the property",
+            "Items excluded from insurance coverage"
         ],
-        "correctIndex": 3
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Determining the proximate cause' in claims handling?",
+        "question": "What is the purpose of the proximate cause doctrine?",
         "options": [
-            "An incomplete interpretation of determining the proximate cause.",
-            "A misleading concept regarding determining the proximate cause.",
-            "A precise explanation of determining the proximate cause with a practical application.",
-            "A vague explanation of determining the proximate cause unrelated to claims handling."
+            "To identify the dominant cause of a loss and determine liability",
+            "To calculate the insured's premium payment",
+            "To ensure all causes of loss are included in the claim",
+            "To confirm whether the policy was active at the time of loss"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the principle of contribution operate?",
+        "options": [
+            "The insurer pays the full claim amount and recovers from other insurers",
+            "Each insurer contributes proportionally to the loss based on the sum insured",
+            "The policyholder contributes to the claim amount",
+            "The insurer cancels duplicate policies"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is a key difference between market value and reinstatement value in insurance?",
+        "options": [
+            "Market value includes depreciation, whereas reinstatement value does not",
+            "Reinstatement value applies only to personal property",
+            "Market value excludes insured perils",
+            "Reinstatement value depends on policyholder preferences"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the function of the excess clause in fire insurance?",
+        "options": [
+            "To limit the claim amount to the policy's total sum insured",
+            "To set a deductible that the insured must pay for each claim",
+            "To eliminate low-value claims automatically",
+            "To increase the policy coverage for major losses"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does an 'ex-gratia' payment signify?",
+        "options": [
+            "An obligatory payment made under policy terms",
+            "A goodwill payment made without admitting liability",
+            "A mandatory refund for overpaid premiums",
+            "An automatic payment for salvage recovery"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What happens if an insured breaches a policy warranty?",
+        "options": [
+            "The insurer is entitled to void the policy even if the breach did not cause the loss",
+            "The insured automatically forfeits all claims under the policy",
+            "The insurer must still honor all claims",
+            "The warranty breach can be ignored for minor losses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How does the principle of indemnity prevent moral hazard?",
+        "options": [
+            "By capping claims at the market value of the insured property",
+            "By ensuring the insured cannot make a profit from the loss",
+            "By mandating the inclusion of depreciation values",
+            "By excluding indirect losses from the policy"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Why is salvage inspection crucial for claim settlement?",
+        "options": [
+            "It helps the insurer assess the total value of recoverable items",
+            "It determines the premium refund to the insured",
+            "It verifies the accuracy of the claim amount",
+            "It confirms compliance with warranty terms"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the insured's responsibility under the duty to mitigate loss?",
+        "options": [
+            "To report the loss immediately to the insurer",
+            "To take reasonable steps to minimize further loss",
+            "To provide detailed photographs of the damaged property",
+            "To ensure all damaged property is replaced immediately"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the 'doctrine of proximate cause' exclude from coverage?",
+        "options": [
+            "Remote or indirect causes not linked to the insured peril",
+            "Losses due to negligence by the insured",
+            "Any loss occurring after the policy expiration",
+            "All minor claims under the deductible limit"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the main purpose of a 'Without Prejudice' communication in claims?",
+        "options": [
+            "To confirm the insurer's liability under the policy",
+            "To allow liability to remain open while investigations continue",
+            "To ensure automatic acceptance of the insured's claim",
+            "To reject the claim based on initial findings"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What role does depreciation play in fire claims?",
+        "options": [
+            "It adjusts the replacement value to account for wear and tear",
+            "It increases the overall claim amount",
+            "It reduces the insured's premium payment",
+            "It is used to set salvage recovery limits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a consequential loss in fire insurance?",
+        "options": [
+            "A loss covered under the policy automatically",
+            "An indirect loss not covered by standard policies",
+            "The full destruction of insured property",
+            "A goodwill payment offered by the insurer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What happens if multiple insurers cover the same property?",
+        "options": [
+            "Each insurer pays their proportion of the claim under the principle of contribution",
+            "Only the primary insurer processes the claim",
+            "The insured chooses which insurer pays the full amount",
+            "The claim is rejected due to duplication"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of the reinstatement value clause?",
+        "options": [
+            "To reimburse the market value of the property at the time of loss",
+            "To exclude depreciation and provide replacement value for the insured item",
+            "To guarantee salvage recovery costs",
+            "To increase the policy coverage without premium adjustment"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How does the principle of subrogation protect insurers?",
+        "options": [
+            "It ensures insurers can recover the claim amount from responsible third parties",
+            "It prevents policyholders from filing fraudulent claims",
+            "It limits the insured’s ability to increase claim amounts",
+            "It excludes liability for indirect losses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the impact of underinsurance on fire claims?",
+        "options": [
+            "It results in proportional claim payments under the average clause",
+            "It voids the insurance policy entirely",
+            "It mandates the insured to pay all salvage costs",
+            "It automatically increases the insured's premium"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does 'market value' include in a fire policy?",
+        "options": [
+            "The total replacement cost without depreciation",
+            "The current resale value of the insured property",
+            "Future potential profits from the property",
+            "Salvage value deductions"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Why is the principle of contribution important in co-insurance?",
+        "options": [
+            "It ensures all claims are paid by a single insurer",
+            "It allows multiple insurers to share claim liabilities equitably",
+            "It mandates premium reductions for duplicate policies",
+            "It eliminates the need for salvage inspections"
+        ],
+        "correctIndex": 1
     }
 ]

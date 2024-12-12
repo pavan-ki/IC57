@@ -1,252 +1,127 @@
 [
     {
-        "question": "In the context of fire insurance, how does 'Meaning of declaration clause in a proposal form' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of meaning of declaration clause in a proposal form missing key details.",
-            "A misleading interpretation of meaning of declaration clause in a proposal form in advanced cases.",
-            "A general overview of meaning of declaration clause in a proposal form unrelated to complex scenarios.",
-            "A detailed and accurate application of meaning of declaration clause in a proposal form in advanced cases."
-        ],
+        "question": "What is the significance of the note on the fire proposal form regarding property coverage?",
+        "options": ["It allows coverage to start before premium payment", "It guarantees coverage even if the proposal is rejected", "It ensures immediate coverage upon proposal submission", "It clarifies that coverage begins only after acceptance and premium payment"],
         "correctIndex": 3
     },
     {
-        "question": "In the context of fire insurance, how does 'Differences between cover note and final policy' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of differences between cover note and final policy missing key details.",
-            "A general overview of differences between cover note and final policy unrelated to complex scenarios.",
-            "A detailed and accurate application of differences between cover note and final policy in advanced cases.",
-            "A misleading interpretation of differences between cover note and final policy in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Factors affecting premium determination' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of factors affecting premium determination unrelated to complex scenarios.",
-            "A partial description of factors affecting premium determination missing key details.",
-            "A misleading interpretation of factors affecting premium determination in advanced cases.",
-            "A detailed and accurate application of factors affecting premium determination in advanced cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Details about proposer in a proposal form' specifically apply in complex scenarios?",
-        "options": [
-            "A detailed and accurate application of details about proposer in a proposal form in advanced cases.",
-            "A general overview of details about proposer in a proposal form unrelated to complex scenarios.",
-            "A partial description of details about proposer in a proposal form missing key details.",
-            "A misleading interpretation of details about proposer in a proposal form in advanced cases."
-        ],
+        "question": "What specific information is required about fire protection devices in the proposal form?",
+        "options": ["Type and condition of devices", "Frequency of inspections", "Number of employees trained to use them", "Cost of installation"],
         "correctIndex": 0
     },
     {
-        "question": "In the context of fire insurance, how does 'Importance of risk improvement suggestions' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of importance of risk improvement suggestions missing key details.",
-            "A general overview of importance of risk improvement suggestions unrelated to complex scenarios.",
-            "A detailed and accurate application of importance of risk improvement suggestions in advanced cases.",
-            "A misleading interpretation of importance of risk improvement suggestions in advanced cases."
-        ],
-        "correctIndex": 2
+        "question": "What does the risk inspection report assess about electrical installations?",
+        "options": ["Age of the electrical system", "Compliance with government regulations", "Energy efficiency ratings", "Compatibility with solar power"],
+        "correctIndex": 1
     },
     {
-        "question": "In the context of fire insurance, how does 'Role of the Tariff Advisory Committee' specifically apply in complex scenarios?",
-        "options": [
-            "A detailed and accurate application of role of the tariff advisory committee in advanced cases.",
-            "A partial description of role of the tariff advisory committee missing key details.",
-            "A general overview of role of the tariff advisory committee unrelated to complex scenarios.",
-            "A misleading interpretation of role of the tariff advisory committee in advanced cases."
-        ],
+        "question": "Why might a warranty regarding non-hazardous goods storage be included in a fire policy?",
+        "options": ["To exclude goods from coverage", "To ensure lower premium rates", "To reduce the sum insured", "To provide additional tax benefits"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the impact of the declaration clause on the proposer?",
+        "options": ["It guarantees premium refunds in case of disputes", "It makes their statements legally binding", "It allows changes to be made to the proposal after acceptance", "It transfers liability to the insurer"],
+        "correctIndex": 1
+    },
+    {
+        "question": "How does the inspection report help in risk improvement?",
+        "options": ["By revising the sum insured", "By excluding high-risk blocks", "By automatically lowering premiums", "By suggesting risk reduction measures"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the purpose of a floater declaration basis in sum insured details?",
+        "options": ["To provide coverage for stock that fluctuates", "To limit coverage to a specific location", "To exclude high-value items", "To fix a single premium for multiple properties"],
         "correctIndex": 0
     },
     {
-        "question": "In the context of fire insurance, how does 'Objective of risk inspection report' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of objective of risk inspection report in advanced cases.",
-            "A general overview of objective of risk inspection report unrelated to complex scenarios.",
-            "A detailed and accurate application of objective of risk inspection report in advanced cases.",
-            "A partial description of objective of risk inspection report missing key details."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Examples of special clauses in insurance policies' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of examples of special clauses in insurance policies in advanced cases.",
-            "A partial description of examples of special clauses in insurance policies missing key details.",
-            "A general overview of examples of special clauses in insurance policies unrelated to complex scenarios.",
-            "A detailed and accurate application of examples of special clauses in insurance policies in advanced cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Role of housekeeping in insurance risk management' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of role of housekeeping in insurance risk management unrelated to complex scenarios.",
-            "A detailed and accurate application of role of housekeeping in insurance risk management in advanced cases.",
-            "A partial description of role of housekeeping in insurance risk management missing key details.",
-            "A misleading interpretation of role of housekeeping in insurance risk management in advanced cases."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Definition and significance of endorsements' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of definition and significance of endorsements in advanced cases.",
-            "A partial description of definition and significance of endorsements missing key details.",
-            "A general overview of definition and significance of endorsements unrelated to complex scenarios.",
-            "A detailed and accurate application of definition and significance of endorsements in advanced cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Key elements of a policy schedule' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of key elements of a policy schedule in advanced cases.",
-            "A detailed and accurate application of key elements of a policy schedule in advanced cases.",
-            "A partial description of key elements of a policy schedule missing key details.",
-            "A general overview of key elements of a policy schedule unrelated to complex scenarios."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Details of sum insured in a proposal form' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of details of sum insured in a proposal form unrelated to complex scenarios.",
-            "A detailed and accurate application of details of sum insured in a proposal form in advanced cases.",
-            "A partial description of details of sum insured in a proposal form missing key details.",
-            "A misleading interpretation of details of sum insured in a proposal form in advanced cases."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Warranties and clauses in fire insurance policies' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of warranties and clauses in fire insurance policies unrelated to complex scenarios.",
-            "A partial description of warranties and clauses in fire insurance policies missing key details.",
-            "A misleading interpretation of warranties and clauses in fire insurance policies in advanced cases.",
-            "A detailed and accurate application of warranties and clauses in fire insurance policies in advanced cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Purpose of renewal notices in insurance policies' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of purpose of renewal notices in insurance policies unrelated to complex scenarios.",
-            "A misleading interpretation of purpose of renewal notices in insurance policies in advanced cases.",
-            "A detailed and accurate application of purpose of renewal notices in insurance policies in advanced cases.",
-            "A partial description of purpose of renewal notices in insurance policies missing key details."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Scope of a risk inspection report' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of scope of a risk inspection report unrelated to complex scenarios.",
-            "A detailed and accurate application of scope of a risk inspection report in advanced cases.",
-            "A partial description of scope of a risk inspection report missing key details.",
-            "A misleading interpretation of scope of a risk inspection report in advanced cases."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Details of property in a proposal form' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of details of property in a proposal form missing key details.",
-            "A general overview of details of property in a proposal form unrelated to complex scenarios.",
-            "A detailed and accurate application of details of property in a proposal form in advanced cases.",
-            "A misleading interpretation of details of property in a proposal form in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Importance of moral hazard assessment' specifically apply in complex scenarios?",
-        "options": [
-            "A detailed and accurate application of importance of moral hazard assessment in advanced cases.",
-            "A misleading interpretation of importance of moral hazard assessment in advanced cases.",
-            "A general overview of importance of moral hazard assessment unrelated to complex scenarios.",
-            "A partial description of importance of moral hazard assessment missing key details."
-        ],
+        "question": "What specific detail is evaluated under the 'Exposure' section of the risk inspection report?",
+        "options": ["The construction and occupancy of adjacent buildings", "The tax status of adjacent buildings", "The height of nearby structures", "The cost of surrounding properties"],
         "correctIndex": 0
     },
     {
-        "question": "In the context of fire insurance, how does 'Role of inspection engineers in assessing risks' specifically apply in complex scenarios?",
-        "options": [
-            "A general overview of role of inspection engineers in assessing risks unrelated to complex scenarios.",
-            "A detailed and accurate application of role of inspection engineers in assessing risks in advanced cases.",
-            "A misleading interpretation of role of inspection engineers in assessing risks in advanced cases.",
-            "A partial description of role of inspection engineers in assessing risks missing key details."
-        ],
+        "question": "Why is the moral hazard assessment critical in the risk inspection report?",
+        "options": ["It determines the proposer's net worth", "It evaluates the proposer's reliability and commercial standing", "It confirms the validity of the sum insured", "It identifies potential tax fraud"],
         "correctIndex": 1
     },
     {
-        "question": "In the context of fire insurance, how does 'Coverage in a fire insurance policy proposal form' specifically apply in complex scenarios?",
-        "options": [
-            "A detailed and accurate application of coverage in a fire insurance policy proposal form in advanced cases.",
-            "A partial description of coverage in a fire insurance policy proposal form missing key details.",
-            "A general overview of coverage in a fire insurance policy proposal form unrelated to complex scenarios.",
-            "A misleading interpretation of coverage in a fire insurance policy proposal form in advanced cases."
-        ],
+        "question": "What is a significant challenge in assessing moral hazard?",
+        "options": ["Its intangible nature", "Inconsistent insurance laws", "The lack of legal guidelines", "The high cost of assessments"],
         "correctIndex": 0
     },
     {
-        "question": "In the context of fire insurance, how does 'Impact of the Insurance Act 1938 on proposal processing' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of impact of the insurance act 1938 on proposal processing missing key details.",
-            "A general overview of impact of the insurance act 1938 on proposal processing unrelated to complex scenarios.",
-            "A detailed and accurate application of impact of the insurance act 1938 on proposal processing in advanced cases.",
-            "A misleading interpretation of impact of the insurance act 1938 on proposal processing in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Contents of a cover note' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of contents of a cover note missing key details.",
-            "A detailed and accurate application of contents of a cover note in advanced cases.",
-            "A misleading interpretation of contents of a cover note in advanced cases.",
-            "A general overview of contents of a cover note unrelated to complex scenarios."
-        ],
+        "question": "What does the 'probable maximum loss' in the inspection report indicate?",
+        "options": ["The total value of insured property", "The potential loss under worst-case scenarios", "The annual insurance payout limit", "The highest premium that can be charged"],
         "correctIndex": 1
     },
     {
-        "question": "In the context of fire insurance, how does 'Examples of endorsements in insurance policies' specifically apply in complex scenarios?",
-        "options": [
-            "A partial description of examples of endorsements in insurance policies missing key details.",
-            "A misleading interpretation of examples of endorsements in insurance policies in advanced cases.",
-            "A general overview of examples of endorsements in insurance policies unrelated to complex scenarios.",
-            "A detailed and accurate application of examples of endorsements in insurance policies in advanced cases."
-        ],
-        "correctIndex": 3
+        "question": "Which clause binds the proposer to follow terms of the policy in the cover note?",
+        "options": ["Cover clause", "Premium clause", "Operative clause", "Binding clause"],
+        "correctIndex": 2
     },
     {
-        "question": "In the context of fire insurance, how does 'Fire protection devices and systems' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of fire protection devices and systems in advanced cases.",
-            "A general overview of fire protection devices and systems unrelated to complex scenarios.",
-            "A partial description of fire protection devices and systems missing key details.",
-            "A detailed and accurate application of fire protection devices and systems in advanced cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of fire insurance, how does 'Description of block-wise risk assessment' specifically apply in complex scenarios?",
-        "options": [
-            "A detailed and accurate application of description of block-wise risk assessment in advanced cases.",
-            "A misleading interpretation of description of block-wise risk assessment in advanced cases.",
-            "A general overview of description of block-wise risk assessment unrelated to complex scenarios.",
-            "A partial description of description of block-wise risk assessment missing key details."
-        ],
+        "question": "Why is a detailed plan of the premises included in the inspection report?",
+        "options": ["To facilitate policy drafting and risk assessment", "To calculate the cost of repairs", "To simplify tax assessments", "To ensure aesthetic approval of the property"],
         "correctIndex": 0
     },
     {
-        "question": "In the context of fire insurance, how does 'Process of drafting a policy' specifically apply in complex scenarios?",
-        "options": [
-            "A misleading interpretation of process of drafting a policy in advanced cases.",
-            "A general overview of process of drafting a policy unrelated to complex scenarios.",
-            "A detailed and accurate application of process of drafting a policy in advanced cases.",
-            "A partial description of process of drafting a policy missing key details."
-        ],
+        "question": "What is the purpose of the Agreed Bank Clause in fire insurance?",
+        "options": ["To fix interest rates on insured loans", "To exclude bank-owned properties from coverage", "To protect the bank's financial interest in the insured property", "To provide discounts on premiums for bank customers"],
         "correctIndex": 2
+    },
+    {
+        "question": "Which condition is NOT part of the construction warranty in fire policies?",
+        "options": ["Prohibition of kutcha materials", "Regular repainting of walls", "Prohibition of thatched leaves in construction", "Use of non-flammable walls"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Why are endorsements issued for insurance policies?",
+        "options": ["To refund excess premiums", "To make changes to specific policy details", "To cancel the policy due to non-payment", "To issue duplicate policy documents"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What type of information is required under 'Risk Description' in the policy schedule?",
+        "options": ["Estimated value of adjacent properties", "Proposer's financial standing", "Block-wise sum insured and applicable warranties", "Current market trends"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a significant purpose of warranties in fire insurance policies?",
+        "options": ["To guarantee automatic claim approval", "To impose specific conditions linked to premium rates", "To exclude the need for inspections", "To reduce the sum insured automatically"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What key aspect of fire protection is evaluated in the risk inspection?",
+        "options": ["Monthly operational costs", "Age of the firefighting system", "Accessibility of hydrants", "Ownership of firefighting equipment"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is a limitation of the Renewal Notice?",
+        "options": ["It mandates an increase in premiums", "It excludes previous endorsements", "It is not legally binding on insurers", "It requires re-evaluation of the property"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which policy detail is typically unique to manufacturing risks?",
+        "options": ["Higher moral hazard assessments", "Flat premium rates across all blocks", "Block descriptions for buildings and equipment", "Exclusion of specific warranties"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Why is the process of manufacture assessed in the risk inspection report?",
+        "options": ["To calculate production efficiency", "To assess worker wages", "To determine the value of machinery", "To identify specific hazards of the industry"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does the FEA warranty require of insured parties?",
+        "options": ["To maintain fire extinguishing appliances in good condition", "To guarantee fire-free operation", "To provide annual property valuation reports", "To install smoke detectors in residential areas"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What detail about previous insurance is mentioned in the inspection report?",
+        "options": ["Past claims and reasons for rejection", "Policyholder's legal history", "Premium refunds received", "Duration of previous policies"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which clause is used when fees for architects and debris removal exceed the standard policy limits?",
+        "options": ["Add-on covers clause", "Risk improvement clause", "Operative clause", "Moral hazard clause"],
+        "correctIndex": 0
     }
 ]

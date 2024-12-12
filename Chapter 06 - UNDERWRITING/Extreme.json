@@ -1,252 +1,222 @@
 [
     {
-        "question": "In complex insurance scenarios, how is 'Class-wise distribution of risks' applied to address unique challenges and advanced risk evaluations?",
+        "question": "What distinguishes 'PML Burst' from 'PML Error' in risk assessment?",
         "options": [
-            "A partially relevant but incomplete explanation of class-wise distribution of risks.",
-            "A comprehensive and intricate explanation of class-wise distribution of risks in exceptional cases.",
-            "A basic interpretation of class-wise distribution of risks unrelated to complex cases.",
-            "A misleading perspective on class-wise distribution of risks for advanced scenarios."
+            "It accounts for reinsurance limits, while PML Error excludes them",
+            "PML Burst refers to an actual loss exceeding estimates, while PML Error reflects inaccurate initial estimates",
+            "PML Error applies to catastrophic risks, whereas PML Burst applies to operational risks",
+            "PML Burst is a theoretical scenario, while PML Error is derived from claims data"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In complex insurance scenarios, how is 'Facultative reinsurance' applied to address unique challenges and advanced risk evaluations?",
+        "question": "In treaty reinsurance, what does 'aggregate cession limit' primarily control?",
         "options": [
-            "A misleading perspective on facultative reinsurance for advanced scenarios.",
-            "A basic interpretation of facultative reinsurance unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of facultative reinsurance.",
-            "A comprehensive and intricate explanation of facultative reinsurance in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Fixing of retention limits' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A misleading perspective on fixing of retention limits for advanced scenarios.",
-            "A basic interpretation of fixing of retention limits unrelated to complex cases.",
-            "A comprehensive and intricate explanation of fixing of retention limits in exceptional cases.",
-            "A partially relevant but incomplete explanation of fixing of retention limits."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Catastrophe perils in India' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A partially relevant but incomplete explanation of catastrophe perils in india.",
-            "A misleading perspective on catastrophe perils in india for advanced scenarios.",
-            "A basic interpretation of catastrophe perils in india unrelated to complex cases.",
-            "A comprehensive and intricate explanation of catastrophe perils in india in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Geographical distribution of risks' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A partially relevant but incomplete explanation of geographical distribution of risks.",
-            "A misleading perspective on geographical distribution of risks for advanced scenarios.",
-            "A comprehensive and intricate explanation of geographical distribution of risks in exceptional cases.",
-            "A basic interpretation of geographical distribution of risks unrelated to complex cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Excess of loss treaty' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A basic interpretation of excess of loss treaty unrelated to complex cases.",
-            "A comprehensive and intricate explanation of excess of loss treaty in exceptional cases.",
-            "A partially relevant but incomplete explanation of excess of loss treaty.",
-            "A misleading perspective on excess of loss treaty for advanced scenarios."
+            "The geographical spread of covered risks",
+            "The maximum value of risks ceded by the insurer",
+            "The total claims paid for all risks combined",
+            "The minimum premium required for treaty participation"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In complex insurance scenarios, how is 'Objectives of underwriting' applied to address unique challenges and advanced risk evaluations?",
+        "question": "What is a key limitation of proportional reinsurance in handling catastrophic risks?",
         "options": [
-            "A partially relevant but incomplete explanation of objectives of underwriting.",
-            "A misleading perspective on objectives of underwriting for advanced scenarios.",
-            "A basic interpretation of objectives of underwriting unrelated to complex cases.",
-            "A comprehensive and intricate explanation of objectives of underwriting in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Surplus Treaty' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A comprehensive and intricate explanation of surplus treaty in exceptional cases.",
-            "A basic interpretation of surplus treaty unrelated to complex cases.",
-            "A misleading perspective on surplus treaty for advanced scenarios.",
-            "A partially relevant but incomplete explanation of surplus treaty."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'International classification by CRESTA' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A comprehensive and intricate explanation of international classification by cresta in exceptional cases.",
-            "A basic interpretation of international classification by cresta unrelated to complex cases.",
-            "A misleading perspective on international classification by cresta for advanced scenarios.",
-            "A partially relevant but incomplete explanation of international classification by cresta."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Principles of prudent underwriting' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A partially relevant but incomplete explanation of principles of prudent underwriting.",
-            "A comprehensive and intricate explanation of principles of prudent underwriting in exceptional cases.",
-            "A basic interpretation of principles of prudent underwriting unrelated to complex cases.",
-            "A misleading perspective on principles of prudent underwriting for advanced scenarios."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Non-proportional treaties' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A basic interpretation of non-proportional treaties unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of non-proportional treaties.",
-            "A misleading perspective on non-proportional treaties for advanced scenarios.",
-            "A comprehensive and intricate explanation of non-proportional treaties in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'PML assessment factors' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A comprehensive and intricate explanation of pml assessment factors in exceptional cases.",
-            "A partially relevant but incomplete explanation of pml assessment factors.",
-            "A misleading perspective on pml assessment factors for advanced scenarios.",
-            "A basic interpretation of pml assessment factors unrelated to complex cases."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Retention and reinsurance' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A comprehensive and intricate explanation of retention and reinsurance in exceptional cases.",
-            "A basic interpretation of retention and reinsurance unrelated to complex cases.",
-            "A misleading perspective on retention and reinsurance for advanced scenarios.",
-            "A partially relevant but incomplete explanation of retention and reinsurance."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Concept of underwriting' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A basic interpretation of concept of underwriting unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of concept of underwriting.",
-            "A misleading perspective on concept of underwriting for advanced scenarios.",
-            "A comprehensive and intricate explanation of concept of underwriting in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Underwriting factors' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A partially relevant but incomplete explanation of underwriting factors.",
-            "A comprehensive and intricate explanation of underwriting factors in exceptional cases.",
-            "A misleading perspective on underwriting factors for advanced scenarios.",
-            "A basic interpretation of underwriting factors unrelated to complex cases."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Definition of PML (Probable Maximum Loss)' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A basic interpretation of definition of pml (probable maximum loss) unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of definition of pml (probable maximum loss).",
-            "A comprehensive and intricate explanation of definition of pml (probable maximum loss) in exceptional cases.",
-            "A misleading perspective on definition of pml (probable maximum loss) for advanced scenarios."
+            "It requires high retention levels by the ceding insurer",
+            "It disproportionately transfers premiums compared to risks",
+            "It lacks sufficient capacity to absorb aggregate losses",
+            "It does not differentiate between risk types within the portfolio"
         ],
         "correctIndex": 2
     },
     {
-        "question": "In complex insurance scenarios, how is 'Corporate governance in underwriting' applied to address unique challenges and advanced risk evaluations?",
+        "question": "Why might facultative reinsurance be preferred over treaty reinsurance for high-value risks?",
         "options": [
-            "A basic interpretation of corporate governance in underwriting unrelated to complex cases.",
-            "A misleading perspective on corporate governance in underwriting for advanced scenarios.",
-            "A partially relevant but incomplete explanation of corporate governance in underwriting.",
-            "A comprehensive and intricate explanation of corporate governance in underwriting in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'New regulations for fire underwriting' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A misleading perspective on new regulations for fire underwriting for advanced scenarios.",
-            "A basic interpretation of new regulations for fire underwriting unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of new regulations for fire underwriting.",
-            "A comprehensive and intricate explanation of new regulations for fire underwriting in exceptional cases."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Regulations in fire insurance underwriting' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A partially relevant but incomplete explanation of regulations in fire insurance underwriting.",
-            "A basic interpretation of regulations in fire insurance underwriting unrelated to complex cases.",
-            "A comprehensive and intricate explanation of regulations in fire insurance underwriting in exceptional cases.",
-            "A misleading perspective on regulations in fire insurance underwriting for advanced scenarios."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In complex insurance scenarios, how is 'Treaty reinsurance' applied to address unique challenges and advanced risk evaluations?",
-        "options": [
-            "A comprehensive and intricate explanation of treaty reinsurance in exceptional cases.",
-            "A basic interpretation of treaty reinsurance unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of treaty reinsurance.",
-            "A misleading perspective on treaty reinsurance for advanced scenarios."
+            "Facultative reinsurance allows detailed underwriting of individual risks",
+            "Facultative reinsurance offers automatic coverage for listed risks",
+            "Treaty reinsurance excludes risks exceeding Rs. 50 crores PML",
+            "Treaty reinsurance mandates fixed cession proportions for all policies"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In complex insurance scenarios, how is 'CAT XoL (Catastrophe Excess of Loss)' applied to address unique challenges and advanced risk evaluations?",
+        "question": "What is the primary role of 'cash loss limits' in surplus treaties?",
         "options": [
-            "A partially relevant but incomplete explanation of cat xol (catastrophe excess of loss).",
-            "A basic interpretation of cat xol (catastrophe excess of loss) unrelated to complex cases.",
-            "A comprehensive and intricate explanation of cat xol (catastrophe excess of loss) in exceptional cases.",
-            "A misleading perspective on cat xol (catastrophe excess of loss) for advanced scenarios."
+            "To define the minimum retention levels for reinsurers",
+            "To exclude small claims from reinsurance agreements",
+            "To cap the total premiums ceded under the treaty",
+            "To allow ceding insurers to demand immediate payment for claims exceeding a certain threshold"
         ],
-        "correctIndex": 2
+        "correctIndex": 3
     },
     {
-        "question": "In complex insurance scenarios, how is 'Selection of business in underwriting' applied to address unique challenges and advanced risk evaluations?",
+        "question": "Why is the 'burning cost method' used in calculating excess of loss reinsurance premiums?",
         "options": [
-            "A comprehensive and intricate explanation of selection of business in underwriting in exceptional cases.",
-            "A basic interpretation of selection of business in underwriting unrelated to complex cases.",
-            "A misleading perspective on selection of business in underwriting for advanced scenarios.",
-            "A partially relevant but incomplete explanation of selection of business in underwriting."
+            "It provides a claims-based premium calculation for loss scenarios",
+            "It excludes non-claim-related underwriting costs",
+            "It predicts loss severity for catastrophic events",
+            "It ensures proportional premium sharing among reinsurers"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In complex insurance scenarios, how is 'Quota Share Treaty' applied to address unique challenges and advanced risk evaluations?",
+        "question": "How do 'quota share treaties' differ from 'surplus treaties' in risk transfer?",
         "options": [
-            "A basic interpretation of quota share treaty unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of quota share treaty.",
-            "A comprehensive and intricate explanation of quota share treaty in exceptional cases.",
-            "A misleading perspective on quota share treaty for advanced scenarios."
+            "Surplus treaties apply exclusively to catastrophic risks, whereas quota share treaties do not",
+            "Quota share treaties limit claims payout, while surplus treaties guarantee full coverage",
+            "Surplus treaties automatically include facultative agreements, but quota share treaties do not",
+            "Quota share treaties cede a fixed proportion of all risks, while surplus treaties cede only the portion exceeding retention"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What distinguishes 'per risk cover' from 'per event cover' in non-proportional treaties?",
+        "options": [
+            "Per event cover prioritizes small claims, while per risk cover excludes them",
+            "Per risk cover mandates treaty cessions, while per event cover does not",
+            "Per event cover applies to cumulative losses from a single event, whereas per risk cover applies to individual risks exceeding retention limits",
+            "Per risk cover includes all catastrophic risks, while per event cover excludes natural disasters"
         ],
         "correctIndex": 2
     },
     {
-        "question": "In complex insurance scenarios, how is 'Methods of reinsurance' applied to address unique challenges and advanced risk evaluations?",
+        "question": "What is the significance of 'CRESTA zones' in catastrophe risk evaluation?",
         "options": [
-            "A misleading perspective on methods of reinsurance for advanced scenarios.",
-            "A basic interpretation of methods of reinsurance unrelated to complex cases.",
-            "A partially relevant but incomplete explanation of methods of reinsurance.",
-            "A comprehensive and intricate explanation of methods of reinsurance in exceptional cases."
+            "They provide fixed premium rates for high-risk regions",
+            "They eliminate the need for facultative reinsurance in listed risks",
+            "They enforce regulatory compliance across reinsurance treaties",
+            "They standardize geographic exposure data for risk modeling"
         ],
         "correctIndex": 3
     },
     {
-        "question": "In complex insurance scenarios, how is 'Indian fire reinsurance programme' applied to address unique challenges and advanced risk evaluations?",
+        "question": "Why is the concept of 'minimum PML condition' applied in proportional treaties?",
         "options": [
-            "A partially relevant but incomplete explanation of indian fire reinsurance programme.",
-            "A misleading perspective on indian fire reinsurance programme for advanced scenarios.",
-            "A basic interpretation of indian fire reinsurance programme unrelated to complex cases.",
-            "A comprehensive and intricate explanation of indian fire reinsurance programme in exceptional cases."
+            "To calculate premiums based solely on historical claims data",
+            "To exclude catastrophic risks from reinsurance treaties",
+            "To prioritize listed risks over non-risk booked risks",
+            "To ensure a baseline percentage of PML is retained for all risks"
         ],
         "correctIndex": 3
+    },
+    {
+        "question": "What is a fundamental drawback of overestimating PML in reinsurance arrangements?",
+        "options": [
+            "It reduces the reinsurer's claim settlement liability",
+            "It mandates treaty revisions for all participating reinsurers",
+            "It leads to underutilization of the insurer's retention capacity",
+            "It increases the ceding insurer's operational costs"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "In Indian reinsurance, what differentiates 'risk-booked' risks from 'non-risk booked' risks?",
+        "options": [
+            "Risk-booked risks exceed Rs. 30 crores in sum insured, while non-risk booked risks are below this threshold",
+            "Non-risk booked risks are managed exclusively by facultative reinsurers",
+            "Risk-booked risks require prior approval from CRESTA standards",
+            "Risk-booked risks are excluded from treaty reinsurance, while non-risk booked risks are included"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of 'net retention capacity' in underwriting?",
+        "options": [
+            "It determines the maximum amount of risk an insurer can retain for its account",
+            "It mandates the exclusion of high-value risks from reinsurance treaties",
+            "It calculates premiums for catastrophic risks",
+            "It simplifies the claims settlement process"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why is facultative reinsurance often used for risks excluded from treaties?",
+        "options": [
+            "It excludes catastrophic hazards from coverage",
+            "It eliminates underwriting audits for listed risks",
+            "It mandates fixed cessions for all risks",
+            "It provides tailored coverage for individual risks"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How does 'exposure-rated' underwriting differ from 'experience-rated' underwriting?",
+        "options": [
+            "Exposure-rated underwriting is based on potential loss scenarios, while experience-rated underwriting relies on historical claims data",
+            "Experience-rated underwriting applies to listed risks, whereas exposure-rated underwriting excludes them",
+            "Exposure-rated underwriting eliminates premiums for low-value risks",
+            "Experience-rated underwriting prioritizes catastrophe risks"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of a 'two-risk warranty' in CAT Excess of Loss reinsurance?",
+        "options": [
+            "To prioritize high-value policies for reinsurance",
+            "To exclude single risks from treaty coverage",
+            "To calculate premiums based on cumulative claims data",
+            "To require at least two risks to be affected by the same event for a claim"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What does 'cash loss limit' signify in surplus treaties?",
+        "options": [
+            "The threshold for immediate claim payments by reinsurers",
+            "The maximum retention for small risks",
+            "The fixed percentage of premiums shared with reinsurers",
+            "The cumulative claims amount excluded from treaties"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why is catastrophe reinsurance often arranged in multiple layers?",
+        "options": [
+            "To distribute large losses across several reinsurers",
+            "To prioritize small claims over catastrophic claims",
+            "To exclude non-risk booked risks from coverage",
+            "To enforce compliance with CRESTA standards"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of aggregate cession limits in catastrophe treaties?",
+        "options": [
+            "To ensure diversification across geographies",
+            "To prioritize small-scale losses over large claims",
+            "To cap the total risk ceded under a treaty",
+            "To set a baseline for minimum premium adjustments"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What role does facultative reinsurance play in listed risks?",
+        "options": [
+            "Facilitating coverage of unanticipated risk exposures",
+            "Eliminating treaty cessions for medium-value properties",
+            "Replacing proportional claims adjustments",
+            "Reducing the reinsurer's share in large claims"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why is PML assessment critical in fire underwriting?",
+        "options": [
+            "To define adequate retention levels",
+            "To set benchmark premiums across all risks",
+            "To eliminate ambiguous treaty cessions",
+            "To ensure rapid claim settlements"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes net capacity planning in fire insurance?",
+        "options": [
+            "It excludes catastrophe-level risk evaluations",
+            "It prioritizes policyholder data security over claims",
+            "It aligns risk retention with the insurer's solvency",
+            "It mandates Board approval for premium adjustments"
+        ],
+        "correctIndex": 2
     }
 ]

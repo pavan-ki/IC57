@@ -1,252 +1,252 @@
 [
     {
-        "question": "What is the purpose of 'Reinstatement value policies' in insurance?",
+        "question": "What is required for the processing and settlement of claims?",
         "options": [
-            "The main goal or explanation of reinstatement value policies.",
-            "An irrelevant concept not tied to reinstatement value policies.",
-            "A partially correct explanation of reinstatement value policies.",
-            "A term unrelated to reinstatement value policies."
+            "Only basic customer service skills",
+            "Knowledge of general and special law of contract",
+            "Advanced knowledge of marketing",
+            "None of the above"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does the principle of indemnity ensure?",
+        "options": [
+            "Insurance policies cover all losses",
+            "The insured makes a profit from the loss",
+            "The insured is placed in the same financial position as before the loss",
+            "All claims are rejected by insurers"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the duty of the insured after a fire occurs?",
+        "options": [
+            "Take steps to extinguish the fire and minimize loss",
+            "Ignore the fire and wait for assistance",
+            "Focus on claiming insurance immediately",
+            "None of the above"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Rules for claims marked 'Without Prejudice'' in insurance?",
+        "question": "What must the insured provide to prove the loss?",
         "options": [
-            "A term unrelated to rules for claims marked 'without prejudice'.",
-            "The main goal or explanation of rules for claims marked 'without prejudice'.",
-            "An irrelevant concept not tied to rules for claims marked 'without prejudice'.",
-            "A partially correct explanation of rules for claims marked 'without prejudice'."
+            "A detailed video of the loss",
+            "Only verbal assurance",
+            "Proof of loss and supporting documents",
+            "A legal representative"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the doctrine of proximate cause focus on?",
+        "options": [
+            "The timing of the loss",
+            "The insured's financial status",
+            "Identifying the dominant cause of the loss",
+            "Analyzing all possible causes of the loss"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What are insured expected to do regarding the salvage?",
+        "options": [
+            "Abandon the salvage",
+            "Protect and preserve the salvage",
+            "Sell the salvage immediately",
+            "None of the above"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Duties of the insured' in insurance?",
+        "question": "What is a warranty in an insurance policy?",
         "options": [
-            "A term unrelated to duties of the insured.",
-            "The main goal or explanation of duties of the insured.",
-            "A partially correct explanation of duties of the insured.",
-            "An irrelevant concept not tied to duties of the insured."
+            "A guideline for marketing the policy",
+            "A casual promise to follow terms",
+            "An undertaking by the insured to comply with specific conditions",
+            "A summary of policy exclusions"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What are ex-gratia payments?",
+        "options": [
+            "Payments made as a matter of grace for losses outside policy scope",
+            "Mandatory payments for all rejected claims",
+            "Premium refunds to customers",
+            "Standard payments under all policies"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary objective of a fire policy?",
+        "options": [
+            "To provide lifetime earnings coverage",
+            "To cover direct losses caused by fire or insured perils",
+            "To compensate for all types of losses, direct or indirect",
+            "To guarantee no financial loss"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Importance of timely claim notices' in insurance?",
+        "question": "What is the meaning of 'value' in insurance?",
         "options": [
-            "A term unrelated to importance of timely claim notices.",
-            "An irrelevant concept not tied to importance of timely claim notices.",
-            "A partially correct explanation of importance of timely claim notices.",
-            "The main goal or explanation of importance of timely claim notices."
+            "The price of the property on resale",
+            "The sentimental value of the property",
+            "None of the above",
+            "The actual or intrinsic worth of the property"
         ],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Onus of proof in fire insurance claims' in insurance?",
+        "question": "What is the role of depreciation in insurance claims?",
         "options": [
-            "An irrelevant concept not tied to onus of proof in fire insurance claims.",
-            "A term unrelated to onus of proof in fire insurance claims.",
-            "The main goal or explanation of onus of proof in fire insurance claims.",
-            "A partially correct explanation of onus of proof in fire insurance claims."
+            "To fix premiums for renewal",
+            "To calculate tax benefits",
+            "To adjust the value for wear and tear or age",
+            "To increase the claim amount"
         ],
         "correctIndex": 2
     },
     {
-        "question": "What is the purpose of 'Definition of warranties' in insurance?",
+        "question": "What is subrogation?",
         "options": [
-            "A partially correct explanation of definition of warranties.",
-            "A term unrelated to definition of warranties.",
-            "An irrelevant concept not tied to definition of warranties.",
-            "The main goal or explanation of definition of warranties."
+            "The process of transferring claims to another insurer",
+            "The insurer’s right to recover losses from a responsible third party",
+            "The insured’s right to abandon property",
+            "None of the above"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the purpose of the excess clause in fire policies?",
+        "options": [
+            "To provide extra benefits to policyholders",
+            "To increase the sum insured automatically",
+            "To eliminate all small claims",
+            "To deduct a fixed percentage from each claim"
         ],
         "correctIndex": 3
     },
     {
-        "question": "What is the purpose of 'Fire policy limitations and exclusions' in insurance?",
+        "question": "What is the principle of contribution?",
         "options": [
-            "The main goal or explanation of fire policy limitations and exclusions.",
-            "A term unrelated to fire policy limitations and exclusions.",
-            "A partially correct explanation of fire policy limitations and exclusions.",
-            "An irrelevant concept not tied to fire policy limitations and exclusions."
+            "The insured pays a percentage of the claim",
+            "One insurer pays the entire loss",
+            "Each insurer pays their proportion of the loss",
+            "None of the above"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does the fire policy cover?",
+        "options": [
+            "Losses due to negligence",
+            "Future profits from destroyed property",
+            "Only direct losses from insured perils",
+            "All types of losses, including indirect"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the proximate cause of loss?",
+        "options": [
+            "The dominant, direct cause of the loss",
+            "None of the above",
+            "The last event before the loss",
+            "All events leading up to the loss"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Legal aspects of claims processing' in insurance?",
+        "question": "What does 'market value' refer to in insurance?",
         "options": [
-            "A term unrelated to legal aspects of claims processing.",
-            "An irrelevant concept not tied to legal aspects of claims processing.",
-            "The main goal or explanation of legal aspects of claims processing.",
-            "A partially correct explanation of legal aspects of claims processing."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Ex-gratia payments' in insurance?",
-        "options": [
-            "A partially correct explanation of ex-gratia payments.",
-            "A term unrelated to ex-gratia payments.",
-            "The main goal or explanation of ex-gratia payments.",
-            "An irrelevant concept not tied to ex-gratia payments."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Role of consequential loss policies' in insurance?",
-        "options": [
-            "A term unrelated to role of consequential loss policies.",
-            "The main goal or explanation of role of consequential loss policies.",
-            "An irrelevant concept not tied to role of consequential loss policies.",
-            "A partially correct explanation of role of consequential loss policies."
+            "The sentimental worth of the property",
+            "The cost of replacing the property at the time of loss",
+            "None of the above",
+            "The future resale value of the property"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Meaning of value of property in insurance' in insurance?",
+        "question": "What is salvage in the context of insurance?",
         "options": [
-            "A term unrelated to meaning of value of property in insurance.",
-            "The main goal or explanation of meaning of value of property in insurance.",
-            "An irrelevant concept not tied to meaning of value of property in insurance.",
-            "A partially correct explanation of meaning of value of property in insurance."
+            "The total loss of insured property",
+            "Property that survives destruction or damage",
+            "The cost of repairs to damaged property",
+            "None of the above"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Valuation of stock-in-trade' in insurance?",
+        "question": "What happens if there is a breach of warranty?",
         "options": [
-            "A term unrelated to valuation of stock-in-trade.",
-            "The main goal or explanation of valuation of stock-in-trade.",
-            "A partially correct explanation of valuation of stock-in-trade.",
-            "An irrelevant concept not tied to valuation of stock-in-trade."
+            "The insured automatically receives a higher claim amount",
+            "The insurer must pay the claim regardless of the breach",
+            "The insurer can avoid a claim even if it did not cause the loss",
+            "None of the above"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What are consequential losses?",
+        "options": [
+            "Losses that are compensated automatically",
+            "All financial losses regardless of cause",
+            "Indirect losses not covered by standard fire policies",
+            "Direct losses from insured perils"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What must the insured do if a fire damages their property?",
+        "options": [
+            "Wait for the insurer to assess the damage",
+            "Take steps to minimize further damage",
+            "Immediately abandon the property",
+            "None of the above"
         ],
         "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Rules of interpretation of policies' in insurance?",
+        "question": "What is the primary purpose of the indemnity principle?",
         "options": [
-            "A term unrelated to rules of interpretation of policies.",
-            "An irrelevant concept not tied to rules of interpretation of policies.",
-            "The main goal or explanation of rules of interpretation of policies.",
-            "A partially correct explanation of rules of interpretation of policies."
+            "To settle all claims at full policy limits",
+            "To restore the insured's financial position to pre-loss status",
+            "To provide profit from the loss",
+            "None of the above"
         ],
-        "correctIndex": 2
+        "correctIndex": 1
     },
     {
-        "question": "What is the purpose of 'Principle of contribution' in insurance?",
+        "question": "What does the doctrine of proximate cause exclude?",
         "options": [
-            "The main goal or explanation of principle of contribution.",
-            "An irrelevant concept not tied to principle of contribution.",
-            "A partially correct explanation of principle of contribution.",
-            "A term unrelated to principle of contribution."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Warranties in fire insurance' in insurance?",
-        "options": [
-            "The main goal or explanation of warranties in fire insurance.",
-            "A partially correct explanation of warranties in fire insurance.",
-            "An irrelevant concept not tied to warranties in fire insurance.",
-            "A term unrelated to warranties in fire insurance."
+            "Remote or indirect causes of the loss",
+            "The insured’s testimony",
+            "Any assessment by surveyors",
+            "All immediate causes of the loss"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Principle of subrogation' in insurance?",
+        "question": "What are rights of insurers after a loss occurs?",
         "options": [
-            "The main goal or explanation of principle of subrogation.",
-            "A term unrelated to principle of subrogation.",
-            "A partially correct explanation of principle of subrogation.",
-            "An irrelevant concept not tied to principle of subrogation."
+            "To inspect and take possession of salvage",
+            "To terminate the policy immediately",
+            "To avoid paying all claims",
+            "To mandate higher premiums"
         ],
         "correctIndex": 0
     },
     {
-        "question": "What is the purpose of 'Market value and actual cash value' in insurance?",
+        "question": "What is the purpose of issuing claims correspondence 'Without Prejudice'?",
         "options": [
-            "An irrelevant concept not tied to market value and actual cash value.",
-            "A term unrelated to market value and actual cash value.",
-            "The main goal or explanation of market value and actual cash value.",
-            "A partially correct explanation of market value and actual cash value."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Doctrine of proximate cause' in insurance?",
-        "options": [
-            "A term unrelated to doctrine of proximate cause.",
-            "An irrelevant concept not tied to doctrine of proximate cause.",
-            "A partially correct explanation of doctrine of proximate cause.",
-            "The main goal or explanation of doctrine of proximate cause."
+            "To waive all conditions of the policy",
+            "To ensure the claim is immediately paid",
+            "None of the above",
+            "To leave liability open while investigating the claim"
         ],
         "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Role of maintenance in claims assessments' in insurance?",
-        "options": [
-            "The main goal or explanation of role of maintenance in claims assessments.",
-            "An irrelevant concept not tied to role of maintenance in claims assessments.",
-            "A partially correct explanation of role of maintenance in claims assessments.",
-            "A term unrelated to role of maintenance in claims assessments."
-        ],
-        "correctIndex": 0
-    },
-    {
-        "question": "What is the purpose of 'Determining the proximate cause' in insurance?",
-        "options": [
-            "A partially correct explanation of determining the proximate cause.",
-            "A term unrelated to determining the proximate cause.",
-            "An irrelevant concept not tied to determining the proximate cause.",
-            "The main goal or explanation of determining the proximate cause."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Rights of insurers' in insurance?",
-        "options": [
-            "A partially correct explanation of rights of insurers.",
-            "The main goal or explanation of rights of insurers.",
-            "A term unrelated to rights of insurers.",
-            "An irrelevant concept not tied to rights of insurers."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Rights under condition 7 of the fire policy' in insurance?",
-        "options": [
-            "A term unrelated to rights under condition 7 of the fire policy.",
-            "The main goal or explanation of rights under condition 7 of the fire policy.",
-            "A partially correct explanation of rights under condition 7 of the fire policy.",
-            "An irrelevant concept not tied to rights under condition 7 of the fire policy."
-        ],
-        "correctIndex": 1
-    },
-    {
-        "question": "What is the purpose of 'Depreciation and betterment' in insurance?",
-        "options": [
-            "A partially correct explanation of depreciation and betterment.",
-            "An irrelevant concept not tied to depreciation and betterment.",
-            "A term unrelated to depreciation and betterment.",
-            "The main goal or explanation of depreciation and betterment."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What is the purpose of 'Principle of indemnity' in insurance?",
-        "options": [
-            "An irrelevant concept not tied to principle of indemnity.",
-            "A term unrelated to principle of indemnity.",
-            "The main goal or explanation of principle of indemnity.",
-            "A partially correct explanation of principle of indemnity."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What is the purpose of 'Role of salvage in indemnity' in insurance?",
-        "options": [
-            "An irrelevant concept not tied to role of salvage in indemnity.",
-            "A partially correct explanation of role of salvage in indemnity.",
-            "The main goal or explanation of role of salvage in indemnity.",
-            "A term unrelated to role of salvage in indemnity."
-        ],
-        "correctIndex": 2
     }
 ]

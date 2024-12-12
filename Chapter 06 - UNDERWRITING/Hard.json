@@ -1,252 +1,251 @@
 [
     {
-        "question": "In the context of advanced insurance practices, how does 'Facultative reinsurance' specifically contribute to risk management?",
+        "question": "What distinguishes the concept of PML (Probable Maximum Loss) from MPL (Maximum Possible Loss)?",
         "options": [
-            "A partially correct explanation of facultative reinsurance missing key nuances.",
-            "An inaccurate interpretation of facultative reinsurance in advanced cases.",
-            "A general description of facultative reinsurance lacking detail.",
-            "A detailed explanation of facultative reinsurance in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Methods of reinsurance' specifically contribute to risk management?",
-        "options": [
-            "An inaccurate interpretation of methods of reinsurance in advanced cases.",
-            "A partially correct explanation of methods of reinsurance missing key nuances.",
-            "A general description of methods of reinsurance lacking detail.",
-            "A detailed explanation of methods of reinsurance in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Excess of loss treaty' specifically contribute to risk management?",
-        "options": [
-            "A detailed explanation of excess of loss treaty in specialized risk scenarios.",
-            "A general description of excess of loss treaty lacking detail.",
-            "An inaccurate interpretation of excess of loss treaty in advanced cases.",
-            "A partially correct explanation of excess of loss treaty missing key nuances."
+            "PML is based on realistic loss scenarios, whereas MPL assumes worst-case losses",
+            "PML and MPL are interchangeable terms used in underwriting",
+            "MPL is calculated only for catastrophic risks, while PML applies to all risks",
+            "PML focuses on historical claims data, while MPL considers current exposure"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'CAT XoL (Catastrophe Excess of Loss)' specifically contribute to risk management?",
+        "question": "Why is the concept of 'balanced portfolio' crucial in underwriting?",
         "options": [
-            "A partially correct explanation of cat xol (catastrophe excess of loss) missing key nuances.",
-            "A detailed explanation of cat xol (catastrophe excess of loss) in specialized risk scenarios.",
-            "A general description of cat xol (catastrophe excess of loss) lacking detail.",
-            "An inaccurate interpretation of cat xol (catastrophe excess of loss) in advanced cases."
+            "To ensure high premiums are charged across all risks",
+            "To mitigate losses by diversifying class-wise and geographically",
+            "To eliminate small claims from underwriting",
+            "To simplify claim processing for insurers"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'New regulations for fire underwriting' specifically contribute to risk management?",
+        "question": "What is the significance of fire extinguishing appliances in retention calculation?",
         "options": [
-            "A partially correct explanation of new regulations for fire underwriting missing key nuances.",
-            "A detailed explanation of new regulations for fire underwriting in specialized risk scenarios.",
-            "An inaccurate interpretation of new regulations for fire underwriting in advanced cases.",
-            "A general description of new regulations for fire underwriting lacking detail."
+            "They reduce the probable maximum loss estimate",
+            "They eliminate the need for reinsurance",
+            "They are only considered for high-value risks",
+            "They determine the premium charged for fire insurance"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What role does a 'cash loss limit' play in surplus treaties?",
+        "options": [
+            "It allows the ceding insurer to demand immediate payment for large claims",
+            "It sets a maximum limit for premium adjustments",
+            "It determines the minimum retention amount",
+            "It specifies the deductibles for all claims"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What key factor determines net retention capacity?",
+        "options": [
+            "The insurer's net worth and premium volume",
+            "The geographic location of insured properties",
+            "The historical claim settlement time",
+            "The type of reinsurance treaties in place"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which stocks are categorized under high-burning intensity in underwriting?",
+        "options": [
+            "Crockery and clocks",
+            "Flour and tobacco",
+            "Spirits and celluloid",
+            "Metal goods and hardware"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the main disadvantage of facultative reinsurance?",
+        "options": [
+            "It involves significant clerical effort and documentation",
+            "It restricts the insurer's retention capacity",
+            "It applies only to small policies",
+            "It eliminates the need for surplus treaties"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Why are individual features like 'construction and occupancy' critical in underwriting?",
+        "options": [
+            "To determine policyholder eligibility",
+            "To assess fire hazards and risk levels",
+            "To simplify reinsurance treaty agreements",
+            "To calculate insurance taxes"
         ],
         "correctIndex": 1
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Objectives of underwriting' specifically contribute to risk management?",
+        "question": "What is a distinguishing feature of a surplus treaty compared to a quota share treaty?",
         "options": [
-            "A detailed explanation of objectives of underwriting in specialized risk scenarios.",
-            "An inaccurate interpretation of objectives of underwriting in advanced cases.",
-            "A partially correct explanation of objectives of underwriting missing key nuances.",
-            "A general description of objectives of underwriting lacking detail."
+            "The reinsurer's share is based on the retention surplus",
+            "It requires mandatory cessions of all risks",
+            "It eliminates premium adjustments for claims",
+            "It applies only to catastrophic risks"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Indian fire reinsurance programme' specifically contribute to risk management?",
+        "question": "What is the purpose of the 'two-risk warranty' in CAT Excess of Loss reinsurance?",
         "options": [
-            "A partially correct explanation of indian fire reinsurance programme missing key nuances.",
-            "An inaccurate interpretation of indian fire reinsurance programme in advanced cases.",
-            "A detailed explanation of indian fire reinsurance programme in specialized risk scenarios.",
-            "A general description of indian fire reinsurance programme lacking detail."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Quota Share Treaty' specifically contribute to risk management?",
-        "options": [
-            "A partially correct explanation of quota share treaty missing key nuances.",
-            "An inaccurate interpretation of quota share treaty in advanced cases.",
-            "A general description of quota share treaty lacking detail.",
-            "A detailed explanation of quota share treaty in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Treaty reinsurance' specifically contribute to risk management?",
-        "options": [
-            "A detailed explanation of treaty reinsurance in specialized risk scenarios.",
-            "A partially correct explanation of treaty reinsurance missing key nuances.",
-            "A general description of treaty reinsurance lacking detail.",
-            "An inaccurate interpretation of treaty reinsurance in advanced cases."
+            "To require at least two separate risks to be affected by the same event",
+            "To limit claims to a single risk per event",
+            "To eliminate small claims from catastrophic events",
+            "To ensure proportional claims sharing among reinsurers"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'International classification by CRESTA' specifically contribute to risk management?",
+        "question": "Why are 'burning cost' methods critical in pricing reinsurance?",
         "options": [
-            "A partially correct explanation of international classification by cresta missing key nuances.",
-            "An inaccurate interpretation of international classification by cresta in advanced cases.",
-            "A general description of international classification by cresta lacking detail.",
-            "A detailed explanation of international classification by cresta in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Regulations in fire insurance underwriting' specifically contribute to risk management?",
-        "options": [
-            "A partially correct explanation of regulations in fire insurance underwriting missing key nuances.",
-            "An inaccurate interpretation of regulations in fire insurance underwriting in advanced cases.",
-            "A detailed explanation of regulations in fire insurance underwriting in specialized risk scenarios.",
-            "A general description of regulations in fire insurance underwriting lacking detail."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Retention and reinsurance' specifically contribute to risk management?",
-        "options": [
-            "A detailed explanation of retention and reinsurance in specialized risk scenarios.",
-            "An inaccurate interpretation of retention and reinsurance in advanced cases.",
-            "A partially correct explanation of retention and reinsurance missing key nuances.",
-            "A general description of retention and reinsurance lacking detail."
+            "They calculate the pure rate needed to cover incurred losses",
+            "They predict claim settlement timelines",
+            "They determine reinsurance commissions",
+            "They exclude catastrophic risks from treaties"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Geographical distribution of risks' specifically contribute to risk management?",
+        "question": "What is a key feature of treaty reinsurance?",
         "options": [
-            "A detailed explanation of geographical distribution of risks in specialized risk scenarios.",
-            "An inaccurate interpretation of geographical distribution of risks in advanced cases.",
-            "A partially correct explanation of geographical distribution of risks missing key nuances.",
-            "A general description of geographical distribution of risks lacking detail."
+            "The reinsurer is obligated to accept all risks within the treaty's scope",
+            "It excludes low-value policies",
+            "It applies exclusively to catastrophic events",
+            "It eliminates the need for proportional risk sharing"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Catastrophe perils in India' specifically contribute to risk management?",
+        "question": "What is the primary purpose of monitoring aggregate exposure in underwriting?",
         "options": [
-            "A partially correct explanation of catastrophe perils in india missing key nuances.",
-            "A general description of catastrophe perils in india lacking detail.",
-            "An inaccurate interpretation of catastrophe perils in india in advanced cases.",
-            "A detailed explanation of catastrophe perils in india in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Class-wise distribution of risks' specifically contribute to risk management?",
-        "options": [
-            "A detailed explanation of class-wise distribution of risks in specialized risk scenarios.",
-            "A partially correct explanation of class-wise distribution of risks missing key nuances.",
-            "A general description of class-wise distribution of risks lacking detail.",
-            "An inaccurate interpretation of class-wise distribution of risks in advanced cases."
+            "To limit potential losses from a single catastrophic event",
+            "To ensure equal premiums across all policies",
+            "To minimize the insurer's operational costs",
+            "To reduce the claims ratio for small policies"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Fixing of retention limits' specifically contribute to risk management?",
+        "question": "Why is the CRESTA standard important for reinsurers?",
         "options": [
-            "An inaccurate interpretation of fixing of retention limits in advanced cases.",
-            "A partially correct explanation of fixing of retention limits missing key nuances.",
-            "A general description of fixing of retention limits lacking detail.",
-            "A detailed explanation of fixing of retention limits in specialized risk scenarios."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Underwriting factors' specifically contribute to risk management?",
-        "options": [
-            "A general description of underwriting factors lacking detail.",
-            "A partially correct explanation of underwriting factors missing key nuances.",
-            "A detailed explanation of underwriting factors in specialized risk scenarios.",
-            "An inaccurate interpretation of underwriting factors in advanced cases."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Non-proportional treaties' specifically contribute to risk management?",
-        "options": [
-            "A detailed explanation of non-proportional treaties in specialized risk scenarios.",
-            "An inaccurate interpretation of non-proportional treaties in advanced cases.",
-            "A general description of non-proportional treaties lacking detail.",
-            "A partially correct explanation of non-proportional treaties missing key nuances."
+            "It establishes uniform exposure data reporting globally",
+            "It regulates premium rates across countries",
+            "It eliminates the need for facultative reinsurance",
+            "It simplifies claims management processes"
         ],
         "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Concept of underwriting' specifically contribute to risk management?",
+        "question": "What does a 'per risk cover' protect in non-proportional treaties?",
         "options": [
-            "A general description of concept of underwriting lacking detail.",
-            "A partially correct explanation of concept of underwriting missing key nuances.",
-            "An inaccurate interpretation of concept of underwriting in advanced cases.",
-            "A detailed explanation of concept of underwriting in specialized risk scenarios."
+            "Losses from individual risks exceeding retention limits",
+            "Losses from multiple risks in a single event",
+            "Premium adjustments based on claim ratios",
+            "Administrative costs for reinsurers"
         ],
-        "correctIndex": 3
+        "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'PML assessment factors' specifically contribute to risk management?",
+        "question": "What does the term 'listed risks' refer to in Indian underwriting?",
         "options": [
-            "A partially correct explanation of pml assessment factors missing key nuances.",
-            "A general description of pml assessment factors lacking detail.",
-            "A detailed explanation of pml assessment factors in specialized risk scenarios.",
-            "An inaccurate interpretation of pml assessment factors in advanced cases."
+            "Risks with PML exceeding Rs. 26 crores",
+            "Risks excluded from reinsurance treaties",
+            "Policies with no prior claims history",
+            "Risks with high retention levels"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Selection of business in underwriting' specifically contribute to risk management?",
+        "question": "What is the purpose of 'minimum PML conditions' in proportional treaties?",
         "options": [
-            "An inaccurate interpretation of selection of business in underwriting in advanced cases.",
-            "A detailed explanation of selection of business in underwriting in specialized risk scenarios.",
-            "A general description of selection of business in underwriting lacking detail.",
-            "A partially correct explanation of selection of business in underwriting missing key nuances."
+            "To restrict exposure under treaties for large risks",
+            "To eliminate low-value policies from coverage",
+            "To simplify retention calculations",
+            "To ensure all claims are processed proportionally"
         ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the role of aggregate cession limits in CAT reinsurance treaties?",
+        "options": [
+            "To cap the total risks ceded to the treaty",
+            "To eliminate claims processing delays",
+            "To enforce compliance with regulatory standards",
+            "To reduce premium rates for high-value policies"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the significance of 'retrocession' in reinsurance?",
+        "options": [
+            "Reinsurers transferring a portion of their risk to other reinsurers",
+            "Insurers eliminating low-value policies",
+            "Reinsurers setting minimum PML conditions",
+            "Insurers limiting claims for catastrophic losses"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes 'exposure-rated' products in underwriting?",
+        "options": [
+            "They assess rates based on potential risk exposure rather than claims history",
+            "They focus on high-frequency, low-severity claims",
+            "They apply only to catastrophic risks",
+            "They eliminate underwriting audits"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of the 'Market Fire Pool' in Indian reinsurance?",
+        "options": [
+            "To distribute medium-sized risks among insurers",
+            "To provide exclusive coverage for listed risks",
+            "To reduce premiums for high-value policies",
+            "To simplify claim processing for large risks"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the File & Use guideline require insurers to submit?",
+        "options": [
+            "Detailed claims history reports", 
+            "Underwriting policy approved by the Board", 
+            "All policyholder personal information", 
+            "Quarterly premium statements"],
         "correctIndex": 1
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Surplus Treaty' specifically contribute to risk management?",
+        "question": "Why is the concept of 'net retention capacity' critical in underwriting?",
         "options": [
-            "A general description of surplus treaty lacking detail.",
-            "An inaccurate interpretation of surplus treaty in advanced cases.",
-            "A detailed explanation of surplus treaty in specialized risk scenarios.",
-            "A partially correct explanation of surplus treaty missing key nuances."
+            "To balance the insurer’s risk exposure and financial strength",
+            "To eliminate the need for facultative reinsurance",
+            "To simplify premium calculations",
+            "To prioritize low-risk policies"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Corporate governance in underwriting' specifically contribute to risk management?",
+        "question": "What is the purpose of catastrophe risk evaluation in underwriting?",
         "options": [
-            "A partially correct explanation of corporate governance in underwriting missing key nuances.",
-            "An inaccurate interpretation of corporate governance in underwriting in advanced cases.",
-            "A detailed explanation of corporate governance in underwriting in specialized risk scenarios.",
-            "A general description of corporate governance in underwriting lacking detail."
+            "To assess aggregate exposure for natural and manmade perils",
+            "To fix premiums for all policyholders",
+            "To eliminate listed risks from treaties",
+            "To reduce claims processing times"
         ],
-        "correctIndex": 2
+        "correctIndex": 0
     },
     {
-        "question": "In the context of advanced insurance practices, how does 'Principles of prudent underwriting' specifically contribute to risk management?",
+        "question": "What distinguishes 'corporate governance' in underwriting?",
         "options": [
-            "An inaccurate interpretation of principles of prudent underwriting in advanced cases.",
-            "A general description of principles of prudent underwriting lacking detail.",
-            "A detailed explanation of principles of prudent underwriting in specialized risk scenarios.",
-            "A partially correct explanation of principles of prudent underwriting missing key nuances."
+            "The Board oversees underwriting philosophy and policy decisions",
+            "Eliminating reinsurance for catastrophic risks",
+            "Reducing underwriting profits for high-value risks",
+            "Increasing claims ratios for listed risks"
         ],
-        "correctIndex": 2
-    },
-    {
-        "question": "In the context of advanced insurance practices, how does 'Definition of PML (Probable Maximum Loss)' specifically contribute to risk management?",
-        "options": [
-            "A partially correct explanation of definition of pml (probable maximum loss) missing key nuances.",
-            "A general description of definition of pml (probable maximum loss) lacking detail.",
-            "An inaccurate interpretation of definition of pml (probable maximum loss) in advanced cases.",
-            "A detailed explanation of definition of pml (probable maximum loss) in specialized risk scenarios."
-        ],
-        "correctIndex": 3
+        "correctIndex": 0
     }
 ]

@@ -1,252 +1,127 @@
 [
     {
-        "question": "Which of the following best describes the application of 'Principles of prudent underwriting' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of principles of prudent underwriting.",
-            "A vague explanation of principles of prudent underwriting unrelated to insurance practices.",
-            "A precise explanation of principles of prudent underwriting with a practical application.",
-            "A misleading concept regarding principles of prudent underwriting."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'International classification by CRESTA' in insurance practices?",
-        "options": [
-            "A vague explanation of international classification by cresta unrelated to insurance practices.",
-            "A precise explanation of international classification by cresta with a practical application.",
-            "An incomplete interpretation of international classification by cresta.",
-            "A misleading concept regarding international classification by cresta."
-        ],
+        "question": "Which underwriting objective focuses on enlarging an insurer's organization?",
+        "options": ["Earning a reasonable profit", "Producing a large volume of premium income", "Reducing underwriting expenses", "Eliminating high-risk policies"],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'CAT XoL (Catastrophe Excess of Loss)' in insurance practices?",
-        "options": [
-            "A vague explanation of cat xol (catastrophe excess of loss) unrelated to insurance practices.",
-            "An incomplete interpretation of cat xol (catastrophe excess of loss).",
-            "A precise explanation of cat xol (catastrophe excess of loss) with a practical application.",
-            "A misleading concept regarding cat xol (catastrophe excess of loss)."
-        ],
+        "question": "What does 'geographical distribution of risks' achieve in underwriting?",
+        "options": ["Reduction in claim settlement times", "A balanced portfolio to mitigate losses", "A lower probability of catastrophic events", "Faster premium collection"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the primary concern when fixing retention limits in underwriting?",
+        "options": ["Minimizing premium income", "Avoiding catastrophic losses", "Maximizing claim payouts", "Ensuring compliance with IRDA"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What does 'construction and occupancy' evaluation consider in underwriting?",
+        "options": ["Fire extinguishing systems only", "Building materials and activities inside", "Proximity to fire stations", "Height of the building"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which stocks are considered to burn moderately?",
+        "options": ["Spirits and celluloid", "Metal goods and hardware", "Flour, tobacco, and cotton", "Crockery and clocks"],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following best describes the application of 'Indian fire reinsurance programme' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of indian fire reinsurance programme.",
-            "A vague explanation of indian fire reinsurance programme unrelated to insurance practices.",
-            "A precise explanation of indian fire reinsurance programme with a practical application.",
-            "A misleading concept regarding indian fire reinsurance programme."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Geographical distribution of risks' in insurance practices?",
-        "options": [
-            "A vague explanation of geographical distribution of risks unrelated to insurance practices.",
-            "An incomplete interpretation of geographical distribution of risks.",
-            "A precise explanation of geographical distribution of risks with a practical application.",
-            "A misleading concept regarding geographical distribution of risks."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'New regulations for fire underwriting' in insurance practices?",
-        "options": [
-            "A precise explanation of new regulations for fire underwriting with a practical application.",
-            "An incomplete interpretation of new regulations for fire underwriting.",
-            "A vague explanation of new regulations for fire underwriting unrelated to insurance practices.",
-            "A misleading concept regarding new regulations for fire underwriting."
-        ],
+        "question": "What is the definition of 'retention' in insurance underwriting?",
+        "options": ["The maximum liability an insurer keeps on a risk", "The amount paid to reinsurers", "The total claims processed in a year", "The insurer's total premium income"],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Methods of reinsurance' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of methods of reinsurance.",
-            "A vague explanation of methods of reinsurance unrelated to insurance practices.",
-            "A misleading concept regarding methods of reinsurance.",
-            "A precise explanation of methods of reinsurance with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Retention and reinsurance' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of retention and reinsurance.",
-            "A misleading concept regarding retention and reinsurance.",
-            "A precise explanation of retention and reinsurance with a practical application.",
-            "A vague explanation of retention and reinsurance unrelated to insurance practices."
-        ],
+        "question": "What is a key factor in determining PML (Probable Maximum Loss)?",
+        "options": ["The insurer's capital reserves", "The proximity of fire stations", "The insured property's exposure and hazard", "The claims history of the policyholder"],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following best describes the application of 'Excess of loss treaty' in insurance practices?",
-        "options": [
-            "A misleading concept regarding excess of loss treaty.",
-            "An incomplete interpretation of excess of loss treaty.",
-            "A vague explanation of excess of loss treaty unrelated to insurance practices.",
-            "A precise explanation of excess of loss treaty with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Surplus Treaty' in insurance practices?",
-        "options": [
-            "A misleading concept regarding surplus treaty.",
-            "A precise explanation of surplus treaty with a practical application.",
-            "An incomplete interpretation of surplus treaty.",
-            "A vague explanation of surplus treaty unrelated to insurance practices."
-        ],
+        "question": "Why is facultative reinsurance used even when treaty reinsurance is available?",
+        "options": ["To avoid treaty cessions", "To reinsure specific risks outside the treaty's scope", "To increase retention limits", "To eliminate underwriting efforts"],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'PML assessment factors' in insurance practices?",
-        "options": [
-            "A precise explanation of pml assessment factors with a practical application.",
-            "A misleading concept regarding pml assessment factors.",
-            "A vague explanation of pml assessment factors unrelated to insurance practices.",
-            "An incomplete interpretation of pml assessment factors."
-        ],
+        "question": "What distinguishes a quota share treaty from other reinsurance methods?",
+        "options": ["It involves ceding fixed proportions of all risks", "It applies only to catastrophic risks", "It covers high-value policies exclusively", "It eliminates premium sharing"],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Underwriting factors' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of underwriting factors.",
-            "A misleading concept regarding underwriting factors.",
-            "A vague explanation of underwriting factors unrelated to insurance practices.",
-            "A precise explanation of underwriting factors with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Selection of business in underwriting' in insurance practices?",
-        "options": [
-            "A vague explanation of selection of business in underwriting unrelated to insurance practices.",
-            "An incomplete interpretation of selection of business in underwriting.",
-            "A precise explanation of selection of business in underwriting with a practical application.",
-            "A misleading concept regarding selection of business in underwriting."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "Which of the following best describes the application of 'Concept of underwriting' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of concept of underwriting.",
-            "A precise explanation of concept of underwriting with a practical application.",
-            "A vague explanation of concept of underwriting unrelated to insurance practices.",
-            "A misleading concept regarding concept of underwriting."
-        ],
+        "question": "How does a surplus treaty benefit insurers?",
+        "options": ["By reducing premium income", "By providing coverage for amounts beyond retention limits", "By eliminating risk from natural disasters", "By fixing claim payouts"],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Catastrophe perils in India' in insurance practices?",
-        "options": [
-            "A vague explanation of catastrophe perils in india unrelated to insurance practices.",
-            "A misleading concept regarding catastrophe perils in india.",
-            "A precise explanation of catastrophe perils in india with a practical application.",
-            "An incomplete interpretation of catastrophe perils in india."
-        ],
+        "question": "What type of reinsurance is most effective for handling catastrophe exposures?",
+        "options": ["Quota Share Treaty", "Surplus Treaty", "Excess of Loss Reinsurance", "Facultative Reinsurance"],
         "correctIndex": 2
     },
     {
-        "question": "Which of the following best describes the application of 'Treaty reinsurance' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of treaty reinsurance.",
-            "A misleading concept regarding treaty reinsurance.",
-            "A vague explanation of treaty reinsurance unrelated to insurance practices.",
-            "A precise explanation of treaty reinsurance with a practical application."
-        ],
-        "correctIndex": 3
+        "question": "What is the key objective of reinsurance arrangements?",
+        "options": ["To maximize insurer profits", "To widen risk distribution and limit liability", "To simplify claim settlement processes", "To increase policyholder premiums"],
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Facultative reinsurance' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of facultative reinsurance.",
-            "A misleading concept regarding facultative reinsurance.",
-            "A precise explanation of facultative reinsurance with a practical application.",
-            "A vague explanation of facultative reinsurance unrelated to insurance practices."
-        ],
-        "correctIndex": 2
+        "question": "What does the burning cost method calculate?",
+        "options": ["The loss ratio for claims processing", "The premium required for excess of loss cover", "The cost of reinsuring small risks", "The total claims processed annually"],
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Corporate governance in underwriting' in insurance practices?",
-        "options": [
-            "A vague explanation of corporate governance in underwriting unrelated to insurance practices.",
-            "A misleading concept regarding corporate governance in underwriting.",
-            "An incomplete interpretation of corporate governance in underwriting.",
-            "A precise explanation of corporate governance in underwriting with a practical application."
-        ],
-        "correctIndex": 3
+        "question": "What is the primary purpose of CRESTA standards?",
+        "options": ["To establish global premium rates", "To standardize risk accumulation data and reporting", "To develop new reinsurance treaties", "To enforce local insurance laws"],
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Regulations in fire insurance underwriting' in insurance practices?",
-        "options": [
-            "A precise explanation of regulations in fire insurance underwriting with a practical application.",
-            "A vague explanation of regulations in fire insurance underwriting unrelated to insurance practices.",
-            "A misleading concept regarding regulations in fire insurance underwriting.",
-            "An incomplete interpretation of regulations in fire insurance underwriting."
-        ],
+        "question": "What does the term 'net retention capacity' refer to?",
+        "options": ["The maximum risk an insurer keeps for itself", "The total premium collected by an insurer", "The percentage of claims reinsured", "The amount ceded to reinsurers"],
         "correctIndex": 0
     },
     {
-        "question": "Which of the following best describes the application of 'Quota Share Treaty' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of quota share treaty.",
-            "A misleading concept regarding quota share treaty.",
-            "A vague explanation of quota share treaty unrelated to insurance practices.",
-            "A precise explanation of quota share treaty with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Class-wise distribution of risks' in insurance practices?",
-        "options": [
-            "An incomplete interpretation of class-wise distribution of risks.",
-            "A precise explanation of class-wise distribution of risks with a practical application.",
-            "A vague explanation of class-wise distribution of risks unrelated to insurance practices.",
-            "A misleading concept regarding class-wise distribution of risks."
-        ],
+        "question": "What is a major drawback of overestimating PML?",
+        "options": ["Increased risk exposure", "Reduced capacity utilization", "Higher claim payouts", "Non-compliance with regulations"],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Objectives of underwriting' in insurance practices?",
-        "options": [
-            "A vague explanation of objectives of underwriting unrelated to insurance practices.",
-            "A precise explanation of objectives of underwriting with a practical application.",
-            "A misleading concept regarding objectives of underwriting.",
-            "An incomplete interpretation of objectives of underwriting."
-        ],
+        "question": "What is an example of a non-proportional reinsurance treaty?",
+        "options": ["Quota Share Treaty", "Facultative Reinsurance", "Excess of Loss Treaty", "Surplus Treaty"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What type of risks are classified as 'Listed Risks' in India?",
+        "options": ["Risks with a PML greater than Rs. 26 crores", "Risks involving catastrophic hazards only", "Policies with no prior claims history", "Small and medium-sized risks"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does a 'per event loss limit' in reinsurance aim to do?",
+        "options": ["Cap losses from a single catastrophic event", "Spread risks across multiple reinsurers", "Eliminate premium sharing for specific policies", "Ensure all claims are processed simultaneously"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the primary purpose of the Indian Fire Reinsurance Programme?",
+        "options": ["To reduce foreign exchange outflow", "To create new insurance policies", "To standardize claim payouts", "To eliminate underwriting risks"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the purpose of a 'Market Fire Pool' in reinsurance?",
+        "options": ["To redistribute medium-sized risks across companies", "To process claims faster", "To avoid high-risk policies", "To eliminate catastrophe claims"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What distinguishes proportional treaties from non-proportional treaties?",
+        "options": ["Proportional treaties share risks and premiums proportionally", "Non-proportional treaties always cover small risks", "Proportional treaties exclude high-risk policies", "Non-proportional treaties are mandatory for all insurers"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the 'File and Use' guideline require insurers to do?",
+        "options": ["Develop new premium calculation methods", "File underwriting policies with IRDA before product use", "Submit claims reports quarterly", "Eliminate risk assessments"],
         "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Non-proportional treaties' in insurance practices?",
-        "options": [
-            "A misleading concept regarding non-proportional treaties.",
-            "An incomplete interpretation of non-proportional treaties.",
-            "A vague explanation of non-proportional treaties unrelated to insurance practices.",
-            "A precise explanation of non-proportional treaties with a practical application."
-        ],
-        "correctIndex": 3
+        "question": "What does 'individual-rated products' mean in underwriting?",
+        "options": ["Policies based on group risk evaluations", "Policies customized for specific clients or exposures", "Policies with fixed premiums for all risks", "Policies that are not regulated by IRDA"],
+        "correctIndex": 1
     },
     {
-        "question": "Which of the following best describes the application of 'Fixing of retention limits' in insurance practices?",
-        "options": [
-            "A vague explanation of fixing of retention limits unrelated to insurance practices.",
-            "A misleading concept regarding fixing of retention limits.",
-            "An incomplete interpretation of fixing of retention limits.",
-            "A precise explanation of fixing of retention limits with a practical application."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "Which of the following best describes the application of 'Definition of PML (Probable Maximum Loss)' in insurance practices?",
-        "options": [
-            "A vague explanation of definition of pml (probable maximum loss) unrelated to insurance practices.",
-            "A misleading concept regarding definition of pml (probable maximum loss).",
-            "An incomplete interpretation of definition of pml (probable maximum loss).",
-            "A precise explanation of definition of pml (probable maximum loss) with a practical application."
-        ],
-        "correctIndex": 3
+        "question": "What is a core principle of corporate governance in underwriting?",
+        "options": ["Avoiding underwriting profits", "Delegating underwriting decisions without supervision", "Board oversight on underwriting philosophy and policies", "Eliminating reinsurance arrangements"],
+        "correctIndex": 2
     }
 ]

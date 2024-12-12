@@ -1,252 +1,127 @@
 [
     {
-        "question": "What does 'Details about proposer in a proposal form' refer to?",
-        "options": [
-            "General guidelines unrelated to details about proposer in a proposal form.",
-            "Explanation about details about proposer in a proposal form.",
-            "An unrelated topic to details about proposer in a proposal form.",
-            "A technical term not concerning details about proposer in a proposal form."
-        ],
+        "question": "What is the first step to obtain any insurance?",
+        "options": ["Submitting a completed proposal form", "Paying the premium", "Receiving the policy document", "Undergoing risk inspection"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What does the Fire Proposal form note state?",
+        "options": ["Insurance starts once the form is filled", "Property is not covered until proposal acceptance and premium payment", "Insurance begins upon risk inspection", "Premium payment is optional"],
         "correctIndex": 1
     },
     {
-        "question": "What does 'Role of housekeeping in insurance risk management' refer to?",
-        "options": [
-            "A technical term not concerning role of housekeeping in insurance risk management.",
-            "General guidelines unrelated to role of housekeeping in insurance risk management.",
-            "Explanation about role of housekeeping in insurance risk management.",
-            "An unrelated topic to role of housekeeping in insurance risk management."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Impact of the Insurance Act 1938 on proposal processing' refer to?",
-        "options": [
-            "General guidelines unrelated to impact of the insurance act 1938 on proposal processing.",
-            "An unrelated topic to impact of the insurance act 1938 on proposal processing.",
-            "A technical term not concerning impact of the insurance act 1938 on proposal processing.",
-            "Explanation about impact of the insurance act 1938 on proposal processing."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What does 'Purpose of renewal notices in insurance policies' refer to?",
-        "options": [
-            "A technical term not concerning purpose of renewal notices in insurance policies.",
-            "Explanation about purpose of renewal notices in insurance policies.",
-            "General guidelines unrelated to purpose of renewal notices in insurance policies.",
-            "An unrelated topic to purpose of renewal notices in insurance policies."
-        ],
+        "question": "What detail is NOT required in the proposal form about the proposer?",
+        "options": ["Name and address", "Favorite color", "Paid-up capital of the firm", "Business of proposer"],
         "correctIndex": 1
     },
     {
-        "question": "What does 'Process of drafting a policy' refer to?",
-        "options": [
-            "General guidelines unrelated to process of drafting a policy.",
-            "Explanation about process of drafting a policy.",
-            "An unrelated topic to process of drafting a policy.",
-            "A technical term not concerning process of drafting a policy."
-        ],
+        "question": "What type of insurance value is covered for buildings?",
+        "options": ["Market value or reinstatement value", "Appraisal value", "Government-assessed value", "Estimated future value"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is included under 'Details of Property' in the proposal form?",
+        "options": ["Type of property", "Owner's hobbies", "Monthly utility bill", "Travel history"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Who prepares the Risk Inspection Report?",
+        "options": ["Insurer's engineers", "Proposer", "Policyholder", "Government officials"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is a primary objective of the Risk Inspection Report?",
+        "options": ["To fix reinsurance policies", "To determine premium rates", "To calculate taxes", "To assess climate conditions"],
         "correctIndex": 1
     },
     {
-        "question": "What does 'Differences between cover note and final policy' refer to?",
-        "options": [
-            "General guidelines unrelated to differences between cover note and final policy.",
-            "Explanation about differences between cover note and final policy.",
-            "An unrelated topic to differences between cover note and final policy.",
-            "A technical term not concerning differences between cover note and final policy."
-        ],
+        "question": "What is assessed under 'Lighting, Heating, and Power' in the risk inspection report?",
+        "options": ["Electrical installations", "Natural light exposure", "Weather conditions", "Power usage efficiency"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which clause binds the proposer to policy terms in a cover note?",
+        "options": ["Operative clause", "Risk clause", "Value clause", "Non-binding clause"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is included in the 'Declaration Clause' of the proposal form?",
+        "options": ["True statements form the contract basis", "Premium calculations", "Property valuation", "Risk approval"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which type of protection device is NOT mentioned in the chapter?",
+        "options": ["Portable extinguishers", "Automatic fire drones", "Fire engines", "Hydrant systems"],
         "correctIndex": 1
     },
     {
-        "question": "What does 'Role of inspection engineers in assessing risks' refer to?",
-        "options": [
-            "Explanation about role of inspection engineers in assessing risks.",
-            "General guidelines unrelated to role of inspection engineers in assessing risks.",
-            "An unrelated topic to role of inspection engineers in assessing risks.",
-            "A technical term not concerning role of inspection engineers in assessing risks."
-        ],
+        "question": "What is a cover note used for?",
+        "options": ["Temporary evidence of insurance", "Final insurance document", "Tax assessment", "Inspection approvals"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Coverage in a fire insurance policy proposal form' refer to?",
-        "options": [
-            "A technical term not concerning coverage in a fire insurance policy proposal form.",
-            "An unrelated topic to coverage in a fire insurance policy proposal form.",
-            "Explanation about coverage in a fire insurance policy proposal form.",
-            "General guidelines unrelated to coverage in a fire insurance policy proposal form."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Fire protection devices and systems' refer to?",
-        "options": [
-            "A technical term not concerning fire protection devices and systems.",
-            "An unrelated topic to fire protection devices and systems.",
-            "General guidelines unrelated to fire protection devices and systems.",
-            "Explanation about fire protection devices and systems."
-        ],
+        "question": "Which is NOT a detail included in the Acceptance cum Receipt?",
+        "options": ["Policy number", "Agent code", "Property location", "Proposer's age"],
         "correctIndex": 3
     },
     {
-        "question": "What does 'Factors affecting premium determination' refer to?",
-        "options": [
-            "An unrelated topic to factors affecting premium determination.",
-            "General guidelines unrelated to factors affecting premium determination.",
-            "Explanation about factors affecting premium determination.",
-            "A technical term not concerning factors affecting premium determination."
-        ],
+        "question": "What does the policy schedule NOT include?",
+        "options": ["Policy number", "Sum insured", "Insurer's favorite color", "Premium rates"],
         "correctIndex": 2
     },
     {
-        "question": "What does 'Definition and significance of endorsements' refer to?",
-        "options": [
-            "Explanation about definition and significance of endorsements.",
-            "A technical term not concerning definition and significance of endorsements.",
-            "General guidelines unrelated to definition and significance of endorsements.",
-            "An unrelated topic to definition and significance of endorsements."
-        ],
+        "question": "What is the purpose of the operative clause in a cover note?",
+        "options": ["To outline policy terms", "To issue premium refunds", "To describe penalties", "To highlight exclusions"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Meaning of declaration clause in a proposal form' refer to?",
-        "options": [
-            "An unrelated topic to meaning of declaration clause in a proposal form.",
-            "A technical term not concerning meaning of declaration clause in a proposal form.",
-            "Explanation about meaning of declaration clause in a proposal form.",
-            "General guidelines unrelated to meaning of declaration clause in a proposal form."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Examples of endorsements in insurance policies' refer to?",
-        "options": [
-            "Explanation about examples of endorsements in insurance policies.",
-            "A technical term not concerning examples of endorsements in insurance policies.",
-            "An unrelated topic to examples of endorsements in insurance policies.",
-            "General guidelines unrelated to examples of endorsements in insurance policies."
-        ],
+        "question": "What information is critical for risk description in policy drafting?",
+        "options": ["Construction materials used", "Annual travel expenses", "Proposer's leisure activities", "Weather conditions"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Examples of special clauses in insurance policies' refer to?",
-        "options": [
-            "An unrelated topic to examples of special clauses in insurance policies.",
-            "General guidelines unrelated to examples of special clauses in insurance policies.",
-            "A technical term not concerning examples of special clauses in insurance policies.",
-            "Explanation about examples of special clauses in insurance policies."
-        ],
+        "question": "What does the FEA warranty ensure?",
+        "options": ["Fire extinguishing appliances meet standards", "Discounts on all premiums", "Automatic claim approvals", "No fire accidents occur"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which type of endorsement is NOT common?",
+        "options": ["Change in property address", "Adding a bank's interest", "Altering risk", "Waiving all premiums"],
         "correctIndex": 3
     },
     {
-        "question": "What does 'Warranties and clauses in fire insurance policies' refer to?",
-        "options": [
-            "General guidelines unrelated to warranties and clauses in fire insurance policies.",
-            "An unrelated topic to warranties and clauses in fire insurance policies.",
-            "Explanation about warranties and clauses in fire insurance policies.",
-            "A technical term not concerning warranties and clauses in fire insurance policies."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Description of block-wise risk assessment' refer to?",
-        "options": [
-            "An unrelated topic to description of block-wise risk assessment.",
-            "General guidelines unrelated to description of block-wise risk assessment.",
-            "Explanation about description of block-wise risk assessment.",
-            "A technical term not concerning description of block-wise risk assessment."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Role of the Tariff Advisory Committee' refer to?",
-        "options": [
-            "Explanation about role of the tariff advisory committee.",
-            "General guidelines unrelated to role of the tariff advisory committee.",
-            "An unrelated topic to role of the tariff advisory committee.",
-            "A technical term not concerning role of the tariff advisory committee."
-        ],
+        "question": "What is the purpose of renewal notices?",
+        "options": ["To remind about policy expiry", "To enforce legal requirements", "To highlight unpaid claims", "To revise coverage"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Importance of moral hazard assessment' refer to?",
-        "options": [
-            "An unrelated topic to importance of moral hazard assessment.",
-            "General guidelines unrelated to importance of moral hazard assessment.",
-            "Explanation about importance of moral hazard assessment.",
-            "A technical term not concerning importance of moral hazard assessment."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Key elements of a policy schedule' refer to?",
-        "options": [
-            "A technical term not concerning key elements of a policy schedule.",
-            "An unrelated topic to key elements of a policy schedule.",
-            "General guidelines unrelated to key elements of a policy schedule.",
-            "Explanation about key elements of a policy schedule."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What does 'Details of sum insured in a proposal form' refer to?",
-        "options": [
-            "General guidelines unrelated to details of sum insured in a proposal form.",
-            "A technical term not concerning details of sum insured in a proposal form.",
-            "An unrelated topic to details of sum insured in a proposal form.",
-            "Explanation about details of sum insured in a proposal form."
-        ],
-        "correctIndex": 3
-    },
-    {
-        "question": "What does 'Importance of risk improvement suggestions' refer to?",
-        "options": [
-            "Explanation about importance of risk improvement suggestions.",
-            "An unrelated topic to importance of risk improvement suggestions.",
-            "A technical term not concerning importance of risk improvement suggestions.",
-            "General guidelines unrelated to importance of risk improvement suggestions."
-        ],
+        "question": "What does the inspection report assess about machinery?",
+        "options": ["Condition and age", "Color", "Ownership history", "Shipping costs"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Contents of a cover note' refer to?",
-        "options": [
-            "Explanation about contents of a cover note.",
-            "General guidelines unrelated to contents of a cover note.",
-            "A technical term not concerning contents of a cover note.",
-            "An unrelated topic to contents of a cover note."
-        ],
+        "question": "What is a common clause in fire insurance policies?",
+        "options": ["Construction warranty", "Travel clause", "Health requirements", "Tax exemptions"],
         "correctIndex": 0
     },
     {
-        "question": "What does 'Objective of risk inspection report' refer to?",
-        "options": [
-            "An unrelated topic to objective of risk inspection report.",
-            "General guidelines unrelated to objective of risk inspection report.",
-            "A technical term not concerning objective of risk inspection report.",
-            "Explanation about objective of risk inspection report."
-        ],
+        "question": "What does 'block description' in the schedule refer to?",
+        "options": ["Different property segments", "Property owner's hobbies", "Daily maintenance costs", "Estimated repairs"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What detail is included in 'Sum Insured' calculations?",
+        "options": ["Separate building values", "Proposer's earnings", "Environmental taxes", "Maintenance costs"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which is NOT a feature of housekeeping for risk management?",
+        "options": ["Tidiness", "Congestion", "Packing material storage", "Proposer's dietary habits"],
         "correctIndex": 3
     },
     {
-        "question": "What does 'Details of property in a proposal form' refer to?",
-        "options": [
-            "An unrelated topic to details of property in a proposal form.",
-            "A technical term not concerning details of property in a proposal form.",
-            "Explanation about details of property in a proposal form.",
-            "General guidelines unrelated to details of property in a proposal form."
-        ],
-        "correctIndex": 2
-    },
-    {
-        "question": "What does 'Scope of a risk inspection report' refer to?",
-        "options": [
-            "An unrelated topic to scope of a risk inspection report.",
-            "Explanation about scope of a risk inspection report.",
-            "A technical term not concerning scope of a risk inspection report.",
-            "General guidelines unrelated to scope of a risk inspection report."
-        ],
-        "correctIndex": 1
+        "question": "What is mentioned about moral hazard in the inspection report?",
+        "options": ["General observations on respectability", "Exact financial earnings", "Company's advertising strategy", "Employee recreational habits"],
+        "correctIndex": 0
     }
 ]
